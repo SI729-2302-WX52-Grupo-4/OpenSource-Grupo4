@@ -1,5 +1,5 @@
 
-<h1># Capítulo 1 - Introducción	</h1>
+<h1># Capítulo 1 - Introducción</h1>
 ## 1.1.	Startup Profile
 ### 1.1.1. Descripción de la Startup
 Somos Tutor'sMe, un startup fundado por un grupo de estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra misión es ofrecer oportunidades laborales a profesionales que están en búsqueda de una posición adecuada. A través de nuestra plataforma, conectamos a los profesores con las mejores ofertas educativas que se adapten a sus preferencias y habilidades, facilitando así su búsqueda de empleo de manera eficiente y efectiva.
