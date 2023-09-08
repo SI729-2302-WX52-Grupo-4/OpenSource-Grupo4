@@ -25,7 +25,7 @@ Tutor'sMe es un proyecto destinado a abordar desafíos educativos en Perú. Tant
 **Problem Statement 1:** Acceso Limitado a Clases de Calidad
 En el entorno actual, los estudiantes en Perú enfrentan dificultades para acceder a clases de alta calidad a precios asequibles. La falta de una plataforma eficiente para conectar a profesores calificados limita sus opciones educativas y restringe su desarrollo de habilidades.
 
-Problem Statement 2: Dificultad para Encontrar Profesores Calificados
+**Problem Statement 2:** Dificultad para Encontrar Profesores Calificados
 Los profesores en Perú luchan por promocionar sus habilidades y encontrar estudiantes interesados en sus clases. La falta de una plataforma clara para la búsqueda de profesores dificulta su capacidad para llegar a un público más amplio.
 
 Problem Statement 3: Necesidad de una Plataforma Eficiente de Conexión
