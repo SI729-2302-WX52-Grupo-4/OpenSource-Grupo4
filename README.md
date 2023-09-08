@@ -22,6 +22,9 @@ Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor.
 ##### 1.2.2.1 Lean UX Problem Statements
 ##### 1.2.2.2 Lean UX Assumptions
 ##### 1.2.2.3 Lean UX Hypothesis Statement
+Creemos firmemente que una plataforma capaz de filtrar las mejores oportunidades laborales para nuestros docentes sin empleo, tiene el potencial de reducir significativamente la tasa de desempleo en nuestro país. Esta creencia se basa en la suposición de que la gran mayoría de personas mayores de 18 años poseen dispositivos con acceso a internet, un requisito esencial tanto para utilizar nuestra plataforma como para recibir notificaciones importantes en sus correos electrónicos. Nuestra confianza en esta suposición se fundamenta en datos del INEI (2020), que informan que el 62.9% de los hogares en Lima Metropolitana disponen de acceso a la red.
+
+Mediremos nuestro éxito en función de dos indicadores clave. Primero, consideraremos que hemos tenido un impacto positivo si logramos reducir el tiempo promedio de desempleo a tan solo 1.5 semanas. Segundo, establecemos como un hito importante alcanzar un registro de no menos de 500 usuarios activos en los primeros dos meses de operación de la plataforma. Estos indicadores nos servirán como métricas claras para evaluar el impacto y el alcance de nuestro servicio.
 ##### 1.2.2.4 Lean UX Canvas
 # Capítulo 2 - Requirement Elicitation and Analysis
 ## 2. Entrevistas
