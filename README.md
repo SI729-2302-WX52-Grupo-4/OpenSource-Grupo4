@@ -104,6 +104,25 @@ prueba
 - ¿Qué características u opciones considerarías necesarias en una plataforma que provee de contactos para clases particulares?
 - ¿Qué funcionalidad crees que necesita nuestro programa para retener la actividad de los alumnos en la página?
 
+#### 2.3.1 User Persona
+#### 2.3.2 User Task Matrix
+
+| Tarea \ Usuario              | Estudiantes (Frecuencia/Importancia) | Profesores (Frecuencia/Importancia) |
+|------------------------------|-------------------------------------|-----------------------------------|
+| Registrarse                  | Alta / Alta                         | Baja / Media                      |
+| Buscar un Tutor              | Alta / Alta                         | Media / Alta                      |
+| Programar Clase              | Alta / Alta                         | Alta / Alta                       |
+| Acceder a Materiales         | Alta / Media                        | Media / Alta                      |
+| Realizar Pago                | Alta / Baja                         | Baja / Baja                       |
+| Calificar al Profesor        | Media / Alta                        | Media / Alta                      |
+| Gestionar Perfil             | Media / Alta                        | Alta / Alta                       |
+| Comunicarse con el Tutor     | Alta / Alta                         | Alta / Alta                       |
+| Buscar Clases por Tema       | Alta / Alta                         | Media / Alta                      |
+
+
+#### 2.3.3 User Journey Mapping 
+#### 2.3.4 Empathy Mapping 
+#### 2.3.5 As-Is Scenario Mapping
 #### 2.3.5 As-Is Scenario Mapping
 
 | Fases | Crear cuenta | Buscar profesores en la plataforma | Elegir al profesor ideal |  Publicar anuncios sobre clases |
