@@ -32,6 +32,23 @@ Los profesores en Perú luchan por promocionar sus habilidades y encontrar estud
 La falta de una plataforma eficiente para conectar a profesores y estudiantes peruanos impide la creación de oportunidades de enseñanza y aprendizaje efectivas. Esto limita el acceso a una educación de calidad y restringe el crecimiento educativo y profesional en el país.
 
 ##### 1.2.2.2 Lean UX Assumptions
+Creemos que los clientes necesitan plataforma que facilite la comunicación entre docentes y alumnos, lo cual promoverá la contratación de docentes en la aplicación y ayudará a los estudiantes deseosos de mejorar. La aplicación brindará un organizado servicio de seguimiento de clases, evaluaciones y posibles tareas.
+- Estas necesidades se pueden resolver con una plataforma atractiva, que simplifique la gestión de tareas y evaluaciones; Además de que promueva la comunicación entra docentes y alumnos.
+- El público objetivo son partícipes del sistema educativo y son personas interesadas en lo académico.
+- Los alumnos pueden calificar a los docentes después de ser partícipes de sus clases.
+- Nuestra competencia principal son otras aplicaciones que ofrecen cursos en línea y canales educativos de internet.
+- Los venceremos gracias al sistema de retroalimentación y seguimiento personalizado de la aplicación.
+- El mayor riesgo del producto es la fiabilidad de los docentes partícipes de la aplicación.
+- Lo resolveremos con un sistema de registro riguroso que requiera cierto tipo de certificación docente.
+
+Features:
+- El sistema de retroalimentación y seguimiento de docentes a alumnos será intuitivo, sencillo y motivador.
+- El alumno podrá dejar recomendaciones anónimas al docente para mejorar su servicio.
+- El docente podrá compartir recursos académicos relevantes con sus alumnos.
+- Los alumnos podrán obtener ofertas por la contratación de un docente por tiempos prolongados (más de 3 meses).
+- Los alumnos pueden revisar el perfil del docente para evaluar su recorrido profesional, calificación de sus estudiantes y otras cuentas de redes sociales.
+- Los docentes pueden personalizar su perfil con sus logros, campos de estudio y redes sociales.
+
 ##### 1.2.2.3 Lean UX Hypothesis Statement
 Creemos firmemente que una plataforma capaz de filtrar las mejores oportunidades laborales para nuestros docentes sin empleo, tiene el potencial de reducir significativamente la tasa de desempleo en nuestro país. Esta creencia se basa en la suposición de que la gran mayoría de personas mayores de 18 años poseen dispositivos con acceso a internet, un requisito esencial tanto para utilizar nuestra plataforma como para recibir notificaciones importantes en sus correos electrónicos. Nuestra confianza en esta suposición se fundamenta en datos del INEI (2020), que informan que el 62.9% de los hogares en Lima Metropolitana disponen de acceso a la red.
 
@@ -41,6 +58,17 @@ Mediremos nuestro éxito en función de dos indicadores clave. Primero, consider
 # Capítulo 2 - Requirement Elicitation and Analysis
 ## 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
+
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+![img_5.png](img_5.png)
+![img_6.png](img_6.png)
+![img_7.png](img_7.png)
+![img_8.png](img_8.png)
+![img_9.png](img_9.png)
+![img_10.png](img_10.png)
+![img_11.png](img_11.png)
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 1)	Excelencia en la Calidad de Datos:
 ## a) Tácticas:
@@ -128,9 +156,9 @@ prueba
 
 | Fases | Crear cuenta | Buscar profesores en la plataforma | Elegir al profesor ideal |  Publicar anuncios sobre clases |
 |--|--|--|--|--|
-| Doing | - Ingresar mis datos personales y elegir para qué utilizaré la plataforma | - Selecciono el curso y los temas que deseo llevar | - Reviso el perfil del profesor, analizando su introducción, descripción de las clases y costo por hora | - Elijo los cursos y los temas que deseo dictar. Además, incluyo información sobre dichas clases, como la metodología y el precio por hora
-| Thinking | - Se pregunta si la plataforma le brindará los temas y docentes que necesita | - Se pregunta si encontrará algún profesor que se adapte a sus horarios y temas de estudio | - Se pregunta qué tipo de profesor es el adecuado según su perfil y clases que ofrece | - Se pregunta si habrá usuarios que soliciten sus clases
-| Feeling | - Se siente nervioso porque es su primera vez buscando tutores privados online | - Se siente dudoso sobre si podrá encontrar un tutor que maneje el tema y horario adecuados | - Se siente aliviado al ver la variedad de profesores y metodologías que puede elegir | - Se siente contento porque podrá tener un ingreso extra con un horario flexible
+| Doing | - Ingresar mis datos personales y elegir para qué utilizaré la plataforma | - Selecciono el curso y los temas que deseo llevar | - Reviso el perfil del profesor, analizando su introducción, descripción de las clases y costo por hora | - Elijo los cursos y los temas que deseo dictar. Además, incluyo información sobre dichas clases, como la metodología y el precio por hora|
+| Thinking | - Se pregunta si la plataforma le brindará los temas y docentes que necesita | - Se pregunta si encontrará algún profesor que se adapte a sus horarios y temas de estudio | - Se pregunta qué tipo de profesor es el adecuado según su perfil y clases que ofrece | - Se pregunta si habrá usuarios que soliciten sus clases|
+| Feeling | - Se siente nervioso porque es su primera vez buscando tutores privados online | - Se siente dudoso sobre si podrá encontrar un tutor que maneje el tema y horario adecuados | - Se siente aliviado al ver la variedad de profesores y metodologías que puede elegir | - Se siente contento porque podrá tener un ingreso extra con un horario flexible|
 # Capítulo 3 - Requirements Specification
 
 # Capítulo 4 - Product Design
