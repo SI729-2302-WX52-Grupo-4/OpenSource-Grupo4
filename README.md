@@ -20,6 +20,16 @@ Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor.
 #### 1.2.1 Antecedentes y Problemática
 #### 1.2.2 Lean UX Process
 ##### 1.2.2.1 Lean UX Problem Statements
+Tutor'sMe es un proyecto destinado a abordar desafíos educativos en Perú. Tanto los profesores que buscan ofrecer sus conocimientos como los estudiantes en busca de oportunidades de aprendizaje se enfrentan a una problemática común. La falta de una plataforma eficiente para conectar a ambas partes limita el acceso a clases de alta calidad a precios asequibles. Esto se debe en gran parte a la falta de competencia y a la ausencia de un sistema claro para encontrar profesores calificados. Los estudiantes tienen dificultades para identificar y elegir a los profesores adecuados para sus necesidades educativas, mientras que los profesores luchan por promocionar sus habilidades y encontrar estudiantes interesados. Esta situación plantea un desafío significativo, ya que limita la capacidad de los estudiantes para acceder a una educación de calidad y dificulta a los profesores encontrar oportunidades para compartir su conocimiento. Nuestro proyecto se centra en la creación de una plataforma que aborde la problemática de la falta de acceso a clases de calidad y la dificultad para encontrar oportunidades de enseñanza en Perú, lo que beneficiará tanto a los estudiantes como a los profesores y contribuirá al desarrollo educativo y profesional en el país.
+
+Problem Statement 1: Acceso Limitado a Clases de Calidad
+En el entorno actual, los estudiantes en Perú enfrentan dificultades para acceder a clases de alta calidad a precios asequibles. La falta de una plataforma eficiente para conectar a profesores calificados limita sus opciones educativas y restringe su desarrollo de habilidades.
+
+Problem Statement 2: Dificultad para Encontrar Profesores Calificados
+Los profesores en Perú luchan por promocionar sus habilidades y encontrar estudiantes interesados en sus clases. La falta de una plataforma clara para la búsqueda de profesores dificulta su capacidad para llegar a un público más amplio.
+
+Problem Statement 3: Necesidad de una Plataforma Eficiente de Conexión
+La falta de una plataforma eficiente para conectar a profesores y estudiantes peruanos impide la creación de oportunidades de enseñanza y aprendizaje efectivas. Esto limita el acceso a una educación de calidad y restringe el crecimiento educativo y profesional en el país.
 ##### 1.2.2.2 Lean UX Assumptions
 ##### 1.2.2.3 Lean UX Hypothesis Statement
 Creemos firmemente que una plataforma capaz de filtrar las mejores oportunidades laborales para nuestros docentes sin empleo, tiene el potencial de reducir significativamente la tasa de desempleo en nuestro país. Esta creencia se basa en la suposición de que la gran mayoría de personas mayores de 18 años poseen dispositivos con acceso a internet, un requisito esencial tanto para utilizar nuestra plataforma como para recibir notificaciones importantes en sus correos electrónicos. Nuestra confianza en esta suposición se fundamenta en datos del INEI (2020), que informan que el 62.9% de los hogares en Lima Metropolitana disponen de acceso a la red.
