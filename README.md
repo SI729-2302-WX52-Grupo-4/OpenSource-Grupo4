@@ -1,5 +1,19 @@
-asdadadads
 # Capítulo 1 - Introducción
+##1.1.	Startup Profile
+###1.1.1. Descripción de la Startup
+Somos Tutor'sMe, un startup fundado por un grupo de estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra misión es ofrecer oportunidades laborales a profesionales que están en búsqueda de una posición adecuada. A través de nuestra plataforma, conectamos a los profesores con las mejores ofertas educativas que se adapten a sus preferencias y habilidades, facilitando así su búsqueda de empleo de manera eficiente y efectiva.
+**Misión:**
+La misión de Tutor'sMe es contribuir a combatir el desempleo en el país, conectando a profesores desempleados con oportunidades laborales acordes a sus capacidades y preferencias de trabajo.
+**Visión:**
+La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de llegar a más personas que necesiten empleo, al mismo tiempo que asistimos a las empresas en la búsqueda del talento adecuado según sus requisitos.
+**Valores:**
+•	Responsabilidad social
+•	Valor por el aprendizaje
+•	Orientación al cliente
+•	Transparencia
+•	Diferencia
+•	Pasión
+
 ### 1.2 Solution  Profile
 
 Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor. De esta forma, estaremos promoviendo la creación de empleo en el país al dar una plataforma a los docentes a la vez que ayudaremos a los jóvenes estudiantes con sus estudios. Nosotros seremos los encargados de registrar a los profesores para que den a conocer su metodología y temas para las clases. De este modo, los alumnos tendrán mayor oportunidad de encontrar al maestro adecuado. `
