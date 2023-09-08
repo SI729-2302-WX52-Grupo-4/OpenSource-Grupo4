@@ -28,7 +28,7 @@ En el entorno actual, los estudiantes en Perú enfrentan dificultades para acced
 **Problem Statement 2:** Dificultad para Encontrar Profesores Calificados
 Los profesores en Perú luchan por promocionar sus habilidades y encontrar estudiantes interesados en sus clases. La falta de una plataforma clara para la búsqueda de profesores dificulta su capacidad para llegar a un público más amplio.
 
-Problem Statement 3: Necesidad de una Plataforma Eficiente de Conexión
+**Problem Statement 3:** Necesidad de una Plataforma Eficiente de Conexión
 La falta de una plataforma eficiente para conectar a profesores y estudiantes peruanos impide la creación de oportunidades de enseñanza y aprendizaje efectivas. Esto limita el acceso a una educación de calidad y restringe el crecimiento educativo y profesional en el país.
 
 ##### 1.2.2.2 Lean UX Assumptions
