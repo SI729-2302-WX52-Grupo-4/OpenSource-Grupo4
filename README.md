@@ -16,7 +16,7 @@ La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de 
 
 ### 1.2 Solution  Profile
 
-Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor. De esta forma, estaremos promoviendo la creación de empleo en el país al dar una plataforma a los docentes a la vez que ayudaremos a los jóvenes estudiantes con sus estudios. Nosotros seremos los encargados de registrar a los profesores para que den a conocer su metodología y temas para las clases. De este modo, los alumnos tendrán mayor oportunidad de encontrar al maestro adecuado. `
+Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor. De esta forma, estaremos promoviendo la creación de empleo en el país al dar una plataforma a los docentes a la vez que ayudaremos a los jóvenes estudiantes con sus estudios. Nosotros seremos los encargados de registrar a los profesores para que den a conocer su metodología y temas para las clases. De este modo, los alumnos tendrán mayor oportunidad de poder encontrar al maestro adecuado. `
 #### 1.2.1 Antecedentes y Problemática
 #### 1.2.2 Lean UX Process
 ##### 1.2.2.1 Lean UX Problem Statements
