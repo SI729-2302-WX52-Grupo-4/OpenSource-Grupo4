@@ -30,6 +30,7 @@ Los profesores en Perú luchan por promocionar sus habilidades y encontrar estud
 
 Problem Statement 3: Necesidad de una Plataforma Eficiente de Conexión
 La falta de una plataforma eficiente para conectar a profesores y estudiantes peruanos impide la creación de oportunidades de enseñanza y aprendizaje efectivas. Esto limita el acceso a una educación de calidad y restringe el crecimiento educativo y profesional en el país.
+
 ##### 1.2.2.2 Lean UX Assumptions
 ##### 1.2.2.3 Lean UX Hypothesis Statement
 Creemos firmemente que una plataforma capaz de filtrar las mejores oportunidades laborales para nuestros docentes sin empleo, tiene el potencial de reducir significativamente la tasa de desempleo en nuestro país. Esta creencia se basa en la suposición de que la gran mayoría de personas mayores de 18 años poseen dispositivos con acceso a internet, un requisito esencial tanto para utilizar nuestra plataforma como para recibir notificaciones importantes en sus correos electrónicos. Nuestra confianza en esta suposición se fundamenta en datos del INEI (2020), que informan que el 62.9% de los hogares en Lima Metropolitana disponen de acceso a la red.
