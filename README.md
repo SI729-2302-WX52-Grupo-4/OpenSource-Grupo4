@@ -1,15 +1,22 @@
 
-## 1.2 Solution  Profile
+# Capítulo 1 - Introducción
+### 1.2 Solution  Profile
 
 Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor. De esta forma, estaremos promoviendo la creación de empleo en el país al dar una plataforma a los docentes a la vez que ayudaremos a los jóvenes estudiantes con sus estudios. Nosotros seremos los encargados de registrar a los profesores para que den a conocer su metodología y temas para las clases. De este modo, los alumnos tendrán mayor oportunidad de encontrar al maestro adecuado. `
+#### 1.2.1 Antecedentes y Problemática
+#### 1.2.2 Lean UX Process
+##### 1.2.2.1 Lean UX Problem Statements
+##### 1.2.2.2 Lean UX Assumptions
+##### 1.2.2.3 Lean UX Hypothesis Statement
+##### 1.2.2.4 Lean UX Canvas
+# Capítulo 2 - Requirement Elicitation and Analysis
+## 2. Entrevistas
 
-# 2. Entrevistas
+
+### 2.1 Diseño de entrevistas
 
 
-## 2.1 Diseño de entrevistas
-
-
-### Profesores:
+#### Profesores:
 
 - ¿Cuál es su nombre, edad?
 - ¿Cuál es tu nivel de educación?
@@ -26,7 +33,7 @@ Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor.
 - ¿Qué dificultades has enfrentado para encontrar nuevos alumnos?
 - ¿Qué expectativas tienes sobre una plataforma que facilite encontrar potenciales alumnos?
 
-### Alumnos:
+#### Alumnos:
 
 - ¿Cuál es su nombre y grado educativo?
 - ¿Cuántos cursos llevas estudiando actualmente?
@@ -44,10 +51,32 @@ Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor.
 - ¿Qué características u opciones considerarías necesarias en una plataforma que provee de contactos para clases particulares?
 - ¿Qué funcionalidad crees que necesita nuestro programa para retener la actividad de los alumnos en la página?
 
-### 2.3.5 As-Is Scenario Mapping
+#### 2.3.5 As-Is Scenario Mapping
 
 | Fases | Crear cuenta | Buscar profesores en la plataforma | Elegir al profesor ideal |  Publicar anuncios sobre clases |
 |--|--|--|--|--|
 | Doing | - Ingresar mis datos personales y elegir para qué utilizaré la plataforma | - Selecciono el curso y los temas que deseo llevar | - Reviso el perfil del profesor, analizando su introducción, descripción de las clases y costo por hora | - Elijo los cursos y los temas que deseo dictar. Además, incluyo información sobre dichas clases, como la metodología y el precio por hora
 | Thinking | - Se pregunta si la plataforma le brindará los temas y docentes que necesita | - Se pregunta si encontrará algún profesor que se adapte a sus horarios y temas de estudio | - Se pregunta qué tipo de profesor es el adecuado según su perfil y clases que ofrece | - Se pregunta si habrá usuarios que soliciten sus clases
 | Feeling | - Se siente nervioso porque es su primera vez buscando tutores privados online | - Se siente dudoso sobre si podrá encontrar un tutor que maneje el tema y horario adecuados | - Se siente aliviado al ver la variedad de profesores y metodologías que puede elegir | - Se siente contento porque podrá tener un ingreso extra con un horario flexible
+# Capítulo 3 - Requirements Specification
+
+# Capítulo 4 - Product Design
+### 4.1 Style Guidelines
+En esta sección se mostrarán los parámetros y estándares que se seguirán en el desarrollo de la aplicación web, evaluando así criterios de diseño y características que tendrá nuestra plataforma.
+#### 4.2.2. Labeling Systems
+Para las etiquetas de la plataforma utilizamos técnicas que representan el contenido de forma simple y clara. Para ello, definimos las siguientes características:
+- Títulos: con un promedio de entre 3 a 4 palabras, debemos mostrar la sección de forma clara para el fácil entendimiento del usuario.
+- Frases y slogans: con 15 palabras como máximo, buscamos generar un lazo emocional entre el usuario y nuestra aplicación web.
+- Descripciones: con un mínimo de 25 palabras, buscamos dar información más extensa y detallada.
+- Clases en la sección "Búsqueda": se debe escribir como mínimo 1 palabra para que recomiende los mejores resultados posibles a la búsqueda.
+
+A su vez, tenemos también las siguientes representaciones comúnes.
+- “Sign Up” permitirá crear una cuenta en la plataforma, donde el usuario podrá elegir el uso que le dará a la misma e introducirá su información personal y de contacto.
+- “Log In” permitirá el inicio de sesión en la plataforma.
+- “Recuperar Contraseña” permitirá recuperar la contraseña existente o cambiarla de ser necesario, a través de un correo electrónico o mensaje de texto como método de verificación.
+- “Perfil” incluirá la información registrada del perfil y la opción de modificar dichos datos.
+
+#### 4.3.1 Landing Page Wireframe
+[Link del Landing Page Wireframe en Google Fotos](https://photos.app.goo.gl/9Y6EhuH7Qx97d7Q4A)
+
+# Capítulo 5 - Product Implementation, Validation & Deployment
