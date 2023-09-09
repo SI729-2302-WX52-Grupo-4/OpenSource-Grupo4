@@ -17,7 +17,8 @@ La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de 
 
 - **Aaron Raizo Valdivia Kaneko - U202020152**
   Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software en UPC. Me gusta trabajar en equipo y tener la iniciativa para desarrollar las actividades pertinentes. Me gusta enforcarme en el ámbito de diseño UX, aunque también manejo C++, Python HTML y CSS.
-- 
+- **Giakomo Rodolfo Causso Mariano - U202118374**
+  Estoy cursando el 6to ciclo de la carrera de Ing. de  software. Me gusta el trabajo en equipo, por apoyar en lo necesario y trabajar de manera correcta con ganas de aprender. Soy una persona que quiere sacar lo mejor de si, se usar los lenguajes C++, Python, Java, SQL, CSS y HTML
 -
 - 
 - **Alessandro Alex Vega Paico - U201910225**
