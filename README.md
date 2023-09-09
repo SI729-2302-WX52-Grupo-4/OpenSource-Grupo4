@@ -15,10 +15,11 @@ La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de 
 - Pasión
 #### 1.1.2. Perfil de los integrantes 
 
+- **Aaron Raizo Valdivia Kaneko - U202020152**
+  Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software en UPC. Me gusta trabajar en equipo y tener la iniciativa para desarrollar las actividades pertinentes. Me gusta enforcarme en el ámbito de diseño UX, aunque también manejo C++, Python HTML y CSS.
+- 
 -
--
--
--
+- 
 - **Alessandro Alex Vega Paico - U201910225**
   Mi nombre es Alessandro Vega, actualmente estoy estudiando la carrera de ingeniería de software. Soy una persona perseverante en lo que hago y me gusta aprender cosas nuevas. A lo largo de la carrera, he adquirido conocimientos en C++, HTML, MatLab, como tambien en Angular y Vue; y tengo como meta aumentar mis conocimientos en diferentes lenguajes de programación.
 
@@ -81,6 +82,10 @@ Features:
 Creemos firmemente que una plataforma capaz de enlazar a estudiantes con oportunidades de aprendizaje y crecimiento tiene el potencial de generar un impacto positivo en el sistema educativo de nuestro país. Esta creencia se apoya en la suposición de que la mayoría de los estudiantes, tanto jóvenes como adultos, están ansiosos por adquirir conocimientos y tienen acceso a dispositivos con conexión a internet, un requisito fundamental para utilizar nuestra plataforma y participar en actividades de aprendizaje en línea. Nuestra confianza en esta suposición se basa en datos del INEI (2020), que indican que el 62.9% de los hogares en Lima Metropolitana cuentan con acceso a la red.
 
 Mediremos nuestro éxito a través de dos indicadores clave. En primer lugar, consideraremos que hemos tenido un impacto positivo si logramos incrementar notablemente la participación de estudiantes en actividades de aprendizaje, enfocándonos en mejorar el compromiso y la calidad del proceso de enseñanza-aprendizaje. En segundo lugar, establecemos como un logro importante alcanzar un registro de al menos 500 estudiantes activos durante los primeros dos meses de funcionamiento de la plataforma. Estos indicadores nos servirán como métricas claras para evaluar el impacto y el alcance de nuestro servicio de educación en línea.
+
+#### 1.2.2.4. Lean UX Canvas
+
+[Link del Lean UX Canvas en Google Fotos](https://photos.app.goo.gl/JB33xmXNU1qYEvyg7)
 
 ### 1.3. Segmentos objetivo
 
