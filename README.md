@@ -232,6 +232,8 @@ A su vez, tenemos también las siguientes representaciones comúnes.
 [Link del Landing Page Wireframe en Google Fotos](https://photos.app.goo.gl/9Y6EhuH7Qx97d7Q4A)
 #### 4.3.2. Landing Page Mock-ups
 ### 4.4. Web Application UX/UI Design
+En esta sección, abordaremos el diseño de experiencia de usuario (UX) y diseño de interfaz de usuario (UI) específicamente adaptados para nuestra aplicación web. Estas disciplinas desempeñan un papel crítico en la creación de una experiencia de usuario efectiva y atractiva. Nuestro enfoque de diseño se centrará en garantizar una experiencia de usuario de alta calidad y coherente en toda la aplicación.
+
 #### 4.4.1. Web Application Wireframe
 #### 4.4.2. Web Application Mock-ups
 #### 4.4.3. Web Application Flow Diagrams
