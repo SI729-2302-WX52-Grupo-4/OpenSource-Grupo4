@@ -85,6 +85,8 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 
 **Udemy:** Udemy es una plataforma de educación en línea que permite a los instructores crear y vender cursos en una amplia variedad de temas. Los cursos en Udemy son creados por expertos independientes y pueden incluir desde desarrollo de software hasta arte y música. Udemy se destaca por su amplia gama de cursos disponibles a precios accesibles, lo que la hace atractiva tanto para estudiantes como para instructores que desean compartir su conocimiento. Sin embargo, la calidad del contenido puede variar, ya que cualquiera puede convertirse en instructor en la plataforma.
 
+**Academia Pre Universitaria (Canal de YouTube):** Academia Pre Universitaria es un canal de YouTube diseñado específicamente para estudiantes preuniversitarios. Este canal se dedica a compartir recursos como solucionarios de exámenes de admisión y lecciones relacionadas con los temas necesarios para aprobar los exámenes de ingreso a las universidades nacionales de Perú. Proporciona acceso gratuito a contenido educativo de gran valor para aquellos estudiantes que buscan prepararse para los rigurosos exámenes de admisión universitaria en el país. Sin embargo, es importante destacar que el canal no brinda la oportunidad de interactuar en tiempo real con instructores ni ofrece certificados o credenciales formales de finalización de cursos.
+
 ### 2.1.1. Análisis competitivo.
 
 ![img_3.png](img_3.png)
