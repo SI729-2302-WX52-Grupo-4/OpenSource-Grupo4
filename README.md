@@ -77,6 +77,15 @@ Mediremos nuestro éxito en función de dos indicadores clave. Primero, consider
 
 ### 1.3. Segmentos objetivo
 
+Definir el segmento objetivo es esencial para dirigir de manera efectiva nuestra plataforma y sus recursos. Permite una personalización precisa de nuestras ofertas, adaptándolas a las necesidades particulares de estos grupos. Por tanto, hemos identificado los siguientes segmentos objetivos:
+
+**Estudiantes Universitarios:** Jóvenes y adultos que están cursando programas de estudios superiores en una amplia variedad de disciplinas académicas. Nuestra plataforma les ofrece la oportunidad de acceder a profesores altamente calificados que les ayudarán a comprender conceptos complejos, prepararse para exámenes y mejorar su desempeño académico en el nivel universitario.
+
+**Estudiantes de Educación Primaria y Secundaria:** Niños y adolescentes que desean fortalecer sus habilidades académicas y alcanzar un rendimiento sobresaliente en sus estudios de primaria y secundaria. Tutor'sMe les brinda la capacidad de encontrar profesores expertos en diversas materias para recibir apoyo educativo adicional y mejorar su desempeño escolar.
+
+Este segmento representa a estudiantes que buscan tanto el éxito académico como el desarrollo de habilidades a lo largo de su educación. Nuestra plataforma está comprometida en servir como un recurso integral para satisfacer sus necesidades educativas, facilitando el acceso a clases de calidad y oportunidades de aprendizaje personalizadas que los impulsen hacia el éxito en sus respectivos niveles educativos.
+
+
 # Capítulo 2 - Requirement Elicitation and Analysis
 ## 2.1. Competidores.
 En el mercado actual de la educación en línea, existen varias opciones que ofrecen una variedad de cursos y plataformas para estudiantes y profesores. Sin embargo, hemos identificado que muchas de estas opciones carecen de una experiencia personalizada y efectiva para la conexión entre profesores y estudiantes.
