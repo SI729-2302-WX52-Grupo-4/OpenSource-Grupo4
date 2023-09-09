@@ -81,6 +81,10 @@ Mediremos nuestro éxito en función de dos indicadores clave. Primero, consider
 ## 2.1. Competidores.
 En el mercado actual de la educación en línea, existen varias opciones que ofrecen una variedad de cursos y plataformas para estudiantes y profesores. Sin embargo, hemos identificado que muchas de estas opciones carecen de una experiencia personalizada y efectiva para la conexión entre profesores y estudiantes.
 
+**Coursera:** Coursera es una plataforma de educación en línea que ofrece una amplia gama de cursos, programas de certificación y programas de grado en colaboración con universidades e instituciones de renombre a nivel mundial. Los cursos en Coursera cubren una amplia variedad de temas, desde ciencias de la computación hasta humanidades y negocios. La plataforma se centra en ofrecer una educación de alta calidad y brindar a los estudiantes acceso a certificados reconocidos internacionalmente. Coursera se destaca por su asociación con universidades líderes y por la variedad de opciones educativas que ofrece.
+
+
+
 ### 2.1.1. Análisis competitivo.
 
 ![img_3.png](img_3.png)
