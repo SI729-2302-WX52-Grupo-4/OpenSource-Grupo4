@@ -1,25 +1,26 @@
 # Capítulo 1 - Introducción
-## 1.1.	Startup Profile
-### 1.1.1. Descripción de la Startup
+### 1.1.	Startup Profile
+#### 1.1.1. Descripción de la Startup
 Somos Tutor'sMe, un startup fundado por un grupo de estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra misión es ofrecer oportunidades laborales a profesionales que están en búsqueda de una posición adecuada. A través de nuestra plataforma, conectamos a los profesores con las mejores ofertas educativas que se adapten a sus preferencias y habilidades, facilitando así su búsqueda de empleo de manera eficiente y efectiva.
-### **Misión:**
+##### **Misión:**
 La misión de Tutor'sMe es contribuir a combatir el desempleo en el país, conectando a profesores desempleados con oportunidades laborales acordes a sus capacidades y preferencias de trabajo.
-#### **Visión:**
+##### **Visión:**
 La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de llegar a más personas que necesiten empleo, al mismo tiempo que asistimos a las empresas en la búsqueda del talento adecuado según sus requisitos.
-### **Valores:**
+##### **Valores:**
 - Responsabilidad social
 - Valor por el aprendizaje
 - Orientación al cliente
 - Transparencia
 - Diferencia
 - Pasión
+#### 1.1.2. Perfil de los integrantes 
 
-### 1.2 Solution  Profile
+### 1.2. Solution  Profile
 
 Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor. De esta forma, estaremos promoviendo la creación de empleo en el país al dar una plataforma a los docentes a la vez que ayudaremos a los jóvenes estudiantes con sus estudios. Nosotros seremos los encargados de registrar a los profesores para que den a conocer su metodología y temas para las clases. De este modo, los alumnos tendrán mayor oportunidad de encontrar al maestro adecuado. `
-#### 1.2.1 Antecedentes y Problemática
-#### 1.2.2 Lean UX Process
-##### 1.2.2.1 Lean UX Problem Statements
+#### 1.2.1. Antecedentes y Problemática
+#### 1.2.2. Lean UX Process
+##### 1.2.2.1. Lean UX Problem Statements
 Tutor'sMe es un proyecto destinado a abordar desafíos educativos en Perú. Tanto los profesores que buscan ofrecer sus conocimientos como los estudiantes en busca de oportunidades de aprendizaje se enfrentan a una problemática común. La falta de una plataforma eficiente para conectar a ambas partes limita el acceso a clases de alta calidad a precios asequibles. Esto se debe en gran parte a la falta de competencia y a la ausencia de un sistema claro para encontrar profesores calificados. Los estudiantes tienen dificultades para identificar y elegir a los profesores adecuados para sus necesidades educativas, mientras que los profesores luchan por promocionar sus habilidades y encontrar estudiantes interesados. Esta situación plantea un desafío significativo, ya que limita la capacidad de los estudiantes para acceder a una educación de calidad y dificulta a los profesores encontrar oportunidades para compartir su conocimiento. Nuestro proyecto se centra en la creación de una plataforma que aborde la problemática de la falta de acceso a clases de calidad y la dificultad para encontrar oportunidades de enseñanza en Perú, lo que beneficiará tanto a los estudiantes como a los profesores y contribuirá al desarrollo educativo y profesional en el país.
 
 **Problem Statement 1:** Acceso Limitado a Clases de Calidad
@@ -54,6 +55,8 @@ Creemos firmemente que una plataforma capaz de filtrar las mejores oportunidades
 
 Mediremos nuestro éxito en función de dos indicadores clave. Primero, consideraremos que hemos tenido un impacto positivo si logramos reducir el tiempo promedio de desempleo a tan solo 1.5 semanas. Segundo, establecemos como un hito importante alcanzar un registro de no menos de 500 usuarios activos en los primeros dos meses de operación de la plataforma. Estos indicadores nos servirán como métricas claras para evaluar el impacto y el alcance de nuestro servicio.
 ##### 1.2.2.4 Lean UX Canvas
+
+### 1.3. Segmentos objetivo
 
 # Capítulo 2 - Requirement Elicitation and Analysis
 ## 2.1. Competidores.
@@ -94,7 +97,7 @@ Mediremos nuestro éxito en función de dos indicadores clave. Primero, consider
 
 ## 2.2. Entrevistas
 
-prueba
+
 ### 2.2.1. Diseño de entrevistas
 
 
@@ -150,8 +153,7 @@ prueba
 
 
 #### 2.3.3 User Journey Mapping 
-#### 2.3.4 Empathy Mapping 
-#### 2.3.5 As-Is Scenario Mapping
+#### 2.3.4 Empathy Mapping
 #### 2.3.5 As-Is Scenario Mapping
 
 | Fases | Crear cuenta | Buscar profesores en la plataforma | Elegir al profesor ideal |  Publicar anuncios sobre clases |
@@ -159,11 +161,20 @@ prueba
 | Doing | - Ingresar mis datos personales y elegir para qué utilizaré la plataforma | - Selecciono el curso y los temas que deseo llevar | - Reviso el perfil del profesor, analizando su introducción, descripción de las clases y costo por hora | - Elijo los cursos y los temas que deseo dictar. Además, incluyo información sobre dichas clases, como la metodología y el precio por hora|
 | Thinking | - Se pregunta si la plataforma le brindará los temas y docentes que necesita | - Se pregunta si encontrará algún profesor que se adapte a sus horarios y temas de estudio | - Se pregunta qué tipo de profesor es el adecuado según su perfil y clases que ofrece | - Se pregunta si habrá usuarios que soliciten sus clases|
 | Feeling | - Se siente nervioso porque es su primera vez buscando tutores privados online | - Se siente dudoso sobre si podrá encontrar un tutor que maneje el tema y horario adecuados | - Se siente aliviado al ver la variedad de profesores y metodologías que puede elegir | - Se siente contento porque podrá tener un ingreso extra con un horario flexible|
+
 # Capítulo 3 - Requirements Specification
+### 3.1. To-Be Scenario Mapping
+### 3.2. User Stories
+### 3.3. Impact Mapping
+### 3.4. Product Backlog
 
 # Capítulo 4 - Product Design
 ### 4.1 Style Guidelines
 En esta sección se mostrarán los parámetros y estándares que se seguirán en el desarrollo de la aplicación web, evaluando así criterios de diseño y características que tendrá nuestra plataforma.
+#### 4.1.1 General Style Guidelines
+#### 4.1.2. Web Style Guidelines
+### 4.2. Information Architecture
+#### 4.2.1. Organization Systems
 #### 4.2.2. Labeling Systems
 Para las etiquetas de la plataforma utilizamos técnicas que representan el contenido de forma simple y clara. Para ello, definimos las siguientes características:
 - Títulos: con un promedio de entre 3 a 4 palabras, debemos mostrar la sección de forma clara para el fácil entendimiento del usuario.
@@ -177,7 +188,44 @@ A su vez, tenemos también las siguientes representaciones comúnes.
 - “Recuperar Contraseña” permitirá recuperar la contraseña existente o cambiarla de ser necesario, a través de un correo electrónico o mensaje de texto como método de verificación.
 - “Perfil” incluirá la información registrada del perfil y la opción de modificar dichos datos.
 
-#### 4.3.1 Landing Page Wireframe
+#### 4.2.3 SEO Tags and Meta Tags
+#### 4.2.4 Searching Systems
+#### 4.2.5. Navigation Systems
+### 4.3. Landing Page UI Design
+#### 4.3.1. Landing Page Wireframe
 [Link del Landing Page Wireframe en Google Fotos](https://photos.app.goo.gl/9Y6EhuH7Qx97d7Q4A)
-
+#### 4.3.2. Landing Page Mock-ups
+### 4.4. Web Application UX/UI Design
+#### 4.4.1. Web Application Wireframe
+#### 4.4.2. Web Application Mock-ups
+#### 4.4.3. Web Application Flow Diagrams
+### 4.5. Web Application Prototyping
+### 4.6. Domain-Driven Software Architecture
+#### 4.6.1. Software Architecture Context Diagrams
+#### 4.6.2. Software Architecture Container Diagrams
+#### 4.6.3. Software Architecture Components Diagrams
+### 4.7. Software Object-Oriented Design
+#### 4.7.1. Class Diagrams
+#### 4.7.2. Class Dictionary
+### 4.8. Database Design
+#### 4.8.1. Database Diagram
 # Capítulo 5 - Product Implementation, Validation & Deployment
+### 5.1. Software Configuration Management
+#### 5.1.1. Software Development Environment Configuration
+#### 5.1.2. Source Code Management
+#### 5.1.3. Source Code Style Guide & Conventions
+#### 5.1.4. Software Deployment Configuration
+### 5.2. Lading Page, Services & Application Implementations
+#### 5.2.X.1. Sprint Planning X
+#### 5.2.X.2. Sprint Backlog X
+#### 5.2.X.3. Development Evidence for Sprint Review
+#### 5.2.X.4. Testing Suite Evidence for Sprint Review
+#### 5.2.X.5. Execution Evidence for Sprint Review
+#### 5.2.X.6. Services Documentation Evidence for Sprint Review
+#### 5.2.X.7. Software Deployment Evidence for Sprint Review
+#### 5.2.X.8. Team Collaboration Insights during Sprint
+### 5.3. Validation Interviews
+#### 5.3.1. Diseño de Entrevistas
+#### 5.3.2. Registro de Entrevistas
+#### 5.3.3. Evaluación según heurísticas
+### 5.4. Video About the Product
