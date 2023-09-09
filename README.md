@@ -29,23 +29,30 @@ La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de 
 Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor. De esta forma, estaremos promoviendo la creación de empleo en el país al dar una plataforma a los docentes a la vez que ayudaremos a los jóvenes estudiantes con sus estudios. Nosotros seremos los encargados de registrar a los profesores para que den a conocer su metodología y temas para las clases. De este modo, los alumnos tendrán mayor oportunidad de encontrar al maestro adecuado. `
 #### 1.2.1. Antecedentes y Problemática
 
-Los antecedentes son esenciales para mantener un contexto claro de las soluciones previamente propuestas, lo que nos permite utilizarlos como puntos de referencia para mejorar y reconocer las limitaciones que puedan haber surgido.
+Aplicamos la técnica de “The 5’W’ y 2’H’s”
 
-**Classgap**
+¿Qué es el problema? (What - Qué)
+En el contexto actual, se presenta una problemática crucial relacionada con la falta de acceso a clases de calidad y las dificultades que enfrentan los profesores desempleados para encontrar oportunidades laborales adecuadas.
 
-Classgap es una plataforma en línea gratuita que brinda a los profesores la oportunidad de ofrecer clases particulares a estudiantes de primaria, secundaria, bachillerato e incluso cursos universitarios. Su enfoque se basa en un principio sencillo pero efectivo. Los profesores que se registran en Classgap pueden establecer sus propias tarifas y recibir respuestas de los estudiantes en función de sus servicios, anuncios, habilidades y competencias.
+¿Cuándo sucede el problema? (When - Cuándo)
+Esta problemática es relevante en el presente, donde los estudiantes y profesionales en Perú continúan enfrentando desafíos para acceder a una educación de calidad y oportunidades de enseñanza y aprendizaje efectivas.
 
-**SmartAcademy**
+¿Dónde sucede el problema? (Where - Dónde)
+El problema se presenta en todo el territorio peruano, ya que afecta a estudiantes y profesores en todo el país que buscan soluciones educativas y laborales efectivas.
 
-SmartAcademy es una plataforma de educación en línea que ofrece clases a través de videoconferencia. Los estudiantes y profesores solo necesitan un dispositivo con cámara web y acceso a Internet para iniciar las clases. La oferta académica se divide en dos ramas principales: educación no superior, que abarca desde primaria hasta bachillerato, pruebas de acceso a ciclos formativos superiores y acceso a la universidad, y educación superior, que incluye cursos para estudiantes de grados de ingeniería.
+¿A quién se le presenta el problema? ¿Cuál es tu público objetivo? (Who - Quién)
+Nuestro público objetivo se compone de estudiantes peruanos de todas las edades que buscan clases de alta calidad y profesores desempleados en busca de oportunidades laborales en el campo educativo.
 
-**Tutellus**
+¿Por qué sucede el problema? ¿Qué situación ocasiona el problema? (Why - Por qué)
+Esta problemática surge debido a la falta de una plataforma eficiente que conecte a profesores y estudiantes en Perú, lo que limita el acceso a una educación de calidad y dificulta la búsqueda de oportunidades de enseñanza y aprendizaje.
 
-Tutellus se destaca como una de las plataformas de aprendizaje colaborativo más grandes en el mundo de habla hispana. Su funcionamiento se diferencia un poco de las demás páginas mencionadas previamente. En lugar de enfocarse en clases particulares presenciales o sesiones en vivo a través de webcam, Tutellus invita a los profesores a grabar sus cursos y cargarlos en la plataforma. Esto ha permitido a algunos profesores construir una marca personal y aumentar la difusión de sus cursos, alcanzando así a un público más amplio.
+¿Cómo sucede el problema? ¿Cuáles son las precondiciones para que se presente el problema? (How - Cómo)
+El problema se agrava debido a la ausencia de una plataforma eficiente de conexión entre profesores y estudiantes en el mercado peruano, lo que dificulta la creación de oportunidades de enseñanza y aprendizaje efectivas.
 
+¿Cuánto impacto económico genera este problema? (How much - Cuánto)
+Esta problemática tiene un impacto económico significativo al limitar la capacidad de los estudiantes para acceder a una educación de calidad y dificultar que los profesores desempleados encuentren oportunidades laborales adecuadas, lo que afecta sus finanzas personales y el desarrollo educativo y profesional en el país.
 
-
-
+Esta descripción resalta de manera efectiva los antecedentes y la problemática que Tutor'sMe aborda en el mercado peruano.
 
 #### 1.2.2. Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
