@@ -79,6 +79,8 @@ Mediremos nuestro éxito en función de dos indicadores clave. Primero, consider
 
 # Capítulo 2 - Requirement Elicitation and Analysis
 ## 2.1. Competidores.
+En el mercado actual de la educación en línea, existen varias opciones que ofrecen una variedad de cursos y plataformas para estudiantes y profesores. Sin embargo, hemos identificado que muchas de estas opciones carecen de una experiencia personalizada y efectiva para la conexión entre profesores y estudiantes.
+
 ### 2.1.1. Análisis competitivo.
 
 ![img_3.png](img_3.png)
