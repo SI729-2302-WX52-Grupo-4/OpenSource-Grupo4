@@ -83,7 +83,7 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 
 **Coursera:** Coursera es una plataforma de educación en línea que ofrece una amplia gama de cursos, programas de certificación y programas de grado en colaboración con universidades e instituciones de renombre a nivel mundial. Los cursos en Coursera cubren una amplia variedad de temas, desde ciencias de la computación hasta humanidades y negocios. La plataforma se centra en ofrecer una educación de alta calidad y brindar a los estudiantes acceso a certificados reconocidos internacionalmente. Coursera se destaca por su asociación con universidades líderes y por la variedad de opciones educativas que ofrece.
 
-
+**Udemy:** Udemy es una plataforma de educación en línea que permite a los instructores crear y vender cursos en una amplia variedad de temas. Los cursos en Udemy son creados por expertos independientes y pueden incluir desde desarrollo de software hasta arte y música. Udemy se destaca por su amplia gama de cursos disponibles a precios accesibles, lo que la hace atractiva tanto para estudiantes como para instructores que desean compartir su conocimiento. Sin embargo, la calidad del contenido puede variar, ya que cualquiera puede convertirse en instructor en la plataforma.
 
 ### 2.1.1. Análisis competitivo.
 
