@@ -243,6 +243,8 @@ En esta sección, abordaremos el diseño de experiencia de usuario (UX) y diseñ
 #### 4.6.2. Software Architecture Container Diagrams
 #### 4.6.3. Software Architecture Components Diagrams
 ### 4.7. Software Object-Oriented Design
+En esta sección, abordaremos el diseño orientado a objetos de software, que es fundamental para la estructura y arquitectura de nuestra aplicación. El diseño orientado a objetos se basa en los principios de la programación orientada a objetos (POO) y se utilizará para modelar y organizar nuestro software de manera eficiente y modular.
+
 #### 4.7.1. Class Diagrams
 #### 4.7.2. Class Dictionary
 ### 4.8. Database Design
