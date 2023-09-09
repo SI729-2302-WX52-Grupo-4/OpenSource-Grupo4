@@ -15,6 +15,14 @@ La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de 
 - Pasión
 #### 1.1.2. Perfil de los integrantes 
 
+-
+-
+-
+-
+- **Alessandro Vega Paico - U201910225 **
+Mi nombre es Alessandro Vega, actualmente estoy estudiando la carrera de ingeniería de software. Soy una persona perseverante en lo que hago y me gusta aprender cosas nuevas. A lo largo de la carrera, he adquirido conocimientos en C++, HTML, MatLab, como tambien en Angular y Vue; y tengo como meta aumentar mis conocimientos en diferentes lenguajes de programación.
+
+
 ### 1.2. Solution  Profile
 
 Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor. De esta forma, estaremos promoviendo la creación de empleo en el país al dar una plataforma a los docentes a la vez que ayudaremos a los jóvenes estudiantes con sus estudios. Nosotros seremos los encargados de registrar a los profesores para que den a conocer su metodología y temas para las clases. De este modo, los alumnos tendrán mayor oportunidad de encontrar al maestro adecuado. `
