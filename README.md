@@ -185,6 +185,13 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 - ¿Qué funcionalidad crees que necesita nuestro programa para retener la actividad de los alumnos en la página?
 
 #### 2.3.1 User Persona
+Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valiosos proporcionados por nuestros usuarios al responder preguntas específicas. Este proceso nos permite emplear la técnica de "User Persona" para crear una representación vívida de nuestro segmento objetivo a través de un personaje ficticio. De esta manera, podemos definir con precisión las metas, desafíos, frustraciones y rasgos de personalidad distintivos de nuestro público objetivo. Esta información enriquece nuestra comprensión de quienes son nuestros usuarios ideales y nos guía en la creación de soluciones más efectivas y personalizadas para satisfacer sus necesidades.
+
+Imagen 1.
+![UntitledUserPersona](UntitledUserPersona.png)
+
+
+
 #### 2.3.2 User Task Matrix
 
 | Tarea \ Usuario              | Estudiantes (Frecuencia/Importancia) | Profesores (Frecuencia/Importancia) |
