@@ -19,6 +19,25 @@ La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de 
 
 Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor. De esta forma, estaremos promoviendo la creación de empleo en el país al dar una plataforma a los docentes a la vez que ayudaremos a los jóvenes estudiantes con sus estudios. Nosotros seremos los encargados de registrar a los profesores para que den a conocer su metodología y temas para las clases. De este modo, los alumnos tendrán mayor oportunidad de encontrar al maestro adecuado. `
 #### 1.2.1. Antecedentes y Problemática
+
+Los antecedentes son esenciales para mantener un contexto claro de las soluciones previamente propuestas, lo que nos permite utilizarlos como puntos de referencia para mejorar y reconocer las limitaciones que puedan haber surgido.
+
+**Classgap**
+
+Classgap es una plataforma en línea gratuita que brinda a los profesores la oportunidad de ofrecer clases particulares a estudiantes de primaria, secundaria, bachillerato e incluso cursos universitarios. Su enfoque se basa en un principio sencillo pero efectivo. Los profesores que se registran en Classgap pueden establecer sus propias tarifas y recibir respuestas de los estudiantes en función de sus servicios, anuncios, habilidades y competencias.
+
+**SmartAcademy**
+
+SmartAcademy es una plataforma de educación en línea que ofrece clases a través de videoconferencia. Los estudiantes y profesores solo necesitan un dispositivo con cámara web y acceso a Internet para iniciar las clases. La oferta académica se divide en dos ramas principales: educación no superior, que abarca desde primaria hasta bachillerato, pruebas de acceso a ciclos formativos superiores y acceso a la universidad, y educación superior, que incluye cursos para estudiantes de grados de ingeniería.
+
+**Tutellus**
+
+Tutellus se destaca como una de las plataformas de aprendizaje colaborativo más grandes en el mundo de habla hispana. Su funcionamiento se diferencia un poco de las demás páginas mencionadas previamente. En lugar de enfocarse en clases particulares presenciales o sesiones en vivo a través de webcam, Tutellus invita a los profesores a grabar sus cursos y cargarlos en la plataforma. Esto ha permitido a algunos profesores construir una marca personal y aumentar la difusión de sus cursos, alcanzando así a un público más amplio.
+
+
+
+
+
 #### 1.2.2. Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
 Tutor'sMe es un proyecto destinado a abordar desafíos educativos en Perú. Tanto los profesores que buscan ofrecer sus conocimientos como los estudiantes en busca de oportunidades de aprendizaje se enfrentan a una problemática común. La falta de una plataforma eficiente para conectar a ambas partes limita el acceso a clases de alta calidad a precios asequibles. Esto se debe en gran parte a la falta de competencia y a la ausencia de un sistema claro para encontrar profesores calificados. Los estudiantes tienen dificultades para identificar y elegir a los profesores adecuados para sus necesidades educativas, mientras que los profesores luchan por promocionar sus habilidades y encontrar estudiantes interesados. Esta situación plantea un desafío significativo, ya que limita la capacidad de los estudiantes para acceder a una educación de calidad y dificulta a los profesores encontrar oportunidades para compartir su conocimiento. Nuestro proyecto se centra en la creación de una plataforma que aborde la problemática de la falta de acceso a clases de calidad y la dificultad para encontrar oportunidades de enseñanza en Perú, lo que beneficiará tanto a los estudiantes como a los profesores y contribuirá al desarrollo educativo y profesional en el país.
