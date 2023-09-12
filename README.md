@@ -240,6 +240,19 @@ Imagen 1.
 |  EP009   | Políticas y Condiciones (Estudiantes y Profesores) | **Como** estudiante o profesor en Tutor'sMe, **quiero** tener acceso a políticas y condiciones claras, **para** comprender plenamente las reglas y responsabilidades en la plataforma. |
 |  EP010   | Experiencia de Clases en Línea (Estudiantes y Profesores) | **Como** estudiante o profesor en Tutor'sMe, **quiero** tener una experiencia de clases en línea fluida y efectiva, **para** facilitar el proceso de enseñanza y aprendizaje. |
 
+|Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID)|
+|----------------|--------|-------------|-------------------------|--------------------------|
+| US001 | Búsqueda  de Tutores | **Como** estudiante de Tutor'sMe, **quiero** poder buscar profesores por área de estudio y disponibilidad **para** encontrar rápidamente un tutor que se adapte a mis necesidades y horarios de estudio. | Escenario 1: Exitoso
+Dado que soy un estudiante en la plataforma de Tutor'sMe
+Cuando ingreso a la función de búsqueda de tutores
+Entonces puedo ver un campo de búsqueda donde puedo ingresar el área de estudio y la disponibilidad de los tutores que deseo encontrar.
+
+Escenario 2: Fallida
+Dado que soy un estudiante en la plataforma de Tutor'sMe
+Cuando ingreso a la función de búsqueda de tutores
+Y no ingreso ningún criterio de búsqueda
+Entonces no se muestran resultados y se muestra un mensaje de error que me indica que debo ingresar al menos un criterio de búsqueda válido. | | 
+
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog
 
