@@ -154,7 +154,6 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 
 ### 2.2.1. Diseño de entrevistas
 
-
 #### Profesores:
 
 - ¿Cuál es su nombre, edad?
@@ -189,6 +188,10 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 - ¿Qué expectativas tienes sobre una plataforma que provee de contactos para clases particulares?
 - ¿Qué características u opciones considerarías necesarias en una plataforma que provee de contactos para clases particulares?
 - ¿Qué funcionalidad crees que necesita nuestro programa para retener la actividad de los alumnos en la página?
+
+#### 2.2.2. Registro de entrevistas.
+#### 2.2.3. Análisis de entrevistas.
+## 2.3. Needfinding.
 
 #### 2.3.1 User Persona
 Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valiosos proporcionados por nuestros usuarios al responder preguntas específicas. Este proceso nos permite emplear la técnica de "User Persona" para crear una representación vívida de nuestro segmento objetivo a través de un personaje ficticio. De esta manera, podemos definir con precisión las metas, desafíos, frustraciones y rasgos de personalidad distintivos de nuestro público objetivo. Esta información enriquece nuestra comprensión de quienes son nuestros usuarios ideales y nos guía en la creación de soluciones más efectivas y personalizadas para satisfacer sus necesidades.
@@ -242,36 +245,36 @@ Imagen 1.
 
 |Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID)|
 |----------------|--------|-------------|-------------------------|--------------------------|
-| US001 | Búsqueda  de Tutores | **Como** estudiante de Tutor'sMe, **quiero** poder buscar profesores por área de estudio y disponibilidad **para** encontrar rápidamente un tutor que se adapte a mis necesidades y horarios de estudio. |- Escenario 1: Exitoso  **Dado** que soy un estudiante en la plataforma de Tutor'sMe  **Cuando** ingreso a la función de búsqueda de tutores  **Entonces** puedo ver un campo de búsqueda donde puedo ingresar el área de estudio y la disponibilidad de los tutores que deseo encontrar.  &#124; - Escenario 2: Fallida  **Dado** que soy un estudiante en la plataforma de Tutor'sMe  **Cuando** ingreso a la función de búsqueda de tutores  Y no ingreso ningún criterio de búsqueda  **Entonces** no se muestran resultados y se muestra un mensaje de error que me indica que debo ingresar al menos un criterio de búsqueda válido. | EP001 | 
-|US002|Filtros Avanzados de Búsqueda|**Como** estudiante, **quiero** utilizar filtros avanzados en la búsqueda de tutores, como nivel de experiencia, tarifa por hora y ubicación, **para** encontrar un tutor que se ajuste a mis requisitos específicos.| - Escenario 1: Existoso  **Dado** que soy un estudiante en la plataforma de Tutor'sMe  **Cuando** selecciono un tutor de la lista de resultados de búsqueda  **Entonces** puedo ver las calificaciones y reseñas de otros estudiantes que han tomado clases con ese tutor, lo que me permite tomar una decisión informada sobre si elegirlo como mi tutor. &#124; - Escenario 2: Fallida  **Dado** que soy un estudiante en la plataforma de Tutor'sMe  **Cuando** selecciono un tutor de la lista de resultados de búsqueda  Y no hay calificaciones ni reseñas disponibles para ese tutor  **Entonces** se muestra un mensaje que indica que no hay calificaciones o reseñas disponibles para ese tutor en este momento. | EP001 |
-|US003|||| EP001 |
-|US004|||| EP002 |
-|US005|||| EP002 |
-|US006|||| EP002 |
-|US007|||| EP003 |
-|US008|||| EP003 |
-|US009|||| EP003 |
-|US010|||| EP004 |
-|US011|||| EP004 |
-|US012|||| EP004 |
-|US013|||| EP005 |
-|US014|||| EP005 |
-|US015|||| EP005 |
-|US016|||| EP006 |
-|US017|||| EP006 |
-|US018|||| EP006 |
-|US019|||| EP007 |
-|US020|||| EP007 |
-|US021|||| EP007 |
-|US022|||| EP008 |
-|US023|||| EP008 |
-|US024|||| EP008 |
-|US025|||| EP009 |
-|US026|||| EP009 |
-|US027|||| EP009 |
-|US028|||| EP010 |
-|US029|||| EP010 |
-|US030|||| EP010 |
+| US001 | Búsqueda  de Tutores | **Como** estudiante de Tutor'sMe, **quiero** poder buscar profesores por área de estudio y disponibilidad **para** encontrar rápidamente un tutor que se adapte a mis necesidades y horarios de estudio. |- Escenario 1: Exitoso  **Dado** que soy un estudiante en la plataforma de Tutor'sMe  **Cuando** ingreso a la función de búsqueda de tutores  **Entonces** puedo ver un campo de búsqueda donde puedo ingresar el área de estudio y la disponibilidad de los tutores que deseo encontrar.  &#124; - Escenario 2: Fallida  **Dado** que soy un estudiante en la plataforma de Tutor'sMe  **Cuando** ingreso a la función de búsqueda de tutores  Y no ingreso ningún criterio de búsqueda  **Entonces** no se muestran resultados y se muestra un mensaje de error que me indica que debo ingresar al menos un criterio de búsqueda válido. | EP001 |
+| US002 |Filtros Avanzados de Búsqueda|**Como** estudiante, **quiero** utilizar filtros avanzados en la búsqueda de tutores, como nivel de experiencia, tarifa por hora y ubicación, **para** encontrar un tutor que se ajuste a mis requisitos específicos.| - Escenario 1: Existoso  **Dado** que soy un estudiante en la plataforma de Tutor'sMe  **Cuando** selecciono un tutor de la lista de resultados de búsqueda  **Entonces** puedo ver las calificaciones y reseñas de otros estudiantes que han tomado clases con ese tutor, lo que me permite tomar una decisión informada sobre si elegirlo como mi tutor. &#124; - Escenario 2: Fallida  **Dado** que soy un estudiante en la plataforma de Tutor'sMe  **Cuando** selecciono un tutor de la lista de resultados de búsqueda  Y no hay calificaciones ni reseñas disponibles para ese tutor  **Entonces** se muestra un mensaje que indica que no hay calificaciones o reseñas disponibles para ese tutor en este momento. | EP001 |
+| US003 |||| EP001 |
+| US004 |||| EP002 |
+| US005 |||| EP002 |
+| US006 |||| EP002 |
+| US007 |||| EP003 |
+| US008 |||| EP003 |
+| US009 |||| EP003 |
+| US010 |||| EP004 |
+| US011 |||| EP004 |
+| US012 |||| EP004 |
+| US013 |||| EP005 |
+| US014 |||| EP005 |
+| US015 |||| EP005 |
+| US016 |||| EP006 |
+| US017 |||| EP006 |
+| US018 |||| EP006 |
+| US019 |||| EP007 |
+| US020 |||| EP007 |
+| US021 |||| EP007 |
+| US022 |||| EP008 |
+| US023 |||| EP008 |
+| US024 |||| EP008 |
+| US025 |||| EP009 |
+| US026 |||| EP009 |
+| US027 |||| EP009 |
+| US028 |||| EP010 |
+| US029 |||| EP010 |
+| US030 |||| EP010 |
 
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog
