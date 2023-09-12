@@ -244,9 +244,33 @@ Imagen 1.
 |----------------|--------|-------------|-------------------------|--------------------------|
 | US001 | Búsqueda  de Tutores | **Como** estudiante de Tutor'sMe, **quiero** poder buscar profesores por área de estudio y disponibilidad **para** encontrar rápidamente un tutor que se adapte a mis necesidades y horarios de estudio. | Escenario 1: Exitoso  Dado que soy un estudiante en la plataforma de Tutor'sMe  Cuando ingreso a la función de búsqueda de tutores  Entonces puedo ver un campo de búsqueda donde puedo ingresar el área de estudio y la disponibilidad de los tutores que deseo encontrar.  Escenario 2: Fallida  Dado que soy un estudiante en la plataforma de Tutor'sMe  Cuando ingreso a la función de búsqueda de tutores  Y no ingreso ningún criterio de búsqueda  Entonces no se muestran resultados y se muestra un mensaje de error que me indica que debo ingresar al menos un criterio de búsqueda válido. | | 
 
-| Columna 1 | Columna 2              | Columna 3 |
-|-----------|------------------------|-----------|
-| Linea 1   | Linea 2.1 |  Linea 2.2 | Linea 3   |
+<table>
+    <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <th>Column 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4 align="center">R1 Text</td>
+            <td rowspan=2 align="center">R2 Text A</td>
+            <td align="center">R3 Text A</td>
+        </tr>
+        <tr>
+            <td align="center">R3 Text B</td>
+        </tr>
+        <tr>
+            <td rowspan=2 align="center">R2 Text B</td>
+            <td align="center">R3 Text C</td>
+        </tr>
+        <tr>
+            <td align="center">R3 Text D</td>
+        </tr>
+    </tbody>
+</table>
+
 
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog
