@@ -226,6 +226,20 @@ Imagen 1.
 # Capítulo 3 - Requirements Specification
 ### 3.1. To-Be Scenario Mapping
 ### 3.2. User Stories
+
+| Epic ID | Título | Descripción|
+|---------|--------|------------|
+|  EP001   | Búsqueda y Selección de Tutores (Estudiantes) | **Como** estudiante de Tutor'sMe, **quiero** poder buscar y seleccionar tutores que se ajusten a mis necesidades y horarios de estudio **para** encontrar rápidamente al tutor adecuado. |
+|  EP002   | Interacción con Tutores (Estudiantes) | **Como** estudiante de Tutor'sMe, **quiero** poder interactuar con mis tutores de manera efectiva, reservar clases y realizar un seguimiento de mi progreso académico **para** aprovechar al máximo la experiencia de aprendizaje. |
+|  EP003   | Comunicación y Apoyo (Estudiantes) | **Como** estudiante de Tutor'sMe, **quiero** contar con canales de comunicación efectivos, soporte en línea y herramientas de estudio integradas **para** recibir la asistencia y el apoyo necesarios durante mi experiencia de aprendizaje. |
+|  EP004   | Configuración del Perfil (Profesores) | **Como** profesor en Tutor'sMe, **quiero** poder configurar y gestionar mi perfil de tutor de manera sencilla, **para** facilitar a los estudiantes la búsqueda y programación de clases conmigo. |
+|  EP005   | Reservas y Gestión de Clases (Profesores) | **Como** profesor en Tutor'sMe, **quiero** gestionar las reservas de clases, administrar mi horario y ofrecer clases grupales **para** brindar a los estudiantes opciones flexibles de aprendizaje. |
+|  EP006   | Comunicación con Estudiantes (Profesores) | **Como** profesor en Tutor'sMe, **quiero** poder comunicarme de manera efectiva con los estudiantes, responder a sus preguntas y discutir detalles de las clases **para** garantizar una experiencia de enseñanza enriquecedora. |
+|  EP007   | Pagos y Finanzas (Estudiantes y Profesores) | **Como** estudiante o profesor de Tutor'sMe, **quiero** contar con opciones de pago seguras, **para** garantizar una experiencia de usuario sin complicaciones en términos de pagos y finanzas. |
+|  EP008   | Evaluación de Profesores (Estudiantes) | **Como** estudiante de Tutor'sMe, **quiero** evaluar y proporcionar retroalimentación sobre mis experiencias de aprendizaje con los tutores **para** mejorar la calidad de la enseñanza en la plataforma. |
+|  EP009   | Políticas y Condiciones (Estudiantes y Profesores) | **Como** estudiante o profesor en Tutor'sMe, **quiero** tener acceso a políticas y condiciones claras, **para** comprender plenamente las reglas y responsabilidades en la plataforma. |
+|  EP010   | Experiencia de Clases en Línea (Estudiantes y Profesores) | **Como** estudiante o profesor en Tutor'sMe, **quiero** tener una experiencia de clases en línea fluida y efectiva, **para** facilitar el proceso de enseñanza y aprendizaje. |
+
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog
 
