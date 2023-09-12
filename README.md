@@ -242,35 +242,36 @@ Imagen 1.
 
 |Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID)|
 |----------------|--------|-------------|-------------------------|--------------------------|
-| US001 | Búsqueda  de Tutores | **Como** estudiante de Tutor'sMe, **quiero** poder buscar profesores por área de estudio y disponibilidad **para** encontrar rápidamente un tutor que se adapte a mis necesidades y horarios de estudio. | Escenario 1: Exitoso  Dado que soy un estudiante en la plataforma de Tutor'sMe  Cuando ingreso a la función de búsqueda de tutores  Entonces puedo ver un campo de búsqueda donde puedo ingresar el área de estudio y la disponibilidad de los tutores que deseo encontrar.  Escenario 2: Fallida  Dado que soy un estudiante en la plataforma de Tutor'sMe  Cuando ingreso a la función de búsqueda de tutores  Y no ingreso ningún criterio de búsqueda  Entonces no se muestran resultados y se muestra un mensaje de error que me indica que debo ingresar al menos un criterio de búsqueda válido. | | 
-
-<table>
-    <thead>
-        <tr>
-            <th>Column 1</th>
-            <th>Column 2</th>
-            <th>Column 3</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=4 align="center">R1 Text</td>
-            <td rowspan=2 align="center">R2 Text A</td>
-            <td align="center">R3 Text A</td>
-        </tr>
-        <tr>
-            <td align="center">R3 Text B</td>
-        </tr>
-        <tr>
-            <td rowspan=2 align="center">R2 Text B</td>
-            <td align="center">R3 Text C</td>
-        </tr>
-        <tr>
-            <td align="center">R3 Text D</td>
-        </tr>
-    </tbody>
-</table>
-
+| US001 | Búsqueda  de Tutores | **Como** estudiante de Tutor'sMe, **quiero** poder buscar profesores por área de estudio y disponibilidad **para** encontrar rápidamente un tutor que se adapte a mis necesidades y horarios de estudio. |- Escenario 1: Exitoso  **Dado** que soy un estudiante en la plataforma de Tutor'sMe  **Cuando** ingreso a la función de búsqueda de tutores  **Entonces** puedo ver un campo de búsqueda donde puedo ingresar el área de estudio y la disponibilidad de los tutores que deseo encontrar.  &#124; - Escenario 2: Fallida  **Dado** que soy un estudiante en la plataforma de Tutor'sMe  **Cuando** ingreso a la función de búsqueda de tutores  Y no ingreso ningún criterio de búsqueda  **Entonces** no se muestran resultados y se muestra un mensaje de error que me indica que debo ingresar al menos un criterio de búsqueda válido. | EP001 | 
+|US002|||| EP001 |
+|US003|||| EP001 |
+|US004|||| EP002 |
+|US005|||| EP002 |
+|US006|||| EP002 |
+|US007|||| EP003 |
+|US008|||| EP003 |
+|US009|||| EP003 |
+|US010|||| EP004 |
+|US011|||| EP004 |
+|US012|||| EP004 |
+|US013|||| EP005 |
+|US014|||| EP005 |
+|US015|||| EP005 |
+|US016|||| EP006 |
+|US017|||| EP006 |
+|US018|||| EP006 |
+|US019|||| EP007 |
+|US020|||| EP007 |
+|US021|||| EP007 |
+|US022|||| EP008 |
+|US023|||| EP008 |
+|US024|||| EP008 |
+|US025|||| EP009 |
+|US026|||| EP009 |
+|US027|||| EP009 |
+|US028|||| EP010 |
+|US029|||| EP010 |
+|US030|||| EP010 |
 
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog
