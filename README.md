@@ -228,6 +228,9 @@ Imagen 1.
 
 # Capítulo 3 - Requirements Specification
 ### 3.1. To-Be Scenario Mapping
+[![Captura-de-pantalla-2023-09-20-175356.png](https://i.postimg.cc/7h10VQ7B/Captura-de-pantalla-2023-09-20-175356.png)](https://postimg.cc/fSLVWC8X)
+[![Captura-de-pantalla-2023-09-20-175414.png](https://i.postimg.cc/9QmKy6Tn/Captura-de-pantalla-2023-09-20-175414.png)](https://postimg.cc/qzF1TZ1s)
+[![Captura-de-pantalla-2023-09-20-175449.png](https://i.postimg.cc/kgTZsTvX/Captura-de-pantalla-2023-09-20-175449.png)](https://postimg.cc/JsBP4cF9)
 ### 3.2. User Stories
 
 | Epic ID | Título | Descripción|
@@ -278,6 +281,7 @@ Imagen 1.
 
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog
+
 
 # Capítulo 4 - Product Design
 ### 4.1 Style Guidelines
