@@ -308,6 +308,55 @@ A su vez, tenemos también las siguientes representaciones comúnes.
 - “Perfil” incluirá la información registrada del perfil y la opción de modificar dichos datos.
 
 #### 4.2.3 SEO Tags and Meta Tags
+Los Meta tags son etiquetas invisibles que brindaran datos sobre la página web
+a los motores de búsqueda y visitantes del sitio web, facilitan que los motores
+de búsqueda determinen el propósito de nuestra aplicación, por lo tanto, son
+vitales para el SEO.
+1. Title tags:
+``` 
+<head>
+  <title>Tutor'sMe - Encuentra el Profesor Perfecto</title>
+</head>
+```
+2. Meta description:
+``` 
+<head>
+  <meta name="description" content="Tutor'sMe conecta a estudiantes universitarios y escolares con profesores altamente calificados. Encuentra clases personalizadas y mejora tu desempeño académico.">
+</head>
+``` 
+3. Robot Meta Tag:
+``` 
+<head>
+  <meta name="robots" content="index, follow" />
+</head>
+```
+4. Alt Text:
+``` 
+<div class="download-ios-and">
+  <img src="pictures/googlePlay.png" alt="Descargar en Google Play">
+  <img src="pictures/appStore.png" alt="Descargar en App Store">
+</div>
+``` 
+5. Keyword:
+``` 
+<head>
+  <meta name="keywords" content="educación, tutoría, profesor particular, clases personalizadas, estudiantes universitarios, estudiantes de primaria, mejora académica">
+</head>
+```
+6. Author:
+``` 
+<head>
+  <meta name="author" content="Tutor'sMe">
+</head>
+``` 
+
+
+
+
+
+
+
+
 #### 4.2.4 Searching Systems
 #### 4.2.5. Navigation Systems
 ### 4.3. Landing Page UI Design
