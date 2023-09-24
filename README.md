@@ -419,42 +419,70 @@ vitales para el SEO.
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
 [Link del Landing Page Wireframe en Google Fotos](https://photos.app.goo.gl/9Y6EhuH7Qx97d7Q4A)
-#### 4.3.2. Landing Page Mock-ups
+#### 4.3.2. Landing Page Mock-ups (Giako)
+
+##### 4.3.2.1. Página principal
+
+##### 4.3.2.2. Servicios
+
+##### 4.3.2.3. Planes
+
+##### 4.3.2.4. Aplicativo
+
+##### 4.3.2.1. Conócenos
+
+
+
+
 ### 4.4. Web Application UX/UI Design
 En esta sección, abordaremos el diseño de experiencia de usuario (UX) y diseño de interfaz de usuario (UI) específicamente adaptados para nuestra aplicación web. Estas disciplinas desempeñan un papel crítico en la creación de una experiencia de usuario efectiva y atractiva. Nuestro enfoque de diseño se centrará en garantizar una experiencia de usuario de alta calidad y coherente en toda la aplicación.
 
 #### 4.4.1. Web Application Wireframe
 #### 4.4.2. Web Application Mock-ups
-#### 4.4.3. Web Application Flow Diagrams
+#### 4.4.3. Web Application Flow Diagrams (Giako)
 ### 4.5. Web Application Prototyping
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagrams
 #### 4.6.2. Software Architecture Container Diagrams
-#### 4.6.3. Software Architecture Components Diagrams
+#### 4.6.3. Software Architecture Components Diagrams (Giako)
 ### 4.7. Software Object-Oriented Design
 En esta sección, abordaremos el diseño orientado a objetos de software, que es fundamental para la estructura y arquitectura de nuestra aplicación. El diseño orientado a objetos se basa en los principios de la programación orientada a objetos (POO) y se utilizará para modelar y organizar nuestro software de manera eficiente y modular.
 
 #### 4.7.1. Class Diagrams
 #### 4.7.2. Class Dictionary
-### 4.8. Database Design
+### 4.8. Database Design (Giako)
 #### 4.8.1. Database Diagram
 # Capítulo 5 - Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management
 #### 5.1.1. Software Development Environment Configuration
 #### 5.1.2. Source Code Management
 #### 5.1.3. Source Code Style Guide & Conventions
-#### 5.1.4. Software Deployment Configuration
+#### 5.1.4. Software Deployment Configuration (Giako)
+Para tener una óptima visualización de la elaboración de nuestro Landing Page usamos la opción de GitHub llamado GitHub Page para así mostrar cada commit del Landing Page ya desplegado:
+
+Link de la pagina:(pegan aqui el link)
+
+
 ### 5.2. Lading Page, Services & Application Implementations
 #### 5.2.X.1. Sprint Planning X
 #### 5.2.X.2. Sprint Backlog X
-#### 5.2.X.3. Development Evidence for Sprint Review
+#### 5.2.X.3. Development Evidence for Sprint Review (Giako)
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
+|---------|---------|---------|---------|---------|---------|
+|https://github.com/SI729-2302-WX52-Grupo-4/daos-overview-2302/tree/main |  | | | - | |
+| | | | |  - | |
+| | | | | - | |
+| | | | | -| |
+| | | | | -| |
+
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review
 #### 5.2.X.5. Execution Evidence for Sprint Review
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review
-#### 5.2.X.8. Team Collaboration Insights during Sprint
+#### 5.2.X.8. Team Collaboration Insights during Sprint (Giako)
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de Entrevistas
 #### 5.3.2. Registro de Entrevistas
 #### 5.3.3. Evaluación según heurísticas
-### 5.4. Video About the Product
+### 5.4. Video About the Product (Giako)
