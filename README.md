@@ -1,25 +1,62 @@
 # Capítulo 1 - Introducción
-## 1.1.	Startup Profile
-### 1.1.1. Descripción de la Startup
+### 1.1.	Startup Profile
+#### 1.1.1. Descripción de la Startup
 Somos Tutor'sMe, un startup fundado por un grupo de estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra misión es ofrecer oportunidades laborales a profesionales que están en búsqueda de una posición adecuada. A través de nuestra plataforma, conectamos a los profesores con las mejores ofertas educativas que se adapten a sus preferencias y habilidades, facilitando así su búsqueda de empleo de manera eficiente y efectiva.
-### **Misión:**
+##### **Misión:**
 La misión de Tutor'sMe es contribuir a combatir el desempleo en el país, conectando a profesores desempleados con oportunidades laborales acordes a sus capacidades y preferencias de trabajo.
-#### **Visión:**
+##### **Visión:**
 La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de llegar a más personas que necesiten empleo, al mismo tiempo que asistimos a las empresas en la búsqueda del talento adecuado según sus requisitos.
-### **Valores:**
+##### **Valores:**
 - Responsabilidad social
 - Valor por el aprendizaje
 - Orientación al cliente
 - Transparencia
 - Diferencia
 - Pasión
+#### 1.1.2. Perfil de los integrantes 
 
-### 1.2 Solution  Profile
+- **Aaron Raizo Valdivia Kaneko - U202020152**
+  Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software en UPC. Me gusta trabajar en equipo y tener la iniciativa para desarrollar las actividades pertinentes. Me gusta enforcarme en el ámbito de diseño UX, aunque también manejo C++, Python HTML y CSS.
+- **Giakomo Rodolfo Causso Mariano - U202118374**
+  Estoy cursando el 6to ciclo de la carrera de Ing. de  software. Me gusta el trabajo en equipo, por apoyar en lo necesario y trabajar de manera correcta con ganas de aprender. Soy una persona que quiere sacar lo mejor de si, se usar los lenguajes C++, Python, Java, SQL, CSS y HTML
+-
+- 
+- **Alessandro Alex Vega Paico - U201910225**
+  Mi nombre es Alessandro Vega, actualmente estoy estudiando la carrera de ingeniería de software. Soy una persona perseverante en lo que hago y me gusta aprender cosas nuevas. A lo largo de la carrera, he adquirido conocimientos en C++, HTML, MatLab, como tambien en Angular y Vue; y tengo como meta aumentar mis conocimientos en diferentes lenguajes de programación.
+
+
+### 1.2. Solution  Profile
 
 Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor. De esta forma, estaremos promoviendo la creación de empleo en el país al dar una plataforma a los docentes a la vez que ayudaremos a los jóvenes estudiantes con sus estudios. Nosotros seremos los encargados de registrar a los profesores para que den a conocer su metodología y temas para las clases. De este modo, los alumnos tendrán mayor oportunidad de encontrar al maestro adecuado. `
-#### 1.2.1 Antecedentes y Problemática
-#### 1.2.2 Lean UX Process
-##### 1.2.2.1 Lean UX Problem Statements
+#### 1.2.1. Antecedentes y Problemática
+
+Aplicamos la técnica de “The 5’W’ y 2’H’s”
+
+¿Qué es el problema? (What - Qué)
+En el contexto actual, se presenta una problemática crucial relacionada con la falta de acceso a clases de calidad y las dificultades que enfrentan los profesores desempleados para encontrar oportunidades laborales adecuadas.
+
+¿Cuándo sucede el problema? (When - Cuándo)
+Esta problemática es relevante en el presente, donde los estudiantes y profesionales en Perú continúan enfrentando desafíos para acceder a una educación de calidad y oportunidades de enseñanza y aprendizaje efectivas.
+
+¿Dónde sucede el problema? (Where - Dónde)
+El problema se presenta en todo el territorio peruano, ya que afecta a estudiantes y profesores en todo el país que buscan soluciones educativas y laborales efectivas.
+
+¿A quién se le presenta el problema? ¿Cuál es tu público objetivo? (Who - Quién)
+Nuestro público objetivo se compone de estudiantes peruanos de todas las edades que buscan clases de alta calidad y profesores desempleados en busca de oportunidades laborales en el campo educativo.
+
+¿Por qué sucede el problema? ¿Qué situación ocasiona el problema? (Why - Por qué)
+Esta problemática surge debido a la falta de una plataforma eficiente que conecte a profesores y estudiantes en Perú, lo que limita el acceso a una educación de calidad y dificulta la búsqueda de oportunidades de enseñanza y aprendizaje.
+
+¿Cómo sucede el problema? ¿Cuáles son las precondiciones para que se presente el problema? (How - Cómo)
+El problema se agrava debido a la ausencia de una plataforma eficiente de conexión entre profesores y estudiantes en el mercado peruano, lo que dificulta la creación de oportunidades de enseñanza y aprendizaje efectivas.
+
+¿Cuánto impacto económico genera este problema? (How much - Cuánto)
+Esta problemática tiene un impacto económico significativo al limitar la capacidad de los estudiantes para acceder a una educación de calidad y dificultar que los profesores desempleados encuentren oportunidades laborales adecuadas, lo que afecta sus finanzas personales y el desarrollo educativo y profesional en el país.
+
+Esta descripción resalta de manera efectiva los antecedentes y la problemática que Tutor'sMe aborda en el mercado peruano.
+
+#### 1.2.2. Lean UX Process
+##### 1.2.2.1. Lean UX Problem Statements
 Tutor'sMe es un proyecto destinado a abordar desafíos educativos en Perú. Tanto los profesores que buscan ofrecer sus conocimientos como los estudiantes en busca de oportunidades de aprendizaje se enfrentan a una problemática común. La falta de una plataforma eficiente para conectar a ambas partes limita el acceso a clases de alta calidad a precios asequibles. Esto se debe en gran parte a la falta de competencia y a la ausencia de un sistema claro para encontrar profesores calificados. Los estudiantes tienen dificultades para identificar y elegir a los profesores adecuados para sus necesidades educativas, mientras que los profesores luchan por promocionar sus habilidades y encontrar estudiantes interesados. Esta situación plantea un desafío significativo, ya que limita la capacidad de los estudiantes para acceder a una educación de calidad y dificulta a los profesores encontrar oportunidades para compartir su conocimiento. Nuestro proyecto se centra en la creación de una plataforma que aborde la problemática de la falta de acceso a clases de calidad y la dificultad para encontrar oportunidades de enseñanza en Perú, lo que beneficiará tanto a los estudiantes como a los profesores y contribuirá al desarrollo educativo y profesional en el país.
 
 **Problem Statement 1:** Acceso Limitado a Clases de Calidad
@@ -50,13 +87,33 @@ Features:
 - Los docentes pueden personalizar su perfil con sus logros, campos de estudio y redes sociales.
 
 ##### 1.2.2.3 Lean UX Hypothesis Statement
-Creemos firmemente que una plataforma capaz de filtrar las mejores oportunidades laborales para nuestros docentes sin empleo, tiene el potencial de reducir significativamente la tasa de desempleo en nuestro país. Esta creencia se basa en la suposición de que la gran mayoría de personas mayores de 18 años poseen dispositivos con acceso a internet, un requisito esencial tanto para utilizar nuestra plataforma como para recibir notificaciones importantes en sus correos electrónicos. Nuestra confianza en esta suposición se fundamenta en datos del INEI (2020), que informan que el 62.9% de los hogares en Lima Metropolitana disponen de acceso a la red.
+Creemos firmemente que una plataforma capaz de enlazar a estudiantes con oportunidades de aprendizaje y crecimiento tiene el potencial de generar un impacto positivo en el sistema educativo de nuestro país. Esta creencia se apoya en la suposición de que la mayoría de los estudiantes, tanto jóvenes como adultos, están ansiosos por adquirir conocimientos y tienen acceso a dispositivos con conexión a internet, un requisito fundamental para utilizar nuestra plataforma y participar en actividades de aprendizaje en línea. Nuestra confianza en esta suposición se basa en datos del INEI (2020), que indican que el 62.9% de los hogares en Lima Metropolitana cuentan con acceso a la red.
 
-Mediremos nuestro éxito en función de dos indicadores clave. Primero, consideraremos que hemos tenido un impacto positivo si logramos reducir el tiempo promedio de desempleo a tan solo 1.5 semanas. Segundo, establecemos como un hito importante alcanzar un registro de no menos de 500 usuarios activos en los primeros dos meses de operación de la plataforma. Estos indicadores nos servirán como métricas claras para evaluar el impacto y el alcance de nuestro servicio.
-##### 1.2.2.4 Lean UX Canvas
+Mediremos nuestro éxito a través de dos indicadores clave. En primer lugar, consideraremos que hemos tenido un impacto positivo si logramos incrementar notablemente la participación de estudiantes en actividades de aprendizaje, enfocándonos en mejorar el compromiso y la calidad del proceso de enseñanza-aprendizaje. En segundo lugar, establecemos como un logro importante alcanzar un registro de al menos 500 estudiantes activos durante los primeros dos meses de funcionamiento de la plataforma. Estos indicadores nos servirán como métricas claras para evaluar el impacto y el alcance de nuestro servicio de educación en línea.
+
+#### 1.2.2.4. Lean UX Canvas
+
+[Link del Lean UX Canvas en Google Fotos](https://photos.app.goo.gl/JB33xmXNU1qYEvyg7)
+
+### 1.3. Segmentos objetivo
+
+Definir el segmento objetivo es esencial para dirigir de manera efectiva nuestra plataforma y sus recursos. Permite una personalización precisa de nuestras ofertas, adaptándolas a las necesidades particulares de estos grupos. Por tanto, hemos identificado los siguientes segmentos objetivos:
+
+**Estudiantes Universitarios:** Nuestro enfoque principal se dirige a jóvenes y adultos que actualmente están matriculados en programas de educación superior en Perú. Este grupo abarca una amplia variedad de disciplinas académicas y busca un apoyo educativo personalizado. Los estudiantes universitarios confían en Tutor'sMe para acceder a profesores altamente calificados que pueden ayudarles a comprender conceptos complejos, prepararse de manera efectiva para exámenes y elevar su desempeño académico en el nivel universitario. Estamos comprometidos en ser un recurso esencial para su éxito educativo, brindando acceso a clases de calidad y oportunidades de aprendizaje personalizado que les ayuden a alcanzar sus metas académicas y profesionales.
+
+**Docentes:** Nuestro enfoque en este segmento está centrado en profesionales de la educación en Perú que buscan activamente oportunidades laborales alineadas con sus habilidades y preferencias. Esto incluye tanto a docentes desempleados que buscan reintegrarse al mercado laboral como a aquellos que desean cambiar de empleo para encontrar un entorno más adecuado a sus intereses y competencias. Tutor'sMe se presenta como un recurso fundamental para que estos docentes puedan promocionar sus habilidades y conectarse con ofertas educativas que se ajusten a sus perfiles y preferencias de enseñanza. Nuestra plataforma se compromete a apoyar a estos profesionales en su búsqueda de empleo y oportunidades de enseñanza, contribuyendo así al desarrollo educativo y profesional en nuestro país.
+
 
 # Capítulo 2 - Requirement Elicitation and Analysis
 ## 2.1. Competidores.
+En el mercado actual de la educación en línea, existen varias opciones que ofrecen una variedad de cursos y plataformas para estudiantes y profesores. Sin embargo, hemos identificado que muchas de estas opciones carecen de una experiencia personalizada y efectiva para la conexión entre profesores y estudiantes.
+
+**Coursera:** Coursera es una plataforma de educación en línea que ofrece una amplia gama de cursos, programas de certificación y programas de grado en colaboración con universidades e instituciones de renombre a nivel mundial. Los cursos en Coursera cubren una amplia variedad de temas, desde ciencias de la computación hasta humanidades y negocios. La plataforma se centra en ofrecer una educación de alta calidad y brindar a los estudiantes acceso a certificados reconocidos internacionalmente. Coursera se destaca por su asociación con universidades líderes y por la variedad de opciones educativas que ofrece.
+
+**Udemy:** Udemy es una plataforma de educación en línea que permite a los instructores crear y vender cursos en una amplia variedad de temas. Los cursos en Udemy son creados por expertos independientes y pueden incluir desde desarrollo de software hasta arte y música. Udemy se destaca por su amplia gama de cursos disponibles a precios accesibles, lo que la hace atractiva tanto para estudiantes como para instructores que desean compartir su conocimiento. Sin embargo, la calidad del contenido puede variar, ya que cualquiera puede convertirse en instructor en la plataforma.
+
+**Academia Pre Universitaria (Canal de YouTube):** Academia Pre Universitaria es un canal de YouTube diseñado específicamente para estudiantes preuniversitarios. Este canal se dedica a compartir recursos como solucionarios de exámenes de admisión y lecciones relacionadas con los temas necesarios para aprobar los exámenes de ingreso a las universidades nacionales de Perú. Proporciona acceso gratuito a contenido educativo de gran valor para aquellos estudiantes que buscan prepararse para los rigurosos exámenes de admisión universitaria en el país. Sin embargo, es importante destacar que el canal no brinda la oportunidad de interactuar en tiempo real con instructores ni ofrece certificados o credenciales formales de finalización de cursos.
+
 ### 2.1.1. Análisis competitivo.
 
 ![img_3.png](img_3.png)
@@ -94,9 +151,8 @@ Mediremos nuestro éxito en función de dos indicadores clave. Primero, consider
 
 ## 2.2. Entrevistas
 
-prueba
-### 2.2.1. Diseño de entrevistas
 
+### 2.2.1. Diseño de entrevistas
 
 #### Profesores:
 
@@ -133,7 +189,18 @@ prueba
 - ¿Qué características u opciones considerarías necesarias en una plataforma que provee de contactos para clases particulares?
 - ¿Qué funcionalidad crees que necesita nuestro programa para retener la actividad de los alumnos en la página?
 
+#### 2.2.2. Registro de entrevistas.
+#### 2.2.3. Análisis de entrevistas.
+## 2.3. Needfinding.
+
 #### 2.3.1 User Persona
+Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valiosos proporcionados por nuestros usuarios al responder preguntas específicas. Este proceso nos permite emplear la técnica de "User Persona" para crear una representación vívida de nuestro segmento objetivo a través de un personaje ficticio. De esta manera, podemos definir con precisión las metas, desafíos, frustraciones y rasgos de personalidad distintivos de nuestro público objetivo. Esta información enriquece nuestra comprensión de quienes son nuestros usuarios ideales y nos guía en la creación de soluciones más efectivas y personalizadas para satisfacer sus necesidades.
+
+Imagen 1.
+![UntitledUserPersona](UntitledUserPersona.png)
+
+
+
 #### 2.3.2 User Task Matrix
 
 | Tarea \ Usuario              | Estudiantes (Frecuencia/Importancia) | Profesores (Frecuencia/Importancia) |
@@ -150,8 +217,7 @@ prueba
 
 
 #### 2.3.3 User Journey Mapping 
-#### 2.3.4 Empathy Mapping 
-#### 2.3.5 As-Is Scenario Mapping
+#### 2.3.4 Empathy Mapping
 #### 2.3.5 As-Is Scenario Mapping
 
 | Fases | Crear cuenta | Buscar profesores en la plataforma | Elegir al profesor ideal |  Publicar anuncios sobre clases |
@@ -159,11 +225,132 @@ prueba
 | Doing | - Ingresar mis datos personales y elegir para qué utilizaré la plataforma | - Selecciono el curso y los temas que deseo llevar | - Reviso el perfil del profesor, analizando su introducción, descripción de las clases y costo por hora | - Elijo los cursos y los temas que deseo dictar. Además, incluyo información sobre dichas clases, como la metodología y el precio por hora|
 | Thinking | - Se pregunta si la plataforma le brindará los temas y docentes que necesita | - Se pregunta si encontrará algún profesor que se adapte a sus horarios y temas de estudio | - Se pregunta qué tipo de profesor es el adecuado según su perfil y clases que ofrece | - Se pregunta si habrá usuarios que soliciten sus clases|
 | Feeling | - Se siente nervioso porque es su primera vez buscando tutores privados online | - Se siente dudoso sobre si podrá encontrar un tutor que maneje el tema y horario adecuados | - Se siente aliviado al ver la variedad de profesores y metodologías que puede elegir | - Se siente contento porque podrá tener un ingreso extra con un horario flexible|
+
 # Capítulo 3 - Requirements Specification
+### 3.1. To-Be Scenario Mapping
+
+| Fases    | Búsqueda de Oportunidades Educativas                                                                                                                                                                                                                                                     | Selección y Evaluación de Oportunidades                                                                                                                                                                                           | Solicitud de Oportunidades                                                                                                                                                                    | Seguimiento y Comunicación                                                                                                                                                                                                                       |
+|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Doing    | - Los estudiantes universitarios ingresan a la plataforma Tutor'sMe a través de la aplicación web o móvil. <br/>- Realizan búsquedas personalizadas utilizando palabras clave relacionadas con sus intereses académicos.                                                                 | - Los estudiantes revisan las oportunidades que aparecen en los resultados de búsqueda. <br/>- Exploran los detalles de cada oportunidad, incluyendo requisitos, fechas de inicio, y descripciones de cursos.                     | - Los estudiantes completan las solicitudes en línea para las oportunidades seleccionadas.<br/>-  Suben los documentos necesarios, como transcripciones académicas y cartas de recomendación. | - Los estudiantes revisan regularmente su bandeja de entrada y notificaciones en la plataforma para actualizaciones sobre sus solicitudes. <br/>- Comunican preguntas o inquietudes a través de la plataforma.                                   |
+| Thinking | - Consideran la importancia de encontrar oportunidades educativas que se alineen con sus metas académicas y profesionales. <br/>- Evalúan si deben buscar oportunidades locales o internacionales y si desean programas de estudio en línea o presenciales.                              | - Consideran si cumplen con los requisitos y si la oportunidad se ajusta a sus objetivos académicos y profesionales. <br/>- Evalúan si tienen el tiempo y los recursos necesarios para participar en la oportunidad seleccionada. | - Reflexionan sobre la importancia de presentar una solicitud completa y precisa. <br/>- Consideran cómo destacar sus habilidades y experiencias en sus solicitudes.                          | - Reflexionan sobre la importancia de mantenerse informados sobre el estado de sus solicitudes. <br/>- Consideran si necesitan realizar un seguimiento adicional con las instituciones.                                                          |
+| Feeling  | - Se sienten motivados por la posibilidad de encontrar oportunidades educativas que impulsen su carrera. Experimentan un sentido de anticipación y emoción al comenzar la búsqueda. <br/>- Pueden sentirse un poco abrumados al evaluar todas las opciones disponibles en la plataforma. | - Experimentan un sentido de logro cuando encuentran oportunidades que se adaptan a sus necesidades y deseos. <br/>- Pueden sentir incertidumbre sobre si cumplen con los requisitos y si podrán seguir el programa de estudio.   | - Experimentan un sentido de compromiso al completar las solicitudes. <br/>- Pueden sentir cierta ansiedad por la competencia y la posibilidad de ser aceptados en las oportunidades.              | - Experimentan emociones mixtas de esperanza y ansiedad mientras esperan noticias sobre sus solicitudes. <br/>- Se sienten aliviados cuando reciben actualizaciones positivas y se sienten motivados a seguir adelante en su búsqueda educativa. |
+
+### 3.2. User Stories
+
+| Epic ID | Título | Descripción|
+|---------|--------|------------|
+|  EP001   | Búsqueda y Selección de Tutores (Estudiantes) | **Como** estudiante de Tutor'sMe, **quiero** poder buscar y seleccionar tutores que se ajusten a mis necesidades y horarios de estudio **para** encontrar rápidamente al tutor adecuado. |
+|  EP002   | Interacción con Tutores (Estudiantes) | **Como** estudiante de Tutor'sMe, **quiero** poder interactuar con mis tutores de manera efectiva, reservar clases y realizar un seguimiento de mi progreso académico **para** aprovechar al máximo la experiencia de aprendizaje. |
+|  EP003   | Comunicación y Apoyo (Estudiantes) | **Como** estudiante de Tutor'sMe, **quiero** contar con canales de comunicación efectivos, soporte en línea y herramientas de estudio integradas **para** recibir la asistencia y el apoyo necesarios durante mi experiencia de aprendizaje. |
+|  EP004   | Configuración del Perfil (Profesores) | **Como** profesor en Tutor'sMe, **quiero** poder configurar y gestionar mi perfil de tutor de manera sencilla, **para** facilitar a los estudiantes la búsqueda y programación de clases conmigo. |
+|  EP005   | Reservas y Gestión de Clases (Profesores) | **Como** profesor en Tutor'sMe, **quiero** gestionar las reservas de clases, administrar mi horario y ofrecer clases grupales **para** brindar a los estudiantes opciones flexibles de aprendizaje. |
+|  EP006   | Comunicación con Estudiantes (Profesores) | **Como** profesor en Tutor'sMe, **quiero** poder comunicarme de manera efectiva con los estudiantes, responder a sus preguntas y discutir detalles de las clases **para** garantizar una experiencia de enseñanza enriquecedora. |
+|  EP007   | Pagos y Finanzas (Estudiantes y Profesores) | **Como** estudiante o profesor de Tutor'sMe, **quiero** contar con opciones de pago seguras, **para** garantizar una experiencia de usuario sin complicaciones en términos de pagos y finanzas. |
+|  EP008   | Evaluación de Profesores (Estudiantes) | **Como** estudiante de Tutor'sMe, **quiero** evaluar y proporcionar retroalimentación sobre mis experiencias de aprendizaje con los tutores **para** mejorar la calidad de la enseñanza en la plataforma. |
+|  EP009   | Políticas y Condiciones (Estudiantes y Profesores) | **Como** estudiante o profesor en Tutor'sMe, **quiero** tener acceso a políticas y condiciones claras, **para** comprender plenamente las reglas y responsabilidades en la plataforma. |
+|  EP010   | Experiencia de Clases en Línea (Estudiantes y Profesores) | **Como** estudiante o profesor en Tutor'sMe, **quiero** tener una experiencia de clases en línea fluida y efectiva, **para** facilitar el proceso de enseñanza y aprendizaje. |
+
+|Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID)|
+|----------------|--------|-------------|-------------------------|--------------------------|
+| US001 | Búsqueda  de Tutores | **Como** estudiante de Tutor'sMe, **quiero** poder buscar profesores por área de estudio y disponibilidad **para** encontrar rápidamente un tutor que se adapte a mis necesidades y horarios de estudio. | - Escenario 1: Existoso  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** realiza una búsqueda de tutores por área de estudio y disponibilidad.  **Entonces** recibe una lista de tutores que cumplen con los criterios de búsqueda y puede seleccionar un tutor adecuado. &#124; - Escenario 2: Fallida  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** realiza una búsqueda de tutores, pero no encuentra tutores que cumplan con los criterios de búsqueda.  **Entonces** no recibe resultados y no puede seleccionar un tutor adecuado. | EP001 |
+| US002 |Filtros Avanzados de Búsqueda| **Como** estudiante, **quiero** utilizar filtros avanzados en la búsqueda de tutores, como nivel de experiencia, tarifa por hora y ubicación, **para** encontrar un tutor que se ajuste a mis requisitos específicos. | - Escenario 1: Existoso  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** utiliza filtros avanzados en la búsqueda de tutores, como nivel de experiencia, tarifa por hora y ubicación.  **Entonces** recibe una lista de tutores que cumplen con los filtros seleccionados y puede encontrar un tutor que se ajuste a sus requisitos específicos.  &#124;  - Escenario 2: Fallida  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** utiliza filtros avanzados en la búsqueda de tutores, pero no encuentra tutores que cumplan con los filtros seleccionados.  **Entonces** no recibe resultados y no puede encontrar un tutor que se ajuste a sus requisitos específicos. | EP001 |
+| US003 | Visualización de Disponibilidad de Horarios | **Como** estudiante, **quiero** ver la disponibilidad de horarios de los tutores en un formato de calendario, **para** que pueda programar clases de acuerdo a mi agenda. |- Escenario 1: Existoso  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** visualiza la disponibilidad de horarios de los tutores en un formato de calendario.  **Entonces** puede ver claramente los horarios disponibles de los tutores y programar clases de acuerdo a su agenda.  &#124; - Escenario 2: Fallida  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** intenta visualizar la disponibilidad de horarios de los tutores, pero la función de calendario no carga o presenta errores.  **Entonces** no puede ver los horarios disponibles de los tutores y tiene dificultades para programar clases.| EP001 |
+| US004 | Reserva de Clases | **Como** estudiante, **quiero** poder reservar clases directamente desde la plataforma, eligiendo la fecha y hora que me convenga, **para** facilitar la coordinación de lecciones. | - Escenario 1: Existoso  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** selecciona la opción de reservar una clase desde la plataforma.  **Entonces** puede elegir la fecha y hora que le convenga y la reserva se realiza con éxito, confirmando la clase.  &#124;  - Escenario 2: Fallida  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** intenta reservar una clase, pero la plataforma presenta un error técnico o no muestra las opciones de fecha y hora disponibles.  **Entonces** no puede completar la reserva de la clase y necesita intentarlo nuevamente más tarde o contactar al soporte técnico. | EP002 |
+| US005 | Seguimiento del Progreso | **Como** estudiante, **quiero** tener acceso a un seguimiento de mi progreso en las clases, incluyendo registros de asistencia y notas, **para** evaluar mi rendimiento y el impacto del tutor. | - Escenario 1: Existoso  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** accede a su perfil y selecciona la opción de "Seguimiento del Progreso" en una clase previamente tomada.  **Entonces** puede ver registros precisos de su asistencia y notas, lo que le permite evaluar su desempeño y el impacto del tutor en su aprendizaje.  &#124;  - Escenario 2: Fallida  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** intenta acceder a la función de "Seguimiento del Progreso" en una clase previamente tomada, pero la plataforma no muestra la información o presenta un error técnico.  **Entonces** no puede obtener los registros de asistencia y notas, lo que le impide evaluar su desempeño y el impacto del tutor. Debe contactar al soporte técnico para resolver el problema. | EP002 |
+| US006 | Pago en Línea de Clases | **Como** estudiante, **quiero** tener la opción de pagar por las clases en línea a través de la plataforma de Tutor'sMe, **para** mayor comodidad y seguridad en las transacciones. | - Escenario 1: Existoso  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** selecciona la opción de "Pagar en Línea" para una clase programada.  **Entonces** la plataforma le redirige a un proceso de pago seguro donde puede ingresar la información de su tarjeta de crédito o utilizar otro método de pago, y al confirmar el pago, recibe una notificación de que la transacción ha sido exitosa.  &#124;  - Escenario 2: Fallida  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** intenta seleccionar la opción de "Pagar en Línea" para una clase programada, pero la plataforma muestra un mensaje de error o no carga la página de pago.  **Entonces** el estudiante no puede completar la transacción y debe intentar nuevamente o ponerse en contacto con el soporte técnico para resolver el problema. | EP002 |
+| US007| Soporte de Chat en Vivo | **Como** estudiante, **quiero** tener la opción de pagar por las clases en línea a través de la plataforma de Tutor'sMe, **para** mayor comodidad y seguridad en las transacciones. | - Escenario 1: Existoso  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** necesita asistencia o tiene preguntas sobre la plataforma.  **Entonces** hace clic en la opción de "Chat en Vivo", se conecta con un agente de soporte en tiempo real y recibe respuestas rápidas y soluciones a sus consultas.  &#124;  - Escenario 2: Fallida  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** intenta acceder al "Chat en Vivo" pero la función no está disponible o no se conecta con un agente de soporte.  **Entonces** el estudiante no puede recibir asistencia en tiempo real y puede optar por enviar un correo electrónico al soporte técnico o buscar ayuda de otras formas. | EP003 |
+| US008 | Integración con Herramientas de Estudio | **Como** estudiante, **quiero** poder integrar herramientas de estudio como calendarios y aplicaciones de toma de notas con mi cuenta de Tutor'sMe **para** una gestión más eficiente de mis clases. | - Escenario 1: Existoso  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** desea integrar herramientas de estudio como un calendario o una aplicación de toma de notas con su cuenta en la plataforma.  **Entonces** puede configurar la integración con éxito, lo que le permite acceder y utilizar estas herramientas en conjunto con su experiencia de aprendizaje en Tutor'sMe.  &#124;  - Escenario 2: Fallida  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** intenta configurar la integración con herramientas de estudio, pero enfrenta problemas técnicos o no puede completar la configuración.  **Entonces** no puede utilizar estas herramientas en conjunto con la plataforma y puede buscar asistencia técnica para resolver los problemas. | EP003 |
+| US009 | Retroalimentación y Evaluación | **Como** estudiante, **quiero** poder proporcionar retroalimentación y evaluar a los tutores después de cada clase **para** mejorar la calidad general de la enseñanza en la plataforma. | - Escenario 1: Existoso  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** desea proporcionar retroalimentación y evaluar a un tutor después de una clase.  **Entonces** puede completar con éxito el proceso de retroalimentación y evaluación, compartiendo sus comentarios y calificaciones con la plataforma y otros estudiantes.  &#124;  - Escenario 2: Fallida  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** intenta proporcionar retroalimentación y evaluar a un tutor después de una clase, pero enfrenta problemas técnicos o no puede completar el proceso.  **Entonces** no puede compartir sus comentarios y calificaciones, y puede buscar asistencia técnica para resolver los problemas. | EP003 |
+| US010 | Creación de un Perfil de Tutor | **Como** profesor en Tutor'sMe, **quiero** poder crear un perfil detallado que muestre mis habilidades, experiencia y disponibilidad, **para** que los estudiantes puedan encontrar fácilmente mi perfil y programar clases conmigo. | - Escenario 1: Existoso  **Dado** que soy un profesor en Tutor'sMe.  **Cuando** desea crear su perfil de tutor y proporciona la información personal, habilidades y disponibilidad requeridas.  **Entonces** puede completar con éxito el proceso de creación de perfil, y los estudiantes pueden encontrar su perfil para programar clases con él.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor en Tutor'sMe.  **Cuando** intenta crear su perfil de tutor, pero enfrenta problemas técnicos o no puede proporcionar la información necesaria.  **Entonces** no puede completar el proceso de creación de perfil y puede buscar asistencia técnica para resolver los problemas. | EP004 |
+| US011 | Gestión de Perfil de Tutor | **Como** profesor, **quiero** tener acceso fácil para editar y actualizar mi perfil, **para** mantener mi perfil actualizado y atractivo para los estudiantes. | - Escenario 1: Existoso  **Dado** que soy un profesor en Tutor'sMe.  **Cuando** accede a su perfil y edita la información personal, habilidades o disponibilidad de manera exitosa.  **Entonces** los cambios se guardan correctamente, y los estudiantes pueden ver la información actualizada en su perfil.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor en Tutor'sMe.  **Cuando** intenta editar su perfil, pero enfrenta problemas técnicos o no puede guardar los cambios.  **Entonces** los cambios no se guardan, y el profesor puede buscar asistencia técnica para resolver los problemas. | EP004 |
+| US012 | Configuración de Temas de Enseñanza | **Como** profesor, **quiero** poder configurar los temas específicos que estoy dispuesto a enseñar en mi perfil, **para** que los estudiantes puedan encontrar fácilmente áreas de especialización. | - Escenario 1: Existoso  **Dado** que soy un profesor en Tutor'sMe.  **Cuando** configura los temas específicos que está dispuesto a enseñar en su perfil.  **Entonces** los temas se guardan correctamente, y los estudiantes pueden ver estas áreas de especialización en su perfil para programar clases.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor en Tutor'sMe.  **Cuando** intenta configurar los temas de enseñanza, pero enfrenta problemas técnicos o errores en el proceso.  **Entonces** los temas no se guardan, y el profesor puede buscar asistencia técnica para resolver los problemas. | EP004 |
+| US013 | Aprobación de Reservas de Clases | **Como** profesor, **quiero** recibir notificaciones y tener la capacidad de aprobar o rechazar las reservas de clases realizadas por los estudiantes, **para** tener un mayor control sobre mi agenda y garantizar una gestión eficiente de mis clases. | - Escenario 1: Existoso  **Dado** que soy un profesor en Tutor'sMe que ha recibido una notificación de reserva de clase por parte de un estudiante.  **Cuando** el profesor revisa la solicitud y la aprueba.  **Entonces** la reserva de la clase se confirma y se programa exitosamente.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor en Tutor'sMe que ha recibido una notificación de reserva de clase por parte de un estudiante.  **Cuando** el profesor intenta aprobar la reserva, pero encuentra un problema, como un error técnico o conflicto de horarios.  **Entonces** la reserva no se aprueba y el profesor se comunica con el estudiante para resolver el problema o rechazar la reserva. | EP005 |
+| US014 | Gestión de Horario | **Como** profesor, **quiero** poder gestionar y ajustar mi disponibilidad de horarios de manera fácil y rápida, **para** adaptar mi agenda según mis necesidades y la demanda de los estudiantes. | - Escenario 1: Existoso  **Dado** que soy un profesor en Tutor'sMe que desea ajustar su disponibilidad de horarios.  **Cuando** el profesor accede a la plataforma y realiza los cambios deseados en su horario.  **Entonces** los cambios se guardan exitosamente, y la disponibilidad de horarios se actualiza de acuerdo a las preferencias del profesor.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor en Tutor'sMe que desea ajustar su disponibilidad de horarios.  **Cuando** el profesor intenta hacer los cambios, pero encuentra un error técnico o una interrupción en el servicio.  **Entonces** los cambios no se guardan y el profesor debe intentarlo nuevamente cuando el sistema esté disponible o buscar asistencia técnica. | EP005 |
+| US015 | Clases Grupales | **Como** profesor, **quiero** tener la opción de ofrecer clases grupales **para** múltiples estudiantes interesados en el mismo tema. | - Escenario 1: Existoso  **Dado** que soy un profesor en Tutor'sMe que desea ofrecer una clase grupal.  **Cuando** el profesor configura una clase grupal y establece los parámetros, como el tema, la fecha y la hora. **Entonces** la clase grupal se crea exitosamente, y otros estudiantes pueden unirse a ella antes de la fecha programada.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor en Tutor'sMe que desea ofrecer una clase grupal.  **Cuando** el profesor intenta crear la clase grupal, pero encuentra un error técnico o un problema con la configuración.  **Entonces** la clase grupal no se crea y el profesor debe revisar la configuración o buscar asistencia técnica. | EP005 |
+| US016 | Comunicación con Estudiantes | **Como** profesor, **quiero** poder comunicarme con los estudiantes a través de la plataforma **para** discutir detalles de las clases y responder a preguntas. | - Escenario 1: Existoso  **Dado** que soy un profesor registrado en Tutor'sMe.  **Cuando** inicio sesión en mi cuenta y accedo a la sección de "Comunicación".  **Entonces** puedo enviar mensajes a los estudiantes, discutir detalles de las clases y responder a preguntas.  &#124;  -  Escenario 2: Fallida  **Dado** que soy un profesor registrado en Tutor'sMe.  **Cuando** intento enviar un mensaje a un estudiante en la sección de "Comunicación".  **Entonces** enfrento un error técnico que impide que se envíe el mensaje. | EP006 |
+| US017 | Soporte de Chat en Vivo | **Como** profesor, **quiero** tener acceso a una función de chat en vivo **para** resolver preguntas y recibir asistencia inmediata. | - Escenario 1: Existoso  **Dado** que soy un profesor registrado en Tutor'sMe.  **Cuando** necesito ayuda o asistencia inmediata mientras uso la plataforma.  **Entonces** puedo acceder al chat en vivo, iniciar una conversación con el soporte técnico y recibir respuestas rápidas y soluciones a mis preguntas.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor registrado en Tutor'sMe.  **Cuando** intento acceder al chat en vivo para obtener asistencia.  **Entonces** encuentro que el chat no está disponible o que no puedo iniciar una conversación debido a problemas técnicos en la plataforma. | EP006 |
+| US018 | Visualización de Estadísticas de Clases | **Como** estudiante o profesor en Tutor'sMe, **quiero** poder ver estadísticas detalladas sobre las clases, incluyendo asistencia, rendimiento académico y progreso, **para** evaluar y mejorar la calidad de la enseñanza y el aprendizaje en la plataforma. | - Escenario 1: Existoso  **Dado** que soy un usuario registrado en Tutor'sMe (estudiante o profesor).  **Cuando** accedo a la sección de estadísticas de clases.  **Entonces** puedo ver de manera clara y detallada información sobre asistencia, rendimiento académico y progreso de las clases, lo que me permite evaluar y mejorar mi experiencia de enseñanza o aprendizaje.  &#124;  - Escenario 2: Fallida  **Dado** que soy un usuario registrado en Tutor'sMe (estudiante o profesor).  **Cuando** intento acceder a la sección de estadísticas de clases.  **Entonces** encuentro un mensaje de error o no se carga la información, impidiéndome ver las estadísticas debido a problemas técnicos en la plataforma. | EP006 |
+| US019 | Solicitud de Temas Específicos | **Como** estudiante, **quiero** poder solicitar lecciones sobre temas específicos que no estén disponibles en los perfiles de los tutores, **para** personalizar mi experiencia de aprendizaje. | - Escenario 1: Existoso  **Dado** que soy un estudiante registrado en Tutor'sMe.  **Cuando** el estudiante envía una solicitud de un tema específico.  **Entonces** la plataforma registra la solicitud y busca un tutor adecuado.  Y el estudiante recibe una notificación cuando se encuentra un tutor dispuesto a enseñar el tema solicitado.  &#124;  - Escenario 2: Fallida  **Dado** que soy  un estudiante registrado en Tutor'sMe.  **Cuando** el estudiante intenta enviar una solicitud de un tema específico.  **Entonces** la plataforma no permite enviar la solicitud o no recibe una respuesta adecuada. | EP007 |
+| US020 | Programación de Sesiones Grupales | **Como** estudiante, **quiero** tener la posibilidad de programar sesiones de estudio grupales con otros estudiantes que tengan intereses similares, **para** fomentar el aprendizaje colaborativo. | - Escenario 1: Existoso  **Dado** que soy un estudiante registrado en Tutor'sMe.  **Cuando** el estudiante crea una sesión grupal e invita a otros estudiantes.  **Entonces** la plataforma programa la sesión grupal y notifica a los estudiantes invitados.  Y los estudiantes invitados pueden confirmar su participación en la sesión.  &#124;  - Escenario 2: Fallida  **Dado** que soy un estudiante registrado en Tutor'sMe.  **Cuando** el estudiante intenta crear una sesión grupal, pero no invita a otros estudiantes o no especifica detalles adecuados.  **Entonces** la plataforma no programa la sesión grupal y muestra un mensaje de error.  O los estudiantes invitados no pueden confirmar su participación debido a un problema técnico. | EP007 |
+| US021 | Reporte de Ingresos | **Como** profesor, **quiero** tener acceso a un reporte detallado de mis ingresos y transacciones en la plataforma, **para** llevar un registro preciso de mis ganancias y facilitar la gestión financiera de mi actividad como tutor en Tutor'sMe | - Escenario 1: Existoso  **Dado** que soy un profesor registrado en Tutor'sMe.  **Cuando** el profesor accede a la función de reporte de ingresos.  **Entonces** la plataforma muestra un reporte detallado de los ingresos del profesor, incluyendo las clases realizadas y los pagos recibidos.  Y el profesor puede descargar el reporte en un formato conveniente.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor registrado en Tutor'sMe.  **Cuando** el profesor intenta acceder al reporte de ingresos, pero hay un problema técnico o no ha tenido ingresos.  **Entonces** la plataforma muestra un mensaje de error indicando que no hay datos disponibles en el reporte. | EP007 |
+| US022 | Calificaciones y Reseñas | **Como** estudiante de Tutor'sMe, **quiero** poder ver las calificaciones y reseñas de otros estudiantes que han tomado clases con un profesor específico **para** tomar una decisión informada sobre a quién elegir como mi tutor. | - Escenario 1: Existoso  **Dado** que soy un estudiante registrado en Tutor'sMe.  **Cuando** el estudiante busca a un profesor específico y accede a su perfil.  **Entonces** el estudiante puede ver las calificaciones y reseñas proporcionadas por otros estudiantes sobre ese profesor.  Y el estudiante puede tomar una decisión informada sobre si elegir o no a ese profesor como tutor.  &#124;  - Escenario 2: Fallida  **Dado** que soy un estudiante registrado en Tutor'sMe.  **Cuando** el estudiante busca a un profesor específico y no se muestran calificaciones o reseñas en el perfil del profesor.  **Entonces** el estudiante puede considerar que no hay suficiente información disponible y puede sentirse indeciso acerca de elegir a ese profesor como tutor. | EP008 |
+| US023 | Visualización de Perfiles Destacados | **Como** estudiante, **quiero** ver perfiles destacados de tutores con altas calificaciones y reseñas positivas **para** ayudarme a tomar decisiones informadas. | - Escenario 1: Existoso  **Dado** que soy un estudiante registrado en Tutor'sMe.  **Cuando** el estudiante busca tutores en la plataforma.  Y algunos tutores tienen perfiles destacados con altas calificaciones y reseñas positivas.  **Entonces** el estudiante puede ver los perfiles destacados y considerar la elección de uno de esos tutores para sus clases.  &#124;  - Escenario 2: Fallida  **Dado** que soy un estudiante registrado en Tutor'sMe.  **Cuando** el estudiante busca tutores en la plataforma.  Y no hay tutores con perfiles destacados disponibles.  **Entonces** el estudiante, como resultado, puede sentir que le falta información sobre la calidad de los tutores y podría tener dificultades para tomar una decisión. | EP008 |
+| US024 | Historial de Clases y Pagos | **Como** estudiante, **quiero** tener acceso a un historial completo de mis clases anteriores y pagos realizados a través de la plataforma, **para** poder realizar un seguimiento detallado de mi historial académico y financiero. | - Escenario 1: Existoso  **Dado** que soy un estudiante registrado en Tutor'sMe.  **Cuando** el estudiante accede a su cuenta en la plataforma.  Y navega hacia la sección de historial.  **Entonces** el estudiante puede ver un registro completo de todas las clases anteriores que ha tomado y los pagos asociados a través de la plataforma.  &#124;  - Escenario 2: Fallida  **Dado** que soy un estudiante registrado en Tutor'sMe.  **Cuando** el estudiante intenta acceder a su historial de clases y pagos.  Y no se encuentra disponible ningún registro de clases anteriores o pagos.  **Entonces** el estudiante, como resultado, podría sentirse frustrado por la falta de información sobre su historial de clases y pagos a través de la plataforma. | EP008 |
+| US025 | Recomendaciones de Tutores | **Como** estudiante, **quiero** recibir recomendaciones personalizadas de tutores basadas en mis intereses y preferencias de aprendizaje, **para** poder encontrar rápidamente profesores que se adapten a mis necesidades educativas. | - Escenario 1: Existoso  **Dado** que soy un estudiante registrado en Tutor'sMe.  **Cuando** el estudiante navega por la plataforma después de haber completado algunas clases.  Y la plataforma utiliza algoritmos de recomendación para sugerir tutores basados en los intereses y preferencias de aprendizaje del estudiante.  **Entonces** el estudiante puede ver recomendaciones personalizadas de tutores que se ajustan a sus necesidades y preferencias.  &#124;  - Escenario 2: Fallida  **Dado** que soy un estudiante registrado en Tutor'sMe.  **Cuando** el estudiante busca recomendaciones de tutores en la plataforma.  Y la plataforma no puede generar recomendaciones personalizadas debido a la falta de información o actividad reciente del estudiante.  **Entonces** el estudiante no recibe recomendaciones y puede encontrar dificultades para descubrir nuevos tutores adecuados para su aprendizaje. | EP009 |
+| US026 | Configuración de Tarifas y Pagos | **Como** profesor, **quiero** poder configurar mis tarifas por hora y recibir pagos de manera eficiente a través de la plataforma, **para** tener un control completo sobre mis ingresos. | - Escenario 1: Existoso  **Dado** que soy un profesor registrado en Tutor'sMe.  **Cuando** el profesor inicia sesión en su cuenta.  Y el profesor navega a la sección de configuración de tarifas y pagos.  **Entonces** el profesor puede establecer sus tarifas por hora de enseñanza y configurar los métodos de pago para recibir ingresos de manera eficiente a través de la plataforma.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor registrado en Tutor'sMe.  **Cuando** el profesor intenta configurar sus tarifas y pagos, pero encuentra un error técnico en la plataforma o problemas con la validación de la información proporcionada.  **Entonces** el profesor no puede completar la configuración de sus tarifas y pagos, lo que podría generar inconvenientes en la recepción de sus ingresos. | EP009 |
+| US027 | Gestión de Cancelaciones de Clases | **Como** profesor, **quiero** tener una política de cancelación de clases que me permita gestionar las cancelaciones de manera justa y clara, **para** mantener una agenda de clases organizada. | - Escenario 1: Existoso  **Dado** que soy un profesor y una solicitud de cancelación con suficiente anticipación.  **Cuando** el profesor procesa la solicitud siguiendo la política de cancelación.  **Entonces** se aplica la política de reembolso y se notifica al estudiante.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor y una solicitud de cancelación tardía.  **Cuando** el profesor no puede procesarla según la política.  **Entonces** la reserva de clase original se mantiene, y el estudiante no recibe reembolso. | EP009 |
+| US028 | Notificaciones de Clases | **Como** profesor en Tutor'sMe, **quiero** recibir notificaciones instantáneas cuando un estudiante solicite una lección o me envíe un mensaje, **para** que pueda responder rápidamente y coordinar las clases de manera eficiente. | - Escenario 1: Existoso  **Dado** un profesor.  **Cuando** que soy un estudiante solicita una lección o envía un mensaje.  **Entonces** el profesor recibe notificaciones instantáneas y puede responder rápidamente.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor.  **Cuando** no hay solicitudes de lecciones ni mensajes pendientes.  **Entonces** el profesor no recibe notificaciones. | EP010 |
+| US029 | Registro de Asistencia y Notas | **Como** profesor, **quiero** poder llevar un registro de asistencia de las clases y registrar las notas de los estudiantes **para** un seguimiento efectivo. | - Escenario 1: Existoso  **Dado** que soy un profesor.  **Cuando** toma asistencia y registra notas de los estudiantes durante una clase.  **Entonces** el registro de asistencia y notas se almacena de manera adecuada para un seguimiento efectivo.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor.  **Cuando** no se toma asistencia ni se registran notas durante una clase.  **Entonces** no se almacenan registros de asistencia ni notas. | EP010 |
+| US030 | Soporte de Videoconferencia Integrado | **Como** profesor, **quiero** contar con una función de videoconferencia integrada en la plataforma que facilite la realización de clases en línea sin necesidad de utilizar aplicaciones externas, **para** mejorar la comodidad y eficiencia de las lecciones en línea y proporcionar una experiencia más fluida. |- Escenario 1: Existoso  **Dado** un profesor y un estudiante en Tutor'sMe.  **Cuando** inician una clase en línea a través de la plataforma.  **Entonces** la función de videoconferencia integrada se activa y permite una comunicación efectiva durante la clase.  &#124;  - Escenario 2: Fallida  **Dado** un profesor y un estudiante en Tutor'sMe.  **Cuando** intentan iniciar una clase en línea, pero la función de videoconferencia integrada no funciona.  **Entonces** no pueden establecer una comunicación efectiva y la clase en línea no se lleva a cabo adecuadamente.  | EP010 |
+
+### 3.3. Impact Mapping
+### 3.4. Product Backlog
+
 
 # Capítulo 4 - Product Design
 ### 4.1 Style Guidelines
 En esta sección se mostrarán los parámetros y estándares que se seguirán en el desarrollo de la aplicación web, evaluando así criterios de diseño y características que tendrá nuestra plataforma.
+#### 4.1.1 General Style Guidelines
+##### 4.1.1.1 Brand
+
+El logo de Tutor'sMe simboliza la búsqueda de conocimiento y el empoderamiento educativo. La imagen de una persona leyendo un libro representa la dedicación al aprendizaje y el crecimiento académico. Este logo refleja nuestra misión de conectar a estudiantes con profesores para facilitar su camino hacia el éxito educativo y profesional, brindándoles las herramientas necesarias para alcanzar su máximo potencial.
+
+###### **Imagen 03**
+###### Logotipo de la empresa que será utilizado en la plataforma
+
+
+[![Tutor-s-Me.png](https://i.postimg.cc/C1ZDCb4K/Tutor-s-Me.png)](https://postimg.cc/jwbLtwmV)
+
+###### Nota. Se utilizó una herramienta digital para la creación del logotipo
+
+##### 4.1.1.2 Typography
+La elección de la tipografía en el desarrollo de la plataforma desempeña un papel vital, ya que contribuye a establecer una identidad, aporta atractivo visual y facilita la comunicación con el usuario. En este sentido, hemos optado por crear un entorno que transmita una sensación de formalidad, a la vez que refleje el carácter académico y educativo de la plataforma. Por ello, hemos seleccionado cuidadosamente las siguientes fuentes tipográficas:
+
+| Tipografia | Razón |
+| ------- | ------- |
+| Concert One | Esta fuente es de estilo display, lo que le confiere un carácter de energía y vitalidad. Gracias a esta elección, logramos captar la atención de los usuarios de manera efectiva, haciendo que los títulos sean más llamativos y atractivos. |
+| Be vietman | Esta tipografía es de estilo Sans Serif, lo que transmite una sensación de modernidad, formalidad y simplicidad. Esta elección favorece la legibilidad y la utilidad al leer información crítica. De esta manera, los usuarios pueden comprender de manera sencilla los distintos apartados de la página. |
+
+###### Nota. Se buscar utilizar una variedad corta de fuentes para no sobresaturar la vista del usuario.
+
+
+###### Imagen 04
+###### Representación de las fuentes Be Vietnam & Concert One headings
+[![Captura-de-pantalla-2023-09-23-193137.png](https://i.postimg.cc/PJTwg0jC/Captura-de-pantalla-2023-09-23-193137.png)](https://postimg.cc/dkN3dHDF)
+
+###### Nota. Se representa cada uno de los encabezados y niveles.
+
+##### 4.1.1.3. Colors
+La elección de colores desempeña un papel fundamental, ya que establece la base para la percepción y experiencia del usuario en relación con la marca. Además, permite crear conexiones emocionales con los usuarios a través de las sensaciones que cada color evoca. En este contexto, hemos optado por la paleta de colores cian y sus variaciones. Este tono proporciona a los usuarios un entorno tranquilo y acogedor, así como una apariencia formal para la aplicación. Además, hemos incorporado una tonalidad de blanco para contrastar con los colores oscuros. Esto asegura que los usuarios no experimenten fatiga visual, ya que se utiliza para marcar divisiones y fondos. También hemos añadido una tonalidad oscura de cian para resaltar los botones y generar contraste con las tonalidades más claras. La paleta de colores resultante se compone de:
+
+###### Imagen 05
+###### Representación de los colores a utilizarse
+[![Captura-de-pantalla-2023-09-23-193711.png](https://i.postimg.cc/pX7d836K/Captura-de-pantalla-2023-09-23-193711.png)](https://postimg.cc/JGNmCYmh)
+[![Captura-de-pantalla-2023-09-23-193838.png](https://i.postimg.cc/g28GhjRP/Captura-de-pantalla-2023-09-23-193838.png)](https://postimg.cc/75Pv8xmB)
+
+###### Imagen 06
+###### Representación hexadecimal de los colores a utilizarse
+[![Captura-de-pantalla-2023-09-23-193916.png](https://i.postimg.cc/hjynndFV/Captura-de-pantalla-2023-09-23-193916.png)](https://postimg.cc/hzd6bhtG)
+
+###### Nota. Se utilizó la herramienta Coolors para poder representar las tonalidades
+
+##### 4.1.1.4. Spacing
+La gestión del espaciado desempeña un papel fundamental para presentar la información de manera coherente a los usuarios. Por lo tanto, hemos optado por utilizar un espaciado uniforme en toda la plataforma. Esto significa que el espaciado predeterminado entre los párrafos será consistente, lo que garantizará una coherencia visual entre las diferentes secciones de la aplicación.
+##### 4.1.1.5. Tono de comunicación
+La elección del tono de comunicación es crucial para transmitir información de manera efectiva. En nuestro caso, nos guiamos por los valores fundamentales de la marca, que incluyen credibilidad, confiabilidad y distinción. Nuestros objetivos de comunicación se centran en comunicar claramente el propósito de nuestra plataforma, transmitir la información de manera efectiva y definir un tono de comunicación coherente con nuestros valores y la experiencia que deseamos ofrecer a nuestros usuarios.
+##### 4.1.1.6. Lenguaje aplicado
+En la presentación de la información en nuestro sitio, adoptamos un enfoque formal, directo y, al mismo tiempo, atractivo. Esta estrategia tiene como objetivo mantener una percepción positiva de nuestra plataforma y la información que proporcionamos entre los usuarios. Además, cuando realicemos publicaciones en redes sociales, seguiremos las tendencias actuales para que los usuarios puedan familiarizarse más fácilmente con nuestra marca y captar su atención de manera efectiva.
+##### 4.1.1.7. Icons
+Los iconos que utilizaremos en nuestra aplicación seguirán criterios de coherencia y consistencia. De esta manera, representaremos diversos conceptos y funciones mediante modelos específicos que garantizarán una experiencia de usuario unificada y fácil de comprender.
+
+###### Imagen 07
+###### Representación de los íconos a utilizarse
+[![Captura-de-pantalla-2023-09-23-194608.png](https://i.postimg.cc/ZqfYbgp9/Captura-de-pantalla-2023-09-23-194608.png)](https://postimg.cc/R3HxGgP9)
+###### Nota. Este patrón será utilizado en cada guideline representado.
+
+#### 4.1.2. Web Style Guidelines
+### 4.2. Information Architecture
+#### 4.2.1. Organization Systems
 #### 4.2.2. Labeling Systems
 Para las etiquetas de la plataforma utilizamos técnicas que representan el contenido de forma simple y clara. Para ello, definimos las siguientes características:
 - Títulos: con un promedio de entre 3 a 4 palabras, debemos mostrar la sección de forma clara para el fácil entendimiento del usuario.
@@ -177,7 +364,125 @@ A su vez, tenemos también las siguientes representaciones comúnes.
 - “Recuperar Contraseña” permitirá recuperar la contraseña existente o cambiarla de ser necesario, a través de un correo electrónico o mensaje de texto como método de verificación.
 - “Perfil” incluirá la información registrada del perfil y la opción de modificar dichos datos.
 
-#### 4.3.1 Landing Page Wireframe
-[Link del Landing Page Wireframe en Google Fotos](https://photos.app.goo.gl/9Y6EhuH7Qx97d7Q4A)
+#### 4.2.3 SEO Tags and Meta Tags
+Los Meta tags son etiquetas invisibles que brindaran datos sobre la página web
+a los motores de búsqueda y visitantes del sitio web, facilitan que los motores
+de búsqueda determinen el propósito de nuestra aplicación, por lo tanto, son
+vitales para el SEO.
+1. Title tags:
+``` 
+<head>
+  <title>Tutor'sMe - Encuentra el Profesor Perfecto</title>
+</head>
+```
+2. Meta description:
+``` 
+<head>
+  <meta name="description" content="Tutor'sMe conecta a estudiantes universitarios y escolares con profesores altamente calificados. Encuentra clases personalizadas y mejora tu desempeño académico.">
+</head>
+``` 
+3. Robot Meta Tag:
+``` 
+<head>
+  <meta name="robots" content="index, follow" />
+</head>
+```
+4. Alt Text:
+``` 
+<div class="download-ios-and">
+  <img src="pictures/googlePlay.png" alt="Descargar en Google Play">
+  <img src="pictures/appStore.png" alt="Descargar en App Store">
+</div>
+``` 
+5. Keyword:
+``` 
+<head>
+  <meta name="keywords" content="educación, tutoría, profesor particular, clases personalizadas, estudiantes universitarios, estudiantes de primaria, mejora académica">
+</head>
+```
+6. Author:
+``` 
+<head>
+  <meta name="author" content="Tutor'sMe">
+</head>
+``` 
 
+
+
+
+
+
+
+
+#### 4.2.4 Searching Systems
+#### 4.2.5. Navigation Systems
+### 4.3. Landing Page UI Design
+#### 4.3.1. Landing Page Wireframe
+[Link del Landing Page Wireframe en Google Fotos](https://photos.app.goo.gl/9Y6EhuH7Qx97d7Q4A)
+#### 4.3.2. Landing Page Mock-ups (Giako)
+
+##### 4.3.2.1. Página principal
+
+##### 4.3.2.2. Servicios
+
+##### 4.3.2.3. Planes
+
+##### 4.3.2.4. Aplicativo
+
+##### 4.3.2.1. Conócenos
+
+
+
+
+### 4.4. Web Application UX/UI Design
+En esta sección, abordaremos el diseño de experiencia de usuario (UX) y diseño de interfaz de usuario (UI) específicamente adaptados para nuestra aplicación web. Estas disciplinas desempeñan un papel crítico en la creación de una experiencia de usuario efectiva y atractiva. Nuestro enfoque de diseño se centrará en garantizar una experiencia de usuario de alta calidad y coherente en toda la aplicación.
+
+#### 4.4.1. Web Application Wireframe
+#### 4.4.2. Web Application Mock-ups
+#### 4.4.3. Web Application Flow Diagrams (Giako)
+### 4.5. Web Application Prototyping
+### 4.6. Domain-Driven Software Architecture
+#### 4.6.1. Software Architecture Context Diagrams
+#### 4.6.2. Software Architecture Container Diagrams
+#### 4.6.3. Software Architecture Components Diagrams (Giako)
+### 4.7. Software Object-Oriented Design
+En esta sección, abordaremos el diseño orientado a objetos de software, que es fundamental para la estructura y arquitectura de nuestra aplicación. El diseño orientado a objetos se basa en los principios de la programación orientada a objetos (POO) y se utilizará para modelar y organizar nuestro software de manera eficiente y modular.
+
+#### 4.7.1. Class Diagrams
+#### 4.7.2. Class Dictionary
+### 4.8. Database Design (Giako)
+#### 4.8.1. Database Diagram
 # Capítulo 5 - Product Implementation, Validation & Deployment
+### 5.1. Software Configuration Management
+#### 5.1.1. Software Development Environment Configuration
+#### 5.1.2. Source Code Management
+#### 5.1.3. Source Code Style Guide & Conventions
+#### 5.1.4. Software Deployment Configuration (Giako)
+Para tener una óptima visualización de la elaboración de nuestro Landing Page usamos la opción de GitHub llamado GitHub Page para así mostrar cada commit del Landing Page ya desplegado:
+
+Link de la pagina:(pegan aqui el link)
+
+
+### 5.2. Lading Page, Services & Application Implementations
+#### 5.2.X.1. Sprint Planning X
+#### 5.2.X.2. Sprint Backlog X
+#### 5.2.X.3. Development Evidence for Sprint Review (Giako)
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
+|---------|---------|---------|---------|---------|---------|
+|https://github.com/SI729-2302-WX52-Grupo-4/daos-overview-2302/tree/main |  | | | - | |
+| | | | |  - | |
+| | | | | - | |
+| | | | | -| |
+| | | | | -| |
+
+#### 5.2.X.4. Testing Suite Evidence for Sprint Review
+#### 5.2.X.5. Execution Evidence for Sprint Review
+#### 5.2.X.6. Services Documentation Evidence for Sprint Review
+#### 5.2.X.7. Software Deployment Evidence for Sprint Review
+#### 5.2.X.8. Team Collaboration Insights during Sprint (Giako)
+### 5.3. Validation Interviews
+#### 5.3.1. Diseño de Entrevistas
+#### 5.3.2. Registro de Entrevistas
+#### 5.3.3. Evaluación según heurísticas
+### 5.4. Video About the Product (Giako)
