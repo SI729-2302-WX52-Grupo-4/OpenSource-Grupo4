@@ -216,7 +216,11 @@ Imagen 1.
 | Buscar Clases por Tema       | Alta / Alta                         | Media / Alta                      |
 
 
-#### 2.3.3 User Journey Mapping 
+#### 2.3.3 User Journey Mapping
+Alumno
+![Alumno journey map.png](Alumno%20journey%20map.png)
+Docente
+![Teacher journey map.png](Teacher%20journey%20map.png)
 #### 2.3.4 Empathy Mapping
 #### 2.3.5 As-Is Scenario Mapping
 
@@ -284,6 +288,10 @@ Imagen 1.
 | US030 | Soporte de Videoconferencia Integrado | **Como** profesor, **quiero** contar con una función de videoconferencia integrada en la plataforma que facilite la realización de clases en línea sin necesidad de utilizar aplicaciones externas, **para** mejorar la comodidad y eficiencia de las lecciones en línea y proporcionar una experiencia más fluida. |- Escenario 1: Existoso  **Dado** un profesor y un estudiante en Tutor'sMe.  **Cuando** inician una clase en línea a través de la plataforma.  **Entonces** la función de videoconferencia integrada se activa y permite una comunicación efectiva durante la clase.  &#124;  - Escenario 2: Fallida  **Dado** un profesor y un estudiante en Tutor'sMe.  **Cuando** intentan iniciar una clase en línea, pero la función de videoconferencia integrada no funciona.  **Entonces** no pueden establecer una comunicación efectiva y la clase en línea no se lleva a cabo adecuadamente.  | EP010 |
 
 ### 3.3. Impact Mapping
+Alumno
+![Student Impact Map.png](Student%20Impact%20Map.png)
+Docente
+![Teacher Impact map.png](Teacher%20Impact%20map.png)
 ### 3.4. Product Backlog
 
 
@@ -416,6 +424,10 @@ vitales para el SEO.
 
 #### 4.2.4 Searching Systems
 #### 4.2.5. Navigation Systems
+#### Landing page:
+Esta cuenta con una barra de navegación fija. De modo que siempre esté a la disposición del usuario mientras se desplaza por la página. Incluye un botón de iniciar sesión y registrarse que están elazados directamente con la aplicación web. El pie de página incluye enlazes para las secciones relevantes de la lading page.
+#### App Web:
+Incluye una barra de navegación para enlazar las secciones importantes para los usuarios, como: Perfil, calendario de sesiones, materiales, búsqueda de docentes (en el caso de los alumnos), etc.
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
 [Link del Landing Page Wireframe en Google Fotos](https://photos.app.goo.gl/9Y6EhuH7Qx97d7Q4A)
