@@ -9,7 +9,7 @@ La misión de Tutor'sMe es contribuir a combatir el desempleo en el país, conec
 La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de llegar a más personas que necesiten empleo, al mismo tiempo que asistimos a las empresas en la búsqueda del talento adecuado según sus requisitos.
 
 - **Valores:**
-|
+
 - Responsabilidad social
 - Valor por el aprendizaje
 - Orientación al cliente
