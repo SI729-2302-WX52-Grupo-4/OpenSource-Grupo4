@@ -300,10 +300,11 @@ Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valios
 | US030 | Soporte de Videoconferencia Integrado | **Como** profesor, **quiero** contar con una función de videoconferencia integrada en la plataforma que facilite la realización de clases en línea sin necesidad de utilizar aplicaciones externas, **para** mejorar la comodidad y eficiencia de las lecciones en línea y proporcionar una experiencia más fluida. |- Escenario 1: Existoso  **Dado** un profesor y un estudiante en Tutor'sMe.  **Cuando** inician una clase en línea a través de la plataforma.  **Entonces** la función de videoconferencia integrada se activa y permite una comunicación efectiva durante la clase.  &#124;  - Escenario 2: Fallida  **Dado** un profesor y un estudiante en Tutor'sMe.  **Cuando** intentan iniciar una clase en línea, pero la función de videoconferencia integrada no funciona.  **Entonces** no pueden establecer una comunicación efectiva y la clase en línea no se lleva a cabo adecuadamente.  | EP010 |
 
 ## 3.3. Impact Mapping
-Alumno
+## - **Alumno:**
 ![Student Impact Map.png](Student%20Impact%20Map.png)
-Docente
+## - **Docente:**
 ![Teacher Impact map.png](Teacher%20Impact%20map.png)
+
 ## 3.4. Product Backlog
 |***# ORDEN***|***USER STORY ID***|***TÍTULO***|***DESCRIPCIÓN***|***STORY POINTS (1/2/3/5/8)***|
 | :-: | :-: | :-: | :-: | :- |
