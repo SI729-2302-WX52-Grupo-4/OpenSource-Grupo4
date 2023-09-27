@@ -11,11 +11,11 @@ La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de 
 - **Valores:**
   
 - Responsabilidad social
-- Valor por el aprendizaje
-- Orientación al cliente
-- Transparencia
-- Diferencia
-- Pasión
+###- Valor por el aprendizaje
+###- Orientación al cliente
+###- Transparencia
+###- Diferencia
+###- Pasión
 
 ### 1.1.2. Perfil de los integrantes 
 - **Aaron Raizo Valdivia Kaneko - U202020152:**
