@@ -305,9 +305,9 @@ Alumno
 Docente
 ![Teacher Impact map.png](Teacher%20Impact%20map.png)
 ## 3.4. Product Backlog
-|***# ORDEN***|***USER STORY ID***|***TÍTULO***|***DESCRIPCIÓN***|***STORY POINTS (1/2/3/5/8)***|
+|# ORDEN|***USER STORY ID***|***TÍTULO***|***DESCRIPCIÓN***|***STORY POINTS (1/2/3/5/8)***|
 | :- | :- | :- | :- | :- |
-|1  |US001|<p>Búsqueda de Tutores</p><p></p>|Como estudiante de Tutor'sMe, quiero poder buscar profesores por área de estudio y disponibilidad para encontrar rápidamente un tutor que se adapte a mis necesidades y horarios de estudio.                                                        |3|
+|1|US001|<p>Búsqueda de Tutores</p><p></p>|Como estudiante de Tutor'sMe, quiero poder buscar profesores por área de estudio y disponibilidad para encontrar rápidamente un tutor que se adapte a mis necesidades y horarios de estudio.|3|
 |2  |US002|Filtros Avanzados de Búsqueda             |Como estudiante, quiero utilizar filtros avanzados en la búsqueda de tutores, como nivel de experiencia, tarifa por hora y ubicación, para encontrar un tutor que se ajuste a mis requisitos específicos.                                           |3|
 |3  |US003|Visualización de Disponibilidad de Horarios|Como estudiante, quiero ver la disponibilidad de horarios de los tutores en un formato de calendario, para que pueda programar clases de acuerdo a mi agenda.                                                                                       |2|
 |4  |US004|Reserva de Clases                         |Como estudiante, quiero poder reservar clases directamente desde la plataforma, eligiendo la fecha y hora que me convenga, para facilitar la coordinación de lecciones.                                                                               |5|
