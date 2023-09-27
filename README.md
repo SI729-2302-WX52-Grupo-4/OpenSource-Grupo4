@@ -93,7 +93,7 @@ Mediremos nuestro éxito a través de dos indicadores clave. En primer lugar, co
 
 #### 1.2.2.4. Lean UX Canvas
 
-[Link del Lean UX Canvas en Google Fotos](https://photos.app.goo.gl/JB33xmXNU1qYEvyg7)
+[![imagen-2023-09-09-011044368.png](https://i.postimg.cc/hj8pgjb8/imagen-2023-09-09-011044368.png)](https://postimg.cc/5Y0wSfrj)
 
 ### 1.3. Segmentos objetivo
 
@@ -102,6 +102,39 @@ Definir el segmento objetivo es esencial para dirigir de manera efectiva nuestra
 **Estudiantes Universitarios:** Nuestro enfoque principal se dirige a jóvenes y adultos que actualmente están matriculados en programas de educación superior en Perú. Este grupo abarca una amplia variedad de disciplinas académicas y busca un apoyo educativo personalizado. Los estudiantes universitarios confían en Tutor'sMe para acceder a profesores altamente calificados que pueden ayudarles a comprender conceptos complejos, prepararse de manera efectiva para exámenes y elevar su desempeño académico en el nivel universitario. Estamos comprometidos en ser un recurso esencial para su éxito educativo, brindando acceso a clases de calidad y oportunidades de aprendizaje personalizado que les ayuden a alcanzar sus metas académicas y profesionales.
 
 **Docentes:** Nuestro enfoque en este segmento está centrado en profesionales de la educación en Perú que buscan activamente oportunidades laborales alineadas con sus habilidades y preferencias. Esto incluye tanto a docentes desempleados que buscan reintegrarse al mercado laboral como a aquellos que desean cambiar de empleo para encontrar un entorno más adecuado a sus intereses y competencias. Tutor'sMe se presenta como un recurso fundamental para que estos docentes puedan promocionar sus habilidades y conectarse con ofertas educativas que se ajusten a sus perfiles y preferencias de enseñanza. Nuestra plataforma se compromete a apoyar a estos profesionales en su búsqueda de empleo y oportunidades de enseñanza, contribuyendo así al desarrollo educativo y profesional en nuestro país.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Capítulo 2 - Requirement Elicitation and Analysis
