@@ -242,8 +242,8 @@ Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valios
 
 
 
-# Capítulo 3 - Requirements Specification
-### 3.1. To-Be Scenario Mapping
+# CAPITULO III - REQUITEMENTS SPECIFICATION
+## 3.1. To-Be Scenario Mapping
 
 | Fases    | Búsqueda de Oportunidades Educativas                                                                                                                                                                                                                                                     | Selección y Evaluación de Oportunidades                                                                                                                                                                                           | Solicitud de Oportunidades                                                                                                                                                                    | Seguimiento y Comunicación                                                                                                                                                                                                                       |
 |----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -251,7 +251,7 @@ Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valios
 | Thinking | - Consideran la importancia de encontrar oportunidades educativas que se alineen con sus metas académicas y profesionales. <br/>- Evalúan si deben buscar oportunidades locales o internacionales y si desean programas de estudio en línea o presenciales.                              | - Consideran si cumplen con los requisitos y si la oportunidad se ajusta a sus objetivos académicos y profesionales. <br/>- Evalúan si tienen el tiempo y los recursos necesarios para participar en la oportunidad seleccionada. | - Reflexionan sobre la importancia de presentar una solicitud completa y precisa. <br/>- Consideran cómo destacar sus habilidades y experiencias en sus solicitudes.                          | - Reflexionan sobre la importancia de mantenerse informados sobre el estado de sus solicitudes. <br/>- Consideran si necesitan realizar un seguimiento adicional con las instituciones.                                                          |
 | Feeling  | - Se sienten motivados por la posibilidad de encontrar oportunidades educativas que impulsen su carrera. Experimentan un sentido de anticipación y emoción al comenzar la búsqueda. <br/>- Pueden sentirse un poco abrumados al evaluar todas las opciones disponibles en la plataforma. | - Experimentan un sentido de logro cuando encuentran oportunidades que se adaptan a sus necesidades y deseos. <br/>- Pueden sentir incertidumbre sobre si cumplen con los requisitos y si podrán seguir el programa de estudio.   | - Experimentan un sentido de compromiso al completar las solicitudes. <br/>- Pueden sentir cierta ansiedad por la competencia y la posibilidad de ser aceptados en las oportunidades.              | - Experimentan emociones mixtas de esperanza y ansiedad mientras esperan noticias sobre sus solicitudes. <br/>- Se sienten aliviados cuando reciben actualizaciones positivas y se sienten motivados a seguir adelante en su búsqueda educativa. |
 
-### 3.2. User Stories
+## 3.2. User Stories
 
 | Epic ID | Título | Descripción|
 |---------|--------|------------|
@@ -299,12 +299,12 @@ Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valios
 | US029 | Registro de Asistencia y Notas | **Como** profesor, **quiero** poder llevar un registro de asistencia de las clases y registrar las notas de los estudiantes **para** un seguimiento efectivo. | - Escenario 1: Existoso  **Dado** que soy un profesor.  **Cuando** toma asistencia y registra notas de los estudiantes durante una clase.  **Entonces** el registro de asistencia y notas se almacena de manera adecuada para un seguimiento efectivo.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor.  **Cuando** no se toma asistencia ni se registran notas durante una clase.  **Entonces** no se almacenan registros de asistencia ni notas. | EP010 |
 | US030 | Soporte de Videoconferencia Integrado | **Como** profesor, **quiero** contar con una función de videoconferencia integrada en la plataforma que facilite la realización de clases en línea sin necesidad de utilizar aplicaciones externas, **para** mejorar la comodidad y eficiencia de las lecciones en línea y proporcionar una experiencia más fluida. |- Escenario 1: Existoso  **Dado** un profesor y un estudiante en Tutor'sMe.  **Cuando** inician una clase en línea a través de la plataforma.  **Entonces** la función de videoconferencia integrada se activa y permite una comunicación efectiva durante la clase.  &#124;  - Escenario 2: Fallida  **Dado** un profesor y un estudiante en Tutor'sMe.  **Cuando** intentan iniciar una clase en línea, pero la función de videoconferencia integrada no funciona.  **Entonces** no pueden establecer una comunicación efectiva y la clase en línea no se lleva a cabo adecuadamente.  | EP010 |
 
-### 3.3. Impact Mapping
+## 3.3. Impact Mapping
 Alumno
 ![Student Impact Map.png](Student%20Impact%20Map.png)
 Docente
 ![Teacher Impact map.png](Teacher%20Impact%20map.png)
-### 3.4. Product Backlog
+## 3.4. Product Backlog
 
 
 # Capítulo 4 - Product Design
