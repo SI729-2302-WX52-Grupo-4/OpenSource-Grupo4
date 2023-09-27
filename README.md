@@ -151,7 +151,7 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 - **Academia Pre Universitaria (Canal de YouTube):** Academia Pre Universitaria es un canal de YouTube diseñado específicamente para estudiantes preuniversitarios. Este canal se dedica a compartir recursos como solucionarios de exámenes de admisión y lecciones relacionadas con los temas necesarios para aprobar los exámenes de ingreso a las universidades nacionales de Perú. Proporciona acceso gratuito a contenido educativo de gran valor para aquellos estudiantes que buscan prepararse para los rigurosos exámenes de admisión universitaria en el país. Sin embargo, es importante destacar que el canal no brinda la oportunidad de interactuar en tiempo real con instructores ni ofrece certificados o credenciales formales de finalización de cursos.
 
 ### 2.1.1. Análisis competitivo
-![image](https://github.com/SI729-2302-WX52-Grupo-4/daos-overview-2302/assets/102074279/b2fa62a6-4844-4895-af29-79e4737c5e4e)
+[![Capa-1.png](https://i.postimg.cc/RC2D40Yj/Capa-1.png)](https://postimg.cc/4nb51Xs5)
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## - Excelencia en la Calidad de Datos:
