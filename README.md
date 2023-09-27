@@ -214,6 +214,7 @@ Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valios
 ![Teacher journey map.png](Teacher%20journey%20map.png)
 
 ### 2.3.4 Empathy Mapping
+[![Black-and-White-Simple-Empathy-Map-Brainstorm.png](https://i.postimg.cc/WpS7Md3J/Black-and-White-Simple-Empathy-Map-Brainstorm.png)](https://postimg.cc/Rq6fmVwM)
 ### 2.3.5 As-Is Scenario Mapping
 
 | Fases | Crear cuenta | Buscar profesores en la plataforma | Elegir al profesor ideal |  Publicar anuncios sobre clases |
