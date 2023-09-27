@@ -163,25 +163,25 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 ![img_11.png](img_11.png)
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
-## 1)	Excelencia en la Calidad de Datos:
-## a) Tácticas:
+## - Excelencia en la Calidad de Datos:
+### - Tácticas:
 - Desarrollar e implementar algoritmos avanzados de coincidencia de empleo que utilicen datos de empleos y perfiles de candidatos con una precisión y efectividad excepcionales, con el objetivo de proporcionar resultados altamente relevantes y significativos.
 - Mantener un seguimiento constante de la calidad de los datos y realizar mejoras continuas para garantizar que nuestro servicio ofrezca resultados precisos y relevantes de manera constante.
 - Realizar procesos rigurosos de limpieza y verificación de datos para asegurar la calidad y confiabilidad de la información almacenada. Esto nos proporcionará una ventaja competitiva al contar con datos precisos y actualizados.
 
-## 2) Excepcional Servicio al Cliente:
-## b) Tácticas:
+## - Excepcional Servicio al Cliente:
+### - Tácticas:
 - Establecer un equipo de atención al cliente altamente capacitado y dedicado para ofrecer respuestas rápidas y soluciones efectivas a las consultas y problemas de nuestros usuarios.
 - Realizar encuestas periódicas para recopilar opiniones de los usuarios y utilizar esta valiosa retroalimentación para identificar áreas de mejora y oportunidades de innovación en nuestro servicio. Posteriormente, aplicar ajustes y actualizaciones de manera regular para mantener la satisfacción del usuario en constante evolución.
 
-## 3)	Estrategias de Marketing Digital y Promociones Activas
-## Tácticas:
+## -	Estrategias de Marketing Digital y Promociones Activas:
+### - Tácticas:
 - Ejecutar una estrategia de marketing integral que incluya la optimización del sitio web para mejorar su visibilidad en los motores de búsqueda.
 - Establecer alianzas estratégicas con comunidades en línea relacionadas con la búsqueda de empleo para promocionar nuestros servicios y alcanzar un público más amplio.
 - Ofrecer promociones y descuentos exclusivos para atraer a nuevos usuarios interesados en nuestros servicios.
 
-## 4)	Enfoque en Segmentos de Mercado Específicos
-## d) Tácticas:
+## -	Enfoque en Segmentos de Mercado Específicos:
+### - Tácticas:
 - Identificar nichos de mercado, como industrias o ubicaciones geográficas, donde exista una alta demanda de búsqueda de empleo. Adaptar nuestro servicio para satisfacer las necesidades específicas de estos nichos.
 - Realizar investigaciones de mercado y análisis de la competencia para identificar posibles brechas en el mercado que puedan ser aprovechadas por nuestro startup. Esto nos permitirá ofrecer soluciones más enfocadas y efectivas para cada segmento de mercado identificado
 
