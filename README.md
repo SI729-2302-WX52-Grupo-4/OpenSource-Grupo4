@@ -1,6 +1,6 @@
 # Capítulo 1 - Introducción
 ## 1.1.	Startup Profile
-#### 1.1.1. Descripción de la Startup
+### 1.1.1. Descripción de la Startup
 Somos Tutor'sMe, un startup fundada por un grupo de estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra misión es ofrecer oportunidades laborales a profesionales que están en búsqueda de una posición adecuada. A través de nuestra plataforma, conectamos a los profesores con las mejores ofertas educativas que se adapten a sus preferencias y habilidades, facilitando así su búsqueda de empleo de manera eficiente y efectiva.
 ##### **Misión:**
 La misión de Tutor'sMe es contribuir a combatir el desempleo en el país, conectando a profesores desempleados con oportunidades laborales acordes a sus capacidades y preferencias de trabajo.
@@ -14,7 +14,7 @@ La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de 
 - Diferencia
 - Pasión
 
-#### 1.1.2. Perfil de los integrantes 
+### 1.1.2. Perfil de los integrantes 
 - **Aaron Raizo Valdivia Kaneko - U202020152:**
   Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software en UPC. Me gusta trabajar en equipo y tener la iniciativa para desarrollar las actividades pertinentes. Me gusta enforcarme en el ámbito de diseño UX, aunque también manejo C++, Python HTML y CSS.
 - **Giakomo Rodolfo Causso Mariano - U202118374:**
@@ -28,7 +28,7 @@ La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de 
   
 ## 1.2. Solution  Profile
 Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor. De esta forma, estaremos promoviendo la creación de empleo en el país al dar una plataforma a los docentes a la vez que ayudaremos a los jóvenes estudiantes con sus estudios. Nosotros seremos los encargados de registrar a los profesores para que den a conocer su metodología y temas para las clases. De este modo, los alumnos tendrán mayor oportunidad de encontrar al maestro adecuado. `
-#### 1.2.1. Antecedentes y Problemática
+### 1.2.1. Antecedentes y Problemática
 Aplicamos la técnica de “The 5’W’ y 2’H’s”
 - **¿Qué es el problema? (What - Qué):**
 
