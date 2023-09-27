@@ -1,7 +1,7 @@
 # Capítulo 1 - Introducción
 ### 1.1.	Startup Profile
 #### 1.1.1. Descripción de la Startup
-Somos Tutor'sMe, un startup fundado por un grupo de estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra misión es ofrecer oportunidades laborales a profesionales que están en búsqueda de una posición adecuada. A través de nuestra plataforma, conectamos a los profesores con las mejores ofertas educativas que se adapten a sus preferencias y habilidades, facilitando así su búsqueda de empleo de manera eficiente y efectiva.
+Somos Tutor'sMe, un startup fundada por un grupo de estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra misión es ofrecer oportunidades laborales a profesionales que están en búsqueda de una posición adecuada. A través de nuestra plataforma, conectamos a los profesores con las mejores ofertas educativas que se adapten a sus preferencias y habilidades, facilitando así su búsqueda de empleo de manera eficiente y efectiva.
 ##### **Misión:**
 La misión de Tutor'sMe es contribuir a combatir el desempleo en el país, conectando a profesores desempleados con oportunidades laborales acordes a sus capacidades y preferencias de trabajo.
 ##### **Visión:**
@@ -32,25 +32,25 @@ Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor.
 
 Aplicamos la técnica de “The 5’W’ y 2’H’s”
 
-¿Qué es el problema? (What - Qué)
+- ¿Qué es el problema? (What - Qué)
 En el contexto actual, se presenta una problemática crucial relacionada con la falta de acceso a clases de calidad y las dificultades que enfrentan los profesores desempleados para encontrar oportunidades laborales adecuadas.
 
-¿Cuándo sucede el problema? (When - Cuándo)
+- ¿Cuándo sucede el problema? (When - Cuándo)
 Esta problemática es relevante en el presente, donde los estudiantes y profesionales en Perú continúan enfrentando desafíos para acceder a una educación de calidad y oportunidades de enseñanza y aprendizaje efectivas.
 
-¿Dónde sucede el problema? (Where - Dónde)
+- ¿Dónde sucede el problema? (Where - Dónde)
 El problema se presenta en todo el territorio peruano, ya que afecta a estudiantes y profesores en todo el país que buscan soluciones educativas y laborales efectivas.
 
-¿A quién se le presenta el problema? ¿Cuál es tu público objetivo? (Who - Quién)
+- ¿A quién se le presenta el problema? ¿Cuál es tu público objetivo? (Who - Quién)
 Nuestro público objetivo se compone de estudiantes peruanos de todas las edades que buscan clases de alta calidad y profesores desempleados en busca de oportunidades laborales en el campo educativo.
 
-¿Por qué sucede el problema? ¿Qué situación ocasiona el problema? (Why - Por qué)
+- ¿Por qué sucede el problema? ¿Qué situación ocasiona el problema? (Why - Por qué)
 Esta problemática surge debido a la falta de una plataforma eficiente que conecte a profesores y estudiantes en Perú, lo que limita el acceso a una educación de calidad y dificulta la búsqueda de oportunidades de enseñanza y aprendizaje.
 
-¿Cómo sucede el problema? ¿Cuáles son las precondiciones para que se presente el problema? (How - Cómo)
+- ¿Cómo sucede el problema? ¿Cuáles son las precondiciones para que se presente el problema? (How - Cómo)
 El problema se agrava debido a la ausencia de una plataforma eficiente de conexión entre profesores y estudiantes en el mercado peruano, lo que dificulta la creación de oportunidades de enseñanza y aprendizaje efectivas.
 
-¿Cuánto impacto económico genera este problema? (How much - Cuánto)
+- ¿Cuánto impacto económico genera este problema? (How much - Cuánto)
 Esta problemática tiene un impacto económico significativo al limitar la capacidad de los estudiantes para acceder a una educación de calidad y dificultar que los profesores desempleados encuentren oportunidades laborales adecuadas, lo que afecta sus finanzas personales y el desarrollo educativo y profesional en el país.
 
 Esta descripción resalta de manera efectiva los antecedentes y la problemática que Tutor'sMe aborda en el mercado peruano.
