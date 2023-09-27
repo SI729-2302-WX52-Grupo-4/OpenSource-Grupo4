@@ -106,38 +106,6 @@ Definir el segmento objetivo es esencial para dirigir de manera efectiva nuestra
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS
 ## 2.1. Competidores
 En el mercado actual de la educación en línea, existen varias opciones que ofrecen una variedad de cursos y plataformas para estudiantes y profesores. Sin embargo, hemos identificado que muchas de estas opciones carecen de una experiencia personalizada y efectiva para la conexión entre profesores y estudiantes.
@@ -215,15 +183,14 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
+
 ## 2.3. Needfinding
+Habiendo determinado la necesidad del mercado con la validación de nuestros usuarios potenciales, se desarrollará la ruta de los procesos. En primer lugar, el tema que decidimos trabajar se basa en la preferencia de las personas que desean enseñar de manera online como profesores y de aquellos que buscan ser enseñados como alumnos. Después se realizó el startup del proyecto, donde se da a conocer la población afectada a la que puede dirigirse nuestro servicio y los objetivos que tenemos. Así mismo, también se realizó un análisis de los antecedentes y problemática utilizando las 5W y 2H. También se llevó a cabo el Lean Ux Process, en donde se evidenciaron las hipótesis. De igual forma, se identificó al segmento objetivo, en este caso, personas que desean enseñar de manera online y alumnos que buscan aprender a través de esta modalidad. Para este importante apartado, haciendo alusión al Needfinding, hemos logrado elaborar los diferentes aspectos y características de nuestros posibles "Usuarios" que utilizarán dicha aplicación, haciendo referencia a los perfiles de profesores y alumnos, en base a la recopilación de información extraída de las entrevistas que se han desarrollado, así como la comparativa de nuestros posibles competidores.
 
 ### 2.3.1 User Persona
 Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valiosos proporcionados por nuestros usuarios al responder preguntas específicas. Este proceso nos permite emplear la técnica de "User Persona" para crear una representación vívida de nuestro segmento objetivo a través de un personaje ficticio. De esta manera, podemos definir con precisión las metas, desafíos, frustraciones y rasgos de personalidad distintivos de nuestro público objetivo. Esta información enriquece nuestra comprensión de quienes son nuestros usuarios ideales y nos guía en la creación de soluciones más efectivas y personalizadas para satisfacer sus necesidades.
 
-Imagen 1.
 ![UntitledUserPersona](UntitledUserPersona.png)
-
-
 
 ### 2.3.2 User Task Matrix
 
@@ -239,12 +206,13 @@ Imagen 1.
 | Comunicarse con el Tutor     | Alta / Alta                         | Alta / Alta                       |
 | Buscar Clases por Tema       | Alta / Alta                         | Media / Alta                      |
 
-
 ### 2.3.3 User Journey Mapping
-Alumno
+## - **Alumno:**
 ![Alumno journey map.png](Alumno%20journey%20map.png)
-Docente
+
+## - **Docente:**
 ![Teacher journey map.png](Teacher%20journey%20map.png)
+
 ### 2.3.4 Empathy Mapping
 ### 2.3.5 As-Is Scenario Mapping
 
