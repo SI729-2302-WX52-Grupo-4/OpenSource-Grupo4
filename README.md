@@ -28,21 +28,28 @@ La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de 
 Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor. De esta forma, estaremos promoviendo la creación de empleo en el país al dar una plataforma a los docentes a la vez que ayudaremos a los jóvenes estudiantes con sus estudios. Nosotros seremos los encargados de registrar a los profesores para que den a conocer su metodología y temas para las clases. De este modo, los alumnos tendrán mayor oportunidad de encontrar al maestro adecuado. `
 #### 1.2.1. Antecedentes y Problemática
 Aplicamos la técnica de “The 5’W’ y 2’H’s”
-- ¿Qué es el problema? (What - Qué)
+- ¿Qué es el problema? (What - Qué):
+
 En el contexto actual, se presenta una problemática crucial relacionada con la falta de acceso a clases de calidad y las dificultades que enfrentan los profesores desempleados para encontrar oportunidades laborales adecuadas.
 
 - ¿Cuándo sucede el problema? (When - Cuándo):
-  Esta problemática es relevante en el presente, donde los estudiantes y profesionales en Perú continúan enfrentando desafíos para acceder a una educación de calidad y oportunidades de enseñanza y aprendizaje efectivas.
+
+Esta problemática es relevante en el presente, donde los estudiantes y profesionales en Perú continúan enfrentando desafíos para acceder a una educación de calidad y oportunidades de enseñanza y aprendizaje efectivas.
 - ¿Dónde sucede el problema? (Where - Dónde):
- El problema se presenta en todo el territorio peruano, ya que afecta a estudiantes y profesores en todo el país que buscan soluciones educativas y laborales efectivas.
+
+El problema se presenta en todo el territorio peruano, ya que afecta a estudiantes y profesores en todo el país que buscan soluciones educativas y laborales efectivas.
 - ¿A quién se le presenta el problema? ¿Cuál es tu público objetivo? (Who - Quién):
-  Nuestro público objetivo se compone de estudiantes peruanos de todas las edades que buscan clases de alta calidad y profesores desempleados en busca de oportunidades laborales en el campo educativo.
+
+Nuestro público objetivo se compone de estudiantes peruanos de todas las edades que buscan clases de alta calidad y profesores desempleados en busca de oportunidades laborales en el campo educativo.
 - ¿Por qué sucede el problema? ¿Qué situación ocasiona el problema? (Why - Por qué):
-  Esta problemática surge debido a la falta de una plataforma eficiente que conecte a profesores y estudiantes en Perú, lo que limita el acceso a una educación de calidad y dificulta la búsqueda de oportunidades de enseñanza y aprendizaje.
+
+Esta problemática surge debido a la falta de una plataforma eficiente que conecte a profesores y estudiantes en Perú, lo que limita el acceso a una educación de calidad y dificulta la búsqueda de oportunidades de enseñanza y aprendizaje.
 - ¿Cómo sucede el problema? ¿Cuáles son las precondiciones para que se presente el problema? (How - Cómo):
-  El problema se agrava debido a la ausencia de una plataforma eficiente de conexión entre profesores y estudiantes en el mercado peruano, lo que dificulta la creación de oportunidades de enseñanza y aprendizaje efectivas.
+
+El problema se agrava debido a la ausencia de una plataforma eficiente de conexión entre profesores y estudiantes en el mercado peruano, lo que dificulta la creación de oportunidades de enseñanza y aprendizaje efectivas.
 - ¿Cuánto impacto económico genera este problema? (How much - Cuánto):
-  Esta problemática tiene un impacto económico significativo al limitar la capacidad de los estudiantes para acceder a una educación de calidad y dificultar que los profesores desempleados encuentren oportunidades laborales adecuadas, lo que afecta sus finanzas personales y el desarrollo educativo y profesional en el país.
+
+Esta problemática tiene un impacto económico significativo al limitar la capacidad de los estudiantes para acceder a una educación de calidad y dificultar que los profesores desempleados encuentren oportunidades laborales adecuadas, lo que afecta sus finanzas personales y el desarrollo educativo y profesional en el país.
 
 Esta descripción resalta de manera efectiva los antecedentes y la problemática que Tutor'sMe aborda en el mercado peruano.
 
