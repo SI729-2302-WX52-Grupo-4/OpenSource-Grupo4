@@ -13,20 +13,20 @@ La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de 
 - Transparencia
 - Diferencia
 - Pasión
-- 
+
 #### 1.1.2. Perfil de los integrantes 
 - **Aaron Raizo Valdivia Kaneko - U202020152:**
   Soy estudiante de sexto ciclo de la carrera de Ingeniería de Software en UPC. Me gusta trabajar en equipo y tener la iniciativa para desarrollar las actividades pertinentes. Me gusta enforcarme en el ámbito de diseño UX, aunque también manejo C++, Python HTML y CSS.
 - **Giakomo Rodolfo Causso Mariano - U202118374:**
   Estoy cursando el 6to ciclo de la carrera de Ing. de  software. Me gusta el trabajo en equipo, por apoyar en lo necesario y trabajar de manera correcta con ganas de aprender. Soy una persona que quiere sacar lo mejor de si, se usar los lenguajes C++, Python, Java, SQL, CSS y HTML
-- **Jesica Rut Jaramillo Almora - U20201C163**
+- **Jesica Rut Jaramillo Almora - U20201C163:**
   Soy Jesica Rut Jaramillo Almora, estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Disfruto el desarrollo de interfaces web y gráficas para ordenador. Espero aprender nuevas formas de desarrollar aplicaciones web haciendo uso de angular.
-- **Manuel Alexis Vargas Quispe - U202113256**
+- **Manuel Alexis Vargas Quispe - U202113256:**
   Mi principal fortaleza es mi compromiso y habilidad innata para el trabajo en equipo, lo que me permite desempeñarme eficazmente en contextos colaborativos y mantener relaciones constructivas con mis colegas para lograr el éxito en proyectos conjuntos.
 - **Alessandro Alex Vega Paico - U201910225:**
   Mi nombre es Alessandro Vega, actualmente estoy estudiando la carrera de ingeniería de software. Soy una persona perseverante en lo que hago y me gusta aprender cosas nuevas. A lo largo de la carrera, he adquirido conocimientos en C++, HTML, MatLab, como tambien en Angular y Vue; y tengo como meta aumentar mis conocimientos en diferentes lenguajes de programación.
   
-### 1.2. Solution  Profile
+## 1.2. Solution  Profile
 Nuestro proyecto  tiene como objetivo facilitar la interacción alumno-profesor. De esta forma, estaremos promoviendo la creación de empleo en el país al dar una plataforma a los docentes a la vez que ayudaremos a los jóvenes estudiantes con sus estudios. Nosotros seremos los encargados de registrar a los profesores para que den a conocer su metodología y temas para las clases. De este modo, los alumnos tendrán mayor oportunidad de encontrar al maestro adecuado. `
 #### 1.2.1. Antecedentes y Problemática
 Aplicamos la técnica de “The 5’W’ y 2’H’s”
@@ -55,7 +55,7 @@ Esta problemática tiene un impacto económico significativo al limitar la capac
 
 Esta descripción resalta de manera efectiva los antecedentes y la problemática que Tutor'sMe aborda en el mercado peruano.
 
-#### 1.2.2. Lean UX Process
+### 1.2.2. Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
 Tutor'sMe es un proyecto destinado a abordar desafíos educativos en Perú. Tanto los profesores que buscan ofrecer sus conocimientos como los estudiantes en busca de oportunidades de aprendizaje se enfrentan a una problemática común. La falta de una plataforma eficiente para conectar a ambas partes limita el acceso a clases de alta calidad a precios asequibles. Esto se debe en gran parte a la falta de competencia y a la ausencia de un sistema claro para encontrar profesores calificados. Los estudiantes tienen dificultades para identificar y elegir a los profesores adecuados para sus necesidades educativas, mientras que los profesores luchan por promocionar sus habilidades y encontrar estudiantes interesados. Esta situación plantea un desafío significativo, ya que limita la capacidad de los estudiantes para acceder a una educación de calidad y dificulta a los profesores encontrar oportunidades para compartir su conocimiento. Nuestro proyecto se centra en la creación de una plataforma que aborde la problemática de la falta de acceso a clases de calidad y la dificultad para encontrar oportunidades de enseñanza en Perú, lo que beneficiará tanto a los estudiantes como a los profesores y contribuirá al desarrollo educativo y profesional en el país.
 
