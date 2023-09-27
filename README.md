@@ -141,7 +141,7 @@ Definir el segmento objetivo es esencial para dirigir de manera efectiva nuestra
 
 
 # CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS
-## 2.1. Competidores.
+## 2.1. Competidores
 En el mercado actual de la educación en línea, existen varias opciones que ofrecen una variedad de cursos y plataformas para estudiantes y profesores. Sin embargo, hemos identificado que muchas de estas opciones carecen de una experiencia personalizada y efectiva para la conexión entre profesores y estudiantes.
 
 - **Coursera:** Coursera es una plataforma de educación en línea que ofrece una amplia gama de cursos, programas de certificación y programas de grado en colaboración con universidades e instituciones de renombre a nivel mundial. Los cursos en Coursera cubren una amplia variedad de temas, desde ciencias de la computación hasta humanidades y negocios. La plataforma se centra en ofrecer una educación de alta calidad y brindar a los estudiantes acceso a certificados reconocidos internacionalmente. Coursera se destaca por su asociación con universidades líderes y por la variedad de opciones educativas que ofrece.
@@ -150,7 +150,7 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 
 - **Academia Pre Universitaria (Canal de YouTube):** Academia Pre Universitaria es un canal de YouTube diseñado específicamente para estudiantes preuniversitarios. Este canal se dedica a compartir recursos como solucionarios de exámenes de admisión y lecciones relacionadas con los temas necesarios para aprobar los exámenes de ingreso a las universidades nacionales de Perú. Proporciona acceso gratuito a contenido educativo de gran valor para aquellos estudiantes que buscan prepararse para los rigurosos exámenes de admisión universitaria en el país. Sin embargo, es importante destacar que el canal no brinda la oportunidad de interactuar en tiempo real con instructores ni ofrece certificados o credenciales formales de finalización de cursos.
 
-### 2.1.1. Análisis competitivo.
+### 2.1.1. Análisis competitivo
 
 ![img_3.png](img_3.png)
 ![img_4.png](img_4.png)
@@ -162,7 +162,7 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 ![img_10.png](img_10.png)
 ![img_11.png](img_11.png)
 
-### 2.1.2. Estrategias y tácticas frente a competidores.
+### 2.1.2. Estrategias y tácticas frente a competidores
 ## 1)	Excelencia en la Calidad de Datos:
 ## a) Tácticas:
 - Desarrollar e implementar algoritmos avanzados de coincidencia de empleo que utilicen datos de empleos y perfiles de candidatos con una precisión y efectividad excepcionales, con el objetivo de proporcionar resultados altamente relevantes y significativos.
@@ -186,8 +186,6 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 - Realizar investigaciones de mercado y análisis de la competencia para identificar posibles brechas en el mercado que puedan ser aprovechadas por nuestro startup. Esto nos permitirá ofrecer soluciones más enfocadas y efectivas para cada segmento de mercado identificado
 
 ## 2.2. Entrevistas
-
-
 ### 2.2.1. Diseño de entrevistas
 
 #### Profesores:
@@ -225,9 +223,9 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 - ¿Qué características u opciones considerarías necesarias en una plataforma que provee de contactos para clases particulares?
 - ¿Qué funcionalidad crees que necesita nuestro programa para retener la actividad de los alumnos en la página?
 
-#### 2.2.2. Registro de entrevistas.
-#### 2.2.3. Análisis de entrevistas.
-## 2.3. Needfinding.
+#### 2.2.2. Registro de entrevistas
+#### 2.2.3. Análisis de entrevistas
+## 2.3. Needfinding
 
 #### 2.3.1 User Persona
 Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valiosos proporcionados por nuestros usuarios al responder preguntas específicas. Este proceso nos permite emplear la técnica de "User Persona" para crear una representación vívida de nuestro segmento objetivo a través de un personaje ficticio. De esta manera, podemos definir con precisión las metas, desafíos, frustraciones y rasgos de personalidad distintivos de nuestro público objetivo. Esta información enriquece nuestra comprensión de quienes son nuestros usuarios ideales y nos guía en la creación de soluciones más efectivas y personalizadas para satisfacer sus necesidades.
@@ -265,6 +263,25 @@ Docente
 | Doing | - Ingresar mis datos personales y elegir para qué utilizaré la plataforma | - Selecciono el curso y los temas que deseo llevar | - Reviso el perfil del profesor, analizando su introducción, descripción de las clases y costo por hora | - Elijo los cursos y los temas que deseo dictar. Además, incluyo información sobre dichas clases, como la metodología y el precio por hora|
 | Thinking | - Se pregunta si la plataforma le brindará los temas y docentes que necesita | - Se pregunta si encontrará algún profesor que se adapte a sus horarios y temas de estudio | - Se pregunta qué tipo de profesor es el adecuado según su perfil y clases que ofrece | - Se pregunta si habrá usuarios que soliciten sus clases|
 | Feeling | - Se siente nervioso porque es su primera vez buscando tutores privados online | - Se siente dudoso sobre si podrá encontrar un tutor que maneje el tema y horario adecuados | - Se siente aliviado al ver la variedad de profesores y metodologías que puede elegir | - Se siente contento porque podrá tener un ingreso extra con un horario flexible|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Capítulo 3 - Requirements Specification
 ### 3.1. To-Be Scenario Mapping
