@@ -505,6 +505,7 @@ En esta sección, abordaremos el diseño de experiencia de usuario (UX) y diseñ
 En esta sección, abordaremos el diseño orientado a objetos de software, que es fundamental para la estructura y arquitectura de nuestra aplicación. El diseño orientado a objetos se basa en los principios de la programación orientada a objetos (POO) y se utilizará para modelar y organizar nuestro software de manera eficiente y modular.
 
 #### 4.7.1. Class Diagrams
+[![Class-Diagram-Png.png](https://i.postimg.cc/65yv9WNV/Class-Diagram-Png.png)](https://postimg.cc/JGCnxW0t)
 #### 4.7.2. Class Dictionary
 ### 4.8. Database Design (Giako)
 #### 4.8.1. Database Diagram
