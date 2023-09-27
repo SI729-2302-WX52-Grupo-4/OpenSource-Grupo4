@@ -56,19 +56,19 @@ Esta problemática tiene un impacto económico significativo al limitar la capac
 Esta descripción resalta de manera efectiva los antecedentes y la problemática que Tutor'sMe aborda en el mercado peruano.
 
 ### 1.2.2. Lean UX Process
-##### 1.2.2.1. Lean UX Problem Statements
+#### 1.2.2.1. Lean UX Problem Statements
 Tutor'sMe es un proyecto destinado a abordar desafíos educativos en Perú. Tanto los profesores que buscan ofrecer sus conocimientos como los estudiantes en busca de oportunidades de aprendizaje se enfrentan a una problemática común. La falta de una plataforma eficiente para conectar a ambas partes limita el acceso a clases de alta calidad a precios asequibles. Esto se debe en gran parte a la falta de competencia y a la ausencia de un sistema claro para encontrar profesores calificados. Los estudiantes tienen dificultades para identificar y elegir a los profesores adecuados para sus necesidades educativas, mientras que los profesores luchan por promocionar sus habilidades y encontrar estudiantes interesados. Esta situación plantea un desafío significativo, ya que limita la capacidad de los estudiantes para acceder a una educación de calidad y dificulta a los profesores encontrar oportunidades para compartir su conocimiento. Nuestro proyecto se centra en la creación de una plataforma que aborde la problemática de la falta de acceso a clases de calidad y la dificultad para encontrar oportunidades de enseñanza en Perú, lo que beneficiará tanto a los estudiantes como a los profesores y contribuirá al desarrollo educativo y profesional en el país.
 
-**Problem Statement 1:** Acceso Limitado a Clases de Calidad
+- **Problem Statement 1:** Acceso Limitado a Clases de Calidad
 En el entorno actual, los estudiantes en Perú enfrentan dificultades para acceder a clases de alta calidad a precios asequibles. La falta de una plataforma eficiente para conectar a profesores calificados limita sus opciones educativas y restringe su desarrollo de habilidades. 
 
-**Problem Statement 2:** Dificultad para Encontrar Profesores Calificados
+- **Problem Statement 2:** Dificultad para Encontrar Profesores Calificados
 Los profesores en Perú luchan por promocionar sus habilidades y encontrar estudiantes interesados en sus clases. La falta de una plataforma clara para la búsqueda de profesores dificulta su capacidad para llegar a un público más amplio.
 
-**Problem Statement 3:** Necesidad de una Plataforma Eficiente de Conexión
+- **Problem Statement 3:** Necesidad de una Plataforma Eficiente de Conexión
 La falta de una plataforma eficiente para conectar a profesores y estudiantes peruanos impide la creación de oportunidades de enseñanza y aprendizaje efectivas. Esto limita el acceso a una educación de calidad y restringe el crecimiento educativo y profesional en el país.
 
-##### 1.2.2.2 Lean UX Assumptions
+#### 1.2.2.2 Lean UX Assumptions
 Creemos que los clientes necesitan plataforma que facilite la comunicación entre docentes y alumnos, lo cual promoverá la contratación de docentes en la aplicación y ayudará a los estudiantes deseosos de mejorar. La aplicación brindará un organizado servicio de seguimiento de clases, evaluaciones y posibles tareas.
 - Estas necesidades se pueden resolver con una plataforma atractiva, que simplifique la gestión de tareas y evaluaciones; Además de que promueva la comunicación entra docentes y alumnos.
 - El público objetivo son partícipes del sistema educativo y son personas interesadas en lo académico.
@@ -86,7 +86,7 @@ Features:
 - Los alumnos pueden revisar el perfil del docente para evaluar su recorrido profesional, calificación de sus estudiantes y otras cuentas de redes sociales.
 - Los docentes pueden personalizar su perfil con sus logros, campos de estudio y redes sociales.
 
-##### 1.2.2.3 Lean UX Hypothesis Statement
+#### 1.2.2.3 Lean UX Hypothesis Statement
 Creemos firmemente que una plataforma capaz de enlazar a estudiantes con oportunidades de aprendizaje y crecimiento tiene el potencial de generar un impacto positivo en el sistema educativo de nuestro país. Esta creencia se apoya en la suposición de que la mayoría de los estudiantes, tanto jóvenes como adultos, están ansiosos por adquirir conocimientos y tienen acceso a dispositivos con conexión a internet, un requisito fundamental para utilizar nuestra plataforma y participar en actividades de aprendizaje en línea. Nuestra confianza en esta suposición se basa en datos del INEI (2020), que indican que el 62.9% de los hogares en Lima Metropolitana cuentan con acceso a la red.
 
 Mediremos nuestro éxito a través de dos indicadores clave. En primer lugar, consideraremos que hemos tenido un impacto positivo si logramos incrementar notablemente la participación de estudiantes en actividades de aprendizaje, enfocándonos en mejorar el compromiso y la calidad del proceso de enseñanza-aprendizaje. En segundo lugar, establecemos como un logro importante alcanzar un registro de al menos 500 estudiantes activos durante los primeros dos meses de funcionamiento de la plataforma. Estos indicadores nos servirán como métricas claras para evaluar el impacto y el alcance de nuestro servicio de educación en línea.
@@ -95,7 +95,7 @@ Mediremos nuestro éxito a través de dos indicadores clave. En primer lugar, co
 
 [![imagen-2023-09-09-011044368.png](https://i.postimg.cc/hj8pgjb8/imagen-2023-09-09-011044368.png)](https://postimg.cc/5Y0wSfrj)
 
-### 1.3. Segmentos objetivo
+## 1.3. Segmentos objetivo
 
 Definir el segmento objetivo es esencial para dirigir de manera efectiva nuestra plataforma y sus recursos. Permite una personalización precisa de nuestras ofertas, adaptándolas a las necesidades particulares de estos grupos. Por tanto, hemos identificado los siguientes segmentos objetivos:
 
