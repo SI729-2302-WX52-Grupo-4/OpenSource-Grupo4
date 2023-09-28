@@ -219,6 +219,7 @@ Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valios
 
 ### 2.3.4 Empathy Mapping
 [![Black-and-White-Simple-Empathy-Map-Brainstorm.png](https://i.postimg.cc/WpS7Md3J/Black-and-White-Simple-Empathy-Map-Brainstorm.png)](https://postimg.cc/Rq6fmVwM)
+[![Black-and-White-Simple-Empathy-Map-Brainstorm-1.png](https://i.postimg.cc/7Y7fhsTM/Black-and-White-Simple-Empathy-Map-Brainstorm-1.png)](https://postimg.cc/JGr1dQxG)
 ### 2.3.5 As-Is Scenario Mapping
 
 | Fases | Crear cuenta | Buscar profesores en la plataforma | Elegir al profesor ideal |  Publicar anuncios sobre clases |
