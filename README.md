@@ -579,6 +579,7 @@ Link de la pagina:(pegan aqui el link)
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Para este primer Sprint no fue contemplada la documentación de nuestros servicios, ya que se enfocó principalmente en la creación del Landing Page.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint (Giako)
 ### 5.2.2. Sprint 2 
