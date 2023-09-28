@@ -190,7 +190,11 @@ Habiendo determinado la necesidad del mercado con la validación de nuestros usu
 ### 2.3.1 User Persona
 Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valiosos proporcionados por nuestros usuarios al responder preguntas específicas. Este proceso nos permite emplear la técnica de "User Persona" para crear una representación vívida de nuestro segmento objetivo a través de un personaje ficticio. De esta manera, podemos definir con precisión las metas, desafíos, frustraciones y rasgos de personalidad distintivos de nuestro público objetivo. Esta información enriquece nuestra comprensión de quienes son nuestros usuarios ideales y nos guía en la creación de soluciones más efectivas y personalizadas para satisfacer sus necesidades.
 
+## Alumno: 
 [![Untitled-User-Persona.png](https://i.postimg.cc/VvQFWFbn/Untitled-User-Persona.png)](https://postimg.cc/XGLFVdLY)
+
+## Docente:
+[![Untitled-User-Persona-2.png](https://i.postimg.cc/x1GLbFMS/Untitled-User-Persona-2.png)](https://postimg.cc/yDdDMjLf)
 
 ### 2.3.2 User Task Matrix
 
