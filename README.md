@@ -562,7 +562,7 @@ Link de la pagina:(pegan aqui el link)
 |Sprint n-1 Review Summary|— (No hubo sprint anterior)|
 |Sprint n-1 Retrospective Summary|— (No hubo sprint anterior)|
 |**Sprint Goal & User Stories**||
-|Sprint 1 Goal|Landing Page XComponents|
+|Sprint 1 Goal|Landing Page Tutor'sMe|
 |Sprint 1 Velocity|Dada las condiciones de ser el primer sprint, el velocity establecido será n.|
 |Sum of Story Points|Para el presente Sprint se decidió un total de n Story Points.|
 #### 5.2.1.2. Sprint Backlog X
