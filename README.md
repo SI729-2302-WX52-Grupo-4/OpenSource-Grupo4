@@ -534,25 +534,39 @@ En esta sección, abordaremos el diseño orientado a objetos de software, que es
 
 
 # Capítulo 5 - Product Implementation, Validation & Deployment
-### 5.1. Software Configuration Management
-#### 5.1.1. Software Development Environment Configuration
-#### 5.1.2. Source Code Management
+## 5.1. Software Configuration Management
+### 5.1.1. Software Development Environment Configuration
+### 5.1.2. Source Code Management
 Nosotros usaremos el GitHub para poder tener una mejor organización y control del desarrollo de nuestro proyecto, de la cual tiene como nombre como “[OpenSource-Grupo4](https://github.com/SI729-2302-WX52-Grupo-4/OpenSource-Grupo4/tree/main)”. En lo siguiente se adjuntará enlaces correspondientes al repositorio.
 
 |**Solución**|**Nombre del repositorio**|**Enlace**|
 | :-: | :-: | :-: |
 |Landing Page|Tutor'sMe|https://acortar.link/Ctr9V8|
-#### 5.1.3. Source Code Style Guide & Conventions
-#### 5.1.4. Software Deployment Configuration (Giako)
+### 5.1.3. Source Code Style Guide & Conventions
+### 5.1.4. Software Deployment Configuration (Giako)
 Para tener una óptima visualización de la elaboración de nuestro Landing Page usamos la opción de GitHub llamado GitHub Page para así mostrar cada commit del Landing Page ya desplegado:
 
 Link de la pagina:(pegan aqui el link)
 
 
-### 5.2. Lading Page, Services & Application Implementations
-#### 5.2.X.1. Sprint Planning X
-#### 5.2.X.2. Sprint Backlog X
-#### 5.2.X.3. Development Evidence for Sprint Review (Giako)
+## 5.2. Lading Page, Services & Application Implementations
+### 5.2.1. Sprint Planning 1
+|**Sprint #**|Sprint 1|
+| :-: | :-: |
+|**Sprint Planning Background**||
+|Date|25/09/2023|
+|Time|10:30 am|
+|Location|Virtual meeting - Google meet|
+|Prepared By|Manuel Alexis Vargas Quispe|
+|Attendees(to planning meeting)|<p>Giakomo Rodolfo Causso Mariano</p><p>Jesica Rut Jaramillo Almora</p><p>Alessandro Alex Vega Paico</p><p>Manuel Alexis Vargas Quispe</p>|
+|Sprint n-1 Review Summary|— (No hubo sprint anterior)|
+|Sprint n-1 Retrospective Summary|— (No hubo sprint anterior)|
+|**Sprint Goal & User Stories**||
+|Sprint 1 Goal|Landing Page XComponents|
+|Sprint 1 Velocity|Dada las condiciones de ser el primer sprint, el velocity establecido será n.|
+|Sum of Story Points|Para el presente Sprint se decidió un total de n Story Points.|
+#### 5.2.1.2. Sprint Backlog X
+#### 5.2.1.3. Development Evidence for Sprint Review (Giako)
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
 |---------|---------|---------|---------|---------|---------|
@@ -562,13 +576,23 @@ Link de la pagina:(pegan aqui el link)
 | | | | | -| |
 | | | | | -| |
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review
-#### 5.2.X.5. Execution Evidence for Sprint Review
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review
-#### 5.2.X.8. Team Collaboration Insights during Sprint (Giako)
-### 5.3. Validation Interviews
-#### 5.3.1. Diseño de Entrevistas
-#### 5.3.2. Registro de Entrevistas
-#### 5.3.3. Evaluación según heurísticas
-### 5.4. Video About the Product (Giako)
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.8. Team Collaboration Insights during Sprint (Giako)
+### 5.2.2. Sprint 2 
+#### 5.2.2.1.Sprint Planning 2. 
+#### 5.2.2.2.Sprint Backlog 2. 
+#### 5.2.2.3.Development Evidence for Sprint Review. 
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review. 
+#### 5.2.2.5.Execution Evidence for Sprint Review. 
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review. 
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review. 
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+### 5.3.2. Registro de Entrevistas
+### 5.3.3. Evaluación según heurísticas
+## 5.4. Video About the Product (Giako)
