@@ -537,6 +537,11 @@ En esta sección, abordaremos el diseño orientado a objetos de software, que es
 ### 5.1. Software Configuration Management
 #### 5.1.1. Software Development Environment Configuration
 #### 5.1.2. Source Code Management
+Nosotros usaremos el GitHub para poder tener una mejor organización y control del desarrollo de nuestro proyecto, de la cual tiene como nombre como “[OpenSource-Grupo4](https://github.com/SI729-2302-WX52-Grupo-4/OpenSource-Grupo4/tree/main)”. En lo siguiente se adjuntará enlaces correspondientes al repositorio.
+
+|**Solución**|**Nombre del repositorio**|**Enlace**|
+| :-: | :-: | :-: |
+|Landing Page|Tutor'sMe|https://acortar.link/Ctr9V8|
 #### 5.1.3. Source Code Style Guide & Conventions
 #### 5.1.4. Software Deployment Configuration (Giako)
 Para tener una óptima visualización de la elaboración de nuestro Landing Page usamos la opción de GitHub llamado GitHub Page para así mostrar cada commit del Landing Page ya desplegado:
