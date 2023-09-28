@@ -519,6 +519,7 @@ En esta sección, abordaremos el diseño orientado a objetos de software, que es
 #### 4.7.2. Class Dictionary
 
 ## 4.8. Database Design (Giako)
+[![Captura-de-pantalla-2023-09-27-224451.png](https://i.postimg.cc/PxYTL6MD/Captura-de-pantalla-2023-09-27-224451.png)](https://postimg.cc/Q98RwJwN)
 ### 4.8.1. Database Diagram
 
 
