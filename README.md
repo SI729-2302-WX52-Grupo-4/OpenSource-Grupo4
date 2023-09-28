@@ -509,13 +509,25 @@ Se realizaron en Figma:
 ### 4.4.1. Web Application Wireframe
 [![imagen-2023-09-27-210624024.png](https://i.postimg.cc/hjwm1DpW/imagen-2023-09-27-210624024.png)](https://postimg.cc/mzYhbGv8)
 ### 4.4.2. Web Application Mock-ups
+##### 4.4.2.1 Pagina principal
+[![Captura-de-pantalla-2023-09-28-014400.png](https://i.postimg.cc/NFm6Y1qg/Captura-de-pantalla-2023-09-28-014400.png)](https://postimg.cc/n9VjG9h5)
+##### 4.4.2.2 Servicios
+[![Captura-de-pantalla-2023-09-28-014418.png](https://i.postimg.cc/YqVHTY24/Captura-de-pantalla-2023-09-28-014418.png)](https://postimg.cc/4mzq9K9Z)
+[![Captura-de-pantalla-2023-09-28-014432.png](https://i.postimg.cc/B6v7q7MJ/Captura-de-pantalla-2023-09-28-014432.png)](https://postimg.cc/Mchm5DCL)
+##### 4.4.2.2 Conocenos
+[![Captura-de-pantalla-2023-09-28-014442.png](https://i.postimg.cc/9fkgQtST/Captura-de-pantalla-2023-09-28-014442.png)](https://postimg.cc/WDMw9rsb)
+##### 4.4.2.3 Preguntas y respuestas
+[![Captura-de-pantalla-2023-09-28-014448.png](https://i.postimg.cc/Rh4DkCyb/Captura-de-pantalla-2023-09-28-014448.png)](https://postimg.cc/bDVgbPzQ)
 ### 4.4.3. Web Application Flow Diagrams (Giako)
+
+
 ## 4.5. Web Application Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagrams
 [![Agregar-texto.png](https://i.postimg.cc/bv4cxKYJ/Agregar-texto.png)](https://postimg.cc/f37rZq9n)
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams
+[![Imagen-de-Whats-App-2023-09-28-a-las-01-13-28.jpg](https://i.postimg.cc/mDcYh34x/Imagen-de-Whats-App-2023-09-28-a-las-01-13-28.jpg)](https://postimg.cc/cgSgbn6T)
 ### 4.7. Software Object-Oriented Design
 En esta sección, abordaremos el diseño orientado a objetos de software, que es fundamental para la estructura y arquitectura de nuestra aplicación. El diseño orientado a objetos se basa en los principios de la programación orientada a objetos (POO) y se utilizará para modelar y organizar nuestro software de manera eficiente y modular.
 
