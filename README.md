@@ -190,7 +190,7 @@ Habiendo determinado la necesidad del mercado con la validación de nuestros usu
 ### 2.3.1 User Persona
 Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valiosos proporcionados por nuestros usuarios al responder preguntas específicas. Este proceso nos permite emplear la técnica de "User Persona" para crear una representación vívida de nuestro segmento objetivo a través de un personaje ficticio. De esta manera, podemos definir con precisión las metas, desafíos, frustraciones y rasgos de personalidad distintivos de nuestro público objetivo. Esta información enriquece nuestra comprensión de quienes son nuestros usuarios ideales y nos guía en la creación de soluciones más efectivas y personalizadas para satisfacer sus necesidades.
 
-![UntitledUserPersona](UntitledUserPersona.png)
+[![Untitled-User-Persona.png](https://i.postimg.cc/VvQFWFbn/Untitled-User-Persona.png)](https://postimg.cc/XGLFVdLY)
 
 ### 2.3.2 User Task Matrix
 
@@ -208,10 +208,10 @@ Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valios
 
 ### 2.3.3 User Journey Mapping
 ## - **Alumno:**
-![Alumno journey map.png](Alumno%20journey%20map.png)
+[![Alumno-journey-map.png](https://i.postimg.cc/cJv64y54/Alumno-journey-map.png)](https://postimg.cc/KKymJV2d)
 
 ## - **Docente:**
-![Teacher journey map.png](Teacher%20journey%20map.png)
+[![Teacher-journey-map.png](https://i.postimg.cc/kX74RthH/Teacher-journey-map.png)](https://postimg.cc/HjPHfjm0)
 
 ### 2.3.4 Empathy Mapping
 [![Black-and-White-Simple-Empathy-Map-Brainstorm.png](https://i.postimg.cc/WpS7Md3J/Black-and-White-Simple-Empathy-Map-Brainstorm.png)](https://postimg.cc/Rq6fmVwM)
@@ -301,9 +301,9 @@ Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valios
 
 ## 3.3. Impact Mapping
 ## - **Alumno:**
-![Student Impact Map.png](Student%20Impact%20Map.png)
+[![Student-Impact-Map.png](https://i.postimg.cc/vHTJKY1B/Student-Impact-Map.png)](https://postimg.cc/mtxpzGyf)
 ## - **Docente:**
-![Teacher Impact map.png](Teacher%20Impact%20map.png)
+[![Teacher-Impact-map.png](https://i.postimg.cc/rFRhWK0S/Teacher-Impact-map.png)](https://postimg.cc/D8Fd3fcZ)
 
 ## 3.4. Product Backlog
 |***# ORDEN***|***USER STORY ID***|***TÍTULO***|***DESCRIPCIÓN***|***STORY POINTS (1/2/3/5/8)***|
@@ -510,7 +510,7 @@ Se realizaron en Figma:
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagrams
 ### 4.6.2. Software Architecture Container Diagrams
-### 4.6.3. Software Architecture Components Diagrams (Giako)
+### 4.6.3. Software Architecture Components Diagrams
 ### 4.7. Software Object-Oriented Design
 En esta sección, abordaremos el diseño orientado a objetos de software, que es fundamental para la estructura y arquitectura de nuestra aplicación. El diseño orientado a objetos se basa en los principios de la programación orientada a objetos (POO) y se utilizará para modelar y organizar nuestro software de manera eficiente y modular.
 
@@ -518,7 +518,7 @@ En esta sección, abordaremos el diseño orientado a objetos de software, que es
 [![Class-Diagram-Png.png](https://i.postimg.cc/65yv9WNV/Class-Diagram-Png.png)](https://postimg.cc/JGCnxW0t)
 #### 4.7.2. Class Dictionary
 
-## 4.8. Database Design (Giako)
+## 4.8. Database Design
 [![Captura-de-pantalla-2023-09-27-224451.png](https://i.postimg.cc/PxYTL6MD/Captura-de-pantalla-2023-09-27-224451.png)](https://postimg.cc/Q98RwJwN)
 ### 4.8.1. Database Diagram
 
