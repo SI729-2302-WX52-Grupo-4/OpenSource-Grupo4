@@ -476,14 +476,17 @@ vitales para el SEO.
 
 ### 4.2.4 Searching Systems
 ### 4.2.5. Navigation Systems
-#### Landing page:
+### - Landing page:
 Esta cuenta con una barra de navegación fija. De modo que siempre esté a la disposición del usuario mientras se desplaza por la página. Incluye un botón de iniciar sesión y registrarse que están elazados directamente con la aplicación web. El pie de página incluye enlazes para las secciones relevantes de la lading page.
-#### App Web:
+### - App Web:
 Incluye una barra de navegación para enlazar las secciones importantes para los usuarios, como: Perfil, calendario de sesiones, materiales, búsqueda de docentes (en el caso de los alumnos), etc.
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
-[Link del Landing Page Wireframe en Google Fotos](https://photos.app.goo.gl/9Y6EhuH7Qx97d7Q4A)
-### 4.3.2. Landing Page Mock-ups (Giako)
+A continuación, presentamos los diseños creados para la página de inicio de nuestra aplicación, donde los futuros usuarios podrán obtener una vista previa de las características de nuestra app y lo que pueden esperar de ella.
+[![imagen-2023-09-08-120553780.png](https://i.postimg.cc/7Pssj0Qw/imagen-2023-09-08-120553780.png)](https://postimg.cc/mh9yHzs5)
+### 4.3.2. Landing Page Mock-ups
+En las siguientes imágenes se pueden apreciar los Mock-ups de la landing page, considerando la estructura trabajada previamente en los wireframes. 
+Se realizaron en Figma: 
 
 #### 4.3.2.1. Página principal
 
@@ -499,9 +502,8 @@ Incluye una barra de navegación para enlazar las secciones importantes para los
 
 
 ## 4.4. Web Application UX/UI Design
-En esta sección, abordaremos el diseño de experiencia de usuario (UX) y diseño de interfaz de usuario (UI) específicamente adaptados para nuestra aplicación web. Estas disciplinas desempeñan un papel crítico en la creación de una experiencia de usuario efectiva y atractiva. Nuestro enfoque de diseño se centrará en garantizar una experiencia de usuario de alta calidad y coherente en toda la aplicación.
-
 ### 4.4.1. Web Application Wireframe
+[![imagen-2023-09-27-210624024.png](https://i.postimg.cc/hjwm1DpW/imagen-2023-09-27-210624024.png)](https://postimg.cc/mzYhbGv8)
 ### 4.4.2. Web Application Mock-ups
 ### 4.4.3. Web Application Flow Diagrams (Giako)
 ## 4.5. Web Application Prototyping
