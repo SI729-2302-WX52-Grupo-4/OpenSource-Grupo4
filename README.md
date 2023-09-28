@@ -349,7 +349,7 @@ Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valios
 ## 4.1 Style Guidelines
 En esta sección se mostrarán los parámetros y estándares que se seguirán en el desarrollo de la aplicación web, evaluando así criterios de diseño y características que tendrá nuestra plataforma.
 ### 4.1.1 General Style Guidelines
-#### 4.1.1.1 Brand
+#### - Brand:
 
 El logo de Tutor'sMe simboliza la búsqueda de conocimiento y el empoderamiento educativo. La imagen de una persona leyendo un libro representa la dedicación al aprendizaje y el crecimiento académico. Este logo refleja nuestra misión de conectar a estudiantes con profesores para facilitar su camino hacia el éxito educativo y profesional, brindándoles las herramientas necesarias para alcanzar su máximo potencial.
 
@@ -361,7 +361,7 @@ El logo de Tutor'sMe simboliza la búsqueda de conocimiento y el empoderamiento 
 
 ###### Nota. Se utilizó una herramienta digital para la creación del logotipo
 
-#### 4.1.1.2 Typography
+#### - Typography:
 La elección de la tipografía en el desarrollo de la plataforma desempeña un papel vital, ya que contribuye a establecer una identidad, aporta atractivo visual y facilita la comunicación con el usuario. En este sentido, hemos optado por crear un entorno que transmita una sensación de formalidad, a la vez que refleje el carácter académico y educativo de la plataforma. Por ello, hemos seleccionado cuidadosamente las siguientes fuentes tipográficas:
 
 | Tipografia | Razón |
@@ -378,7 +378,7 @@ La elección de la tipografía en el desarrollo de la plataforma desempeña un p
 
 ###### Nota. Se representa cada uno de los encabezados y niveles.
 
-#### 4.1.1.3. Colors
+#### - Colors:
 La elección de colores desempeña un papel fundamental, ya que establece la base para la percepción y experiencia del usuario en relación con la marca. Además, permite crear conexiones emocionales con los usuarios a través de las sensaciones que cada color evoca. En este contexto, hemos optado por la paleta de colores cian y sus variaciones. Este tono proporciona a los usuarios un entorno tranquilo y acogedor, así como una apariencia formal para la aplicación. Además, hemos incorporado una tonalidad de blanco para contrastar con los colores oscuros. Esto asegura que los usuarios no experimenten fatiga visual, ya que se utiliza para marcar divisiones y fondos. También hemos añadido una tonalidad oscura de cian para resaltar los botones y generar contraste con las tonalidades más claras. La paleta de colores resultante se compone de:
 
 ###### Imagen 05
@@ -392,13 +392,13 @@ La elección de colores desempeña un papel fundamental, ya que establece la bas
 
 ###### Nota. Se utilizó la herramienta Coolors para poder representar las tonalidades
 
-#### 4.1.1.4. Spacing
+#### - Spacing:
 La gestión del espaciado desempeña un papel fundamental para presentar la información de manera coherente a los usuarios. Por lo tanto, hemos optado por utilizar un espaciado uniforme en toda la plataforma. Esto significa que el espaciado predeterminado entre los párrafos será consistente, lo que garantizará una coherencia visual entre las diferentes secciones de la aplicación.
-#### 4.1.1.5. Tono de comunicación
+#### - Tono de comunicación:
 La elección del tono de comunicación es crucial para transmitir información de manera efectiva. En nuestro caso, nos guiamos por los valores fundamentales de la marca, que incluyen credibilidad, confiabilidad y distinción. Nuestros objetivos de comunicación se centran en comunicar claramente el propósito de nuestra plataforma, transmitir la información de manera efectiva y definir un tono de comunicación coherente con nuestros valores y la experiencia que deseamos ofrecer a nuestros usuarios.
-#### 4.1.1.6. Lenguaje aplicado
+#### - Lenguaje aplicado:
 En la presentación de la información en nuestro sitio, adoptamos un enfoque formal, directo y, al mismo tiempo, atractivo. Esta estrategia tiene como objetivo mantener una percepción positiva de nuestra plataforma y la información que proporcionamos entre los usuarios. Además, cuando realicemos publicaciones en redes sociales, seguiremos las tendencias actuales para que los usuarios puedan familiarizarse más fácilmente con nuestra marca y captar su atención de manera efectiva.
-#### 4.1.1.7. Icons
+#### - Icons:
 Los iconos que utilizaremos en nuestra aplicación seguirán criterios de coherencia y consistencia. De esta manera, representaremos diversos conceptos y funciones mediante modelos específicos que garantizarán una experiencia de usuario unificada y fácil de comprender.
 
 ###### Imagen 07
