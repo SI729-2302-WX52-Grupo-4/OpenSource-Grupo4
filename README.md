@@ -509,6 +509,7 @@ Se realizaron en Figma:
 ## 4.5. Web Application Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagrams
+[![Agregar-texto.png](https://i.postimg.cc/bv4cxKYJ/Agregar-texto.png)](https://postimg.cc/f37rZq9n)
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams
 ### 4.7. Software Object-Oriented Design
