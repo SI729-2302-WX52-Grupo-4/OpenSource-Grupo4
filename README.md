@@ -407,8 +407,17 @@ Los iconos que utilizaremos en nuestra aplicación seguirán criterios de cohere
 ###### Nota. Este patrón será utilizado en cada guideline representado.
 
 ### 4.1.2. Web Style Guidelines
+Lo siguiente corresponde a la guía para la versión web. Se puede visualizar con mejor detalle en el siguiente link:
+
 ## 4.2. Information Architecture
+En esta sección detallaremos, analizaremos y sustentamos todas las decisiones del diseño que tomamos durante el desarrollo del presente proyecto. También, explicaremos las propuestas del diseño de nuestra aplicación y landing page para facilitar la adaptación e interacción del usuario.
 ### 4.2.1. Organization Systems
+Para la elaboración de la arquitectura y diseño de la información del landing page y de la página web, se decidió usar el formato jerárquico. Esto con la finalidad de una fácil navegación y comodidad para el usuario.
+El formato que se usará será el siguiente:
+- La barra de navegación, las cuales contendrán las distintas secciones de la página y serán redireccionados a cada una de ellas.
+- Nombre del startup y la descripción, la misma que serán resumidas en una frase en un primer inicio.
+- Botones para registrarse e iniciar sesión, los cuales servirán como puente para nuestra aplicación web.
+
 ### 4.2.2. Labeling Systems
 Para las etiquetas de la plataforma utilizamos técnicas que representan el contenido de forma simple y clara. Para ello, definimos las siguientes características:
 - Títulos: con un promedio de entre 3 a 4 palabras, debemos mostrar la sección de forma clara para el fácil entendimiento del usuario.
@@ -464,13 +473,6 @@ vitales para el SEO.
   <meta name="author" content="Tutor'sMe">
 </head>
 ``` 
-
-
-
-
-
-
-
 
 ### 4.2.4 Searching Systems
 ### 4.2.5. Navigation Systems
