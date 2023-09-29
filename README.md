@@ -184,6 +184,13 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 ### 2.2.2. Registro de entrevistas
 
 #### - Entrevistas a Alumnos
+-	Entrevista #1:
+A cargo de: XXXXXXXX
+Nombre del entrevistado: XXXXXX (19 años)
+Duración: X:XX - Enlace: XXXXX
+
+
+
 
 | Nombres y Apellidos | Dayana Maia Baltodano Melgarejo            |
 |---------------------|--------------------------------------------|
@@ -230,6 +237,9 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 
 
 ### 2.2.3. Análisis de entrevistas
+-	Entrevista #1: 
+RESUMEN DE LA ENTREVISTA XXXX
+
 
 ## 2.3. Needfinding
 Habiendo determinado la necesidad del mercado con la validación de nuestros usuarios potenciales, se desarrollará la ruta de los procesos. En primer lugar, el tema que decidimos trabajar se basa en la preferencia de las personas que desean enseñar de manera online como profesores y de aquellos que buscan ser enseñados como alumnos. Después se realizó el startup del proyecto, donde se da a conocer la población afectada a la que puede dirigirse nuestro servicio y los objetivos que tenemos. Así mismo, también se realizó un análisis de los antecedentes y problemática utilizando las 5W y 2H. También se llevó a cabo el Lean Ux Process, en donde se evidenciaron las hipótesis. De igual forma, se identificó al segmento objetivo, en este caso, personas que desean enseñar de manera online y alumnos que buscan aprender a través de esta modalidad. Para este importante apartado, haciendo alusión al Needfinding, hemos logrado elaborar los diferentes aspectos y características de nuestros posibles "Usuarios" que utilizarán dicha aplicación, haciendo referencia a los perfiles de profesores y alumnos, en base a la recopilación de información extraída de las entrevistas que se han desarrollado, así como la comparativa de nuestros posibles competidores.
