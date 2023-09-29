@@ -625,7 +625,7 @@ https://www.figma.com/proto/0xCE15wkhHyODenKqzeTlC/landing-open?type=design&node
 
 
 ## 4.5. Web Application Prototyping
-Ahorita le meto floro, dame un toque mi king
+Se desarrolló el prototipo de la aplicación utilizando Figma.
 
 https://www.figma.com/proto/7F0ixEcdZbPS7nxIpwBOVD/Untitled?type=design&node-id=1-2&t=1zQDimH0pxNpDnip-1&scaling=scale-down&page-id=0%3A1&mode=design
 
