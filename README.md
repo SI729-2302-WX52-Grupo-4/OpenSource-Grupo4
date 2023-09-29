@@ -203,16 +203,24 @@ Duración: 6:59 - Enlace: https://youtu.be/Ze-FhhqOmbQ?si=3J16GSX99vd38jWK
 
 #### - Entrevistas a Profesores 
 
+A cargo de: Manuel Vargas
+
+Nombre del entrevistado: Manuel Alfredo (32 años)
+
+Duración: 6:59 - Enlace:
 
 ### 2.2.3. Análisis de entrevistas
-#### - Entrevistas a Alumnos
+### - Entrevistas a Alumnos
 #### -	Entrevista #1:
 JesicaNDayana es una joven de 19 años, estudiante de Arquitectura en la Universidad Peruana del Norte.Está llevando 5 cursos pero tiene dificultades en 2 de ellos. Ella busca un profesor que tenga paciencia y sea fácil de entender. Considera que el método de enseñanza del profesor es muy importante para la clase. Valora que una clase sea dinámica y haya una buena comunicación profesor alumno. Estudia con medios audiovisuales. Y no ha tomado clases particulares. Sin embargo está dispuesta a pagar 25 soles por una primera clase. Su motivación para tomar una clase es que sea barata. Sus expectativas sobre una aplicación que ofrezca este servicio es que tenga comunicacion directa con los profesores y que pueda enviarles su trabajo. La funcionalidad que recomienda para retener la actividad e los alumnos es que los profesores revisen y califiquen sus tareas.[![Captura-de-pantalla-2023-09-28-185911.png](https://i.postimg.cc/9FHXZBtL/Captura-de-pantalla-2023-09-28-185911.png)](https://postimg.cc/jCvrrP1f)
 #### -	Entrevista #2:
 Ramon Haro es un joven de 21 años, estudiante de Comunicación Audiovisual y Medios Interactivos en la Universidad Peruana de Ciencias Aplicadas. Actualmente esta llevando 5 cursos pero tiene dificultades en 2 de ellos. Considera que prefiere un profesor que lo motive a llevar el curso. También, nos comento que la metodologia del profesor es importante, ya que, segun sus palabras, si un profesor es demasiado estricto, termina estresando a los alumnos y quitando el interes de aprender. Él refiere las clases dinámicas y prácticas pero reconoce que el enfoque puede variar según la materia. También, expresa su preferencia por ser autodidacta para evitar costos, creyendo que si otros pueden aprender, él también puede. Analiza la falta de motivación para buscar clases privadas y enfatiza la necesidad de criterios específicos en la selección de profesores. Además, sugiere la idea de una plataforma que conecte a los estudiantes con tutores privados, diseñados para temas específicos en diferentes carreras. Nos propuso funciones como revisiones y comentarios de los profesores, además de permitir que los estudiantes se registren como tutores dentro de la aplicación para fomentar la colaboración y garantizar el éxito de la plataforma en un mercado competitivo.[![entrevista-alumno.png](https://i.postimg.cc/fLyYsRsH/entrevista-alumno.png)](https://postimg.cc/Q9LFksH5)
-#### - Entrevistas a Docentes
+### - Entrevistas a Docentes
 #### -	Entrevista #1:
+Manuel Alfredo, de 32 años, es un profesor titulado en informática con 3 años de experiencia en educación secundaria. Está interesado en impartir clases semi-presenciales de informática a través de la plataforma. Destaca por su enfoque en clases didácticas e interactivas. Considera que un buen profesor debe saber llegar a los alumnos y ser un excelente profesional. Utilizaría Zoom para dar clases y encuentra motivación en la ingeniosidad de la plataforma. Ha enfrentado dificultades con la optimización en otras plataformas y espera que esta nueva plataforma ayude a los alumnos a explorar sus temas de interés de manera efectiva.
 
+
+#### -	Entrevista #2:
 ## 2.3. Needfinding
 Habiendo determinado la necesidad del mercado con la validación de nuestros usuarios potenciales, se desarrollará la ruta de los procesos. En primer lugar, el tema que decidimos trabajar se basa en la preferencia de las personas que desean enseñar de manera online como profesores y de aquellos que buscan ser enseñados como alumnos. Después se realizó el startup del proyecto, donde se da a conocer la población afectada a la que puede dirigirse nuestro servicio y los objetivos que tenemos. Así mismo, también se realizó un análisis de los antecedentes y problemática utilizando las 5W y 2H. También se llevó a cabo el Lean Ux Process, en donde se evidenciaron las hipótesis. De igual forma, se identificó al segmento objetivo, en este caso, personas que desean enseñar de manera online y alumnos que buscan aprender a través de esta modalidad. Para este importante apartado, haciendo alusión al Needfinding, hemos logrado elaborar los diferentes aspectos y características de nuestros posibles "Usuarios" que utilizarán dicha aplicación, haciendo referencia a los perfiles de profesores y alumnos, en base a la recopilación de información extraída de las entrevistas que se han desarrollado, así como la comparativa de nuestros posibles competidores.
 
