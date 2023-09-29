@@ -184,9 +184,12 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 ### 2.2.2. Registro de entrevistas
 
 #### - Entrevistas a Alumnos
--	Entrevista #1:
+#### -	Entrevista #1:
+
 A cargo de: XXXXXXXX
+
 Nombre del entrevistado: XXXXXX (19 años)
+
 Duración: X:XX - Enlace: XXXXX
 
 
