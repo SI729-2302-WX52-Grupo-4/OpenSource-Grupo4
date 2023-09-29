@@ -434,7 +434,7 @@ Nuestra paleta de colores incluye:
 
 #### - Typography:
 
-Para el diseño de nuestra web, decidimos una tipografia que nos ayude a generar una impresion de formalidad y que sea un atractivo para nuestros usuarios, por ende, hemos elegido las siguiente tipografias
+Para el diseño de nuestra web, decidimos una tipografia que nos ayude a generar una impresion de formalidad y que sea un atractivo para nuestros usuarios, por ende, hemos elegido las siguiente tipografias.
 
 | Tipografia | Razón |
 | ------- | ------- |
@@ -457,7 +457,7 @@ Sabemos que nuestra aplicacion tendra distintas paginas, donde la distribución 
 
 #### - Iconografy:
 
-Sabemos que los iconos son importantes para el diseño de nuestra plataforma, por eso hemos decidio usar una amplia variedad de iconos para su desarrollo
+Sabemos que los iconos son importantes para el diseño de nuestra plataforma, por eso hemos decidio usar una amplia variedad de iconos para su desarrollo.
 
 [![Captura-de-pantalla-2023-09-23-194608.png](https://i.postimg.cc/ZqfYbgp9/Captura-de-pantalla-2023-09-23-194608.png)](https://postimg.cc/R3HxGgP9)
 
