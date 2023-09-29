@@ -423,31 +423,49 @@ Los iconos que utilizaremos en nuestra aplicación seguirán criterios de cohere
 ###### Nota. Este patrón será utilizado en cada guideline representado.
 
 ### 4.1.2. Web Style Guidelines
-Lo siguiente corresponde a la guía para la versión web. Se puede visualizar con mejor detalle en el siguiente link:
 
 #### - Colors
 
+Para el diseño de nuestra web, hemos elegido utilizar la gama de colores cian y sus diferentes tonalidades. Este matiz crea un ambiente tranquilo y acogedor para los usuarios, al mismo tiempo que le da a la aplicación un aspecto formal. Además, hemos incorporado el color blanco para crear un contraste con los tonos más oscuros. También hemos introducido un tono oscuro de cian para resaltar los botones y crear contraste con las tonalidades más claras.
+
+Nuestra paleta de colores incluye:
+
 [![Captura-de-pantalla-2023-09-23-193916.png](https://i.postimg.cc/hjynndFV/Captura-de-pantalla-2023-09-23-193916.png)](https://postimg.cc/hzd6bhtG)
-
-#### - Spacing:
-
 
 #### - Typography:
 
+Para el diseño de nuestra web, decidimos una tipografia que nos ayude a generar una impresion de formalidad y que sea un atractivo para nuestros usuarios, por ende, hemos elegido las siguiente tipografias
+
+| Tipografia | Razón |
+| ------- | ------- |
+| Concert One | Esta fuente es de estilo display, lo que le confiere un carácter de energía y vitalidad. Gracias a esta elección, logramos captar la atención de los usuarios de manera efectiva, haciendo que los títulos sean más llamativos y atractivos. |
+| Be vietman | Esta tipografía es de estilo Sans Serif, lo que transmite una sensación de modernidad, formalidad y simplicidad. Esta elección favorece la legibilidad y la utilidad al leer información crítica. De esta manera, los usuarios pueden comprender de manera sencilla los distintos apartados de la página. |
+
+[![Captura-de-pantalla-2023-09-23-193137.png](https://i.postimg.cc/PJTwg0jC/Captura-de-pantalla-2023-09-23-193137.png)](https://postimg.cc/dkN3dHDF)
 
 #### - Spacing:
+
+Para el diseño de nuestra web, hemos optado por distintos espaciados para diferentes secciones, puesto que queremos que nuestra pagina sea llamativa.
 
 [![spacing.png](https://i.postimg.cc/JzWp3Z3j/spacing.png)](https://postimg.cc/56n5bHRt)
 
 #### - Buttons:
 
+Sabemos que nuestra aplicacion tendra distintas paginas, donde la distribución del contenido ser variado, es por eso que hemos optado por el siguiente esquema de botones a usar.
 
+[![Button.png](https://i.postimg.cc/6qh5qdBt/Button.png)](https://postimg.cc/Fk7QnkfB)
 
 #### - Iconografy:
+
+Sabemos que los iconos son importantes para el diseño de nuestra plataforma, por eso hemos decidio usar una amplia variedad de iconos para su desarrollo
 
 [![Captura-de-pantalla-2023-09-23-194608.png](https://i.postimg.cc/ZqfYbgp9/Captura-de-pantalla-2023-09-23-194608.png)](https://postimg.cc/R3HxGgP9)
 
 #### - Textfields:
+
+Estos elementos permiten a los usuarios interactuar y proporcionar información de manera efectiva. En nuestro diseño, seguimos un conjunto de pautas específicas para garantizar la coherencia y la usabilidad en el uso de TextFields. Hemos optado por los siguientes textfield para nuestra pagina. 
+
+[![testfields.png](https://i.postimg.cc/j2cyznR4/testfields.png)](https://postimg.cc/fS33sLtV)
 
 ## 4.2. Information Architecture
 En esta sección detallaremos, analizaremos y sustentamos todas las decisiones del diseño que tomamos durante el desarrollo del presente proyecto. También, explicaremos las propuestas del diseño de nuestra aplicación y landing page para facilitar la adaptación e interacción del usuario.
