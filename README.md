@@ -678,10 +678,10 @@ Nosotros usaremos el GitHub para poder tener una mejor organización y control d
 | :-: | :-: | :-: |
 |Landing Page|Tutor'sMe|https://acortar.link/Ctr9V8|
 ### 5.1.3. Source Code Style Guide & Conventions
-### 5.1.4. Software Deployment Configuration (Giako)
+### 5.1.4. Software Deployment Configuration
 Para tener una óptima visualización de la elaboración de nuestro Landing Page usamos la opción de GitHub llamado GitHub Page para así mostrar cada commit del Landing Page ya desplegado:
 
-Link de la pagina:(pegan aqui el link)
+Link de la pagina:([pegan aqui el link](https://si729-2302-wx52-grupo-4.github.io/LandingPage/))
 
 
 ## 5.2. Lading Page, Services & Application Implementations
