@@ -463,7 +463,7 @@ Sabemos que los iconos son importantes para el diseño de nuestra plataforma, po
 
 #### - Textfields:
 
-Estos elementos permiten a los usuarios interactuar y proporcionar información de manera efectiva. En nuestro diseño, seguimos un conjunto de pautas específicas para garantizar la coherencia y la usabilidad en el uso de TextFields. Hemos optado por los siguientes textfield para nuestra pagina. 
+Estos elementos permiten a los usuarios interactuar y proporcionar información de manera efectiva. En nuestro diseño, hemos optado por los siguientes textfield para nuestra pagina. 
 
 [![testfields.png](https://i.postimg.cc/j2cyznR4/testfields.png)](https://postimg.cc/fS33sLtV)
 
