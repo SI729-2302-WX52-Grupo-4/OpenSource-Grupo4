@@ -569,6 +569,8 @@ vitales para el SEO.
 ``` 
 
 ### 4.2.4 Searching Systems
+Se implementará principalmente el sistema de búsqueda con el objetivo de permitir que los alumnos registrados en la aplicacion, puedan buscar el curso que necesiten reforzar o donde tengan interes de aprender. Podran realizar busquedas de acuerdo a sus preferencias, ya sea carrera, por profesores o por temas. De la misma manera, los Profesores registrados, podran realizar busquedas, puesto que ademas de estar registrados como profesores, se le da la opcion de llevar cursos como un alumno, ya que todos tienen la posibilidad de aprender y enseñar.
+
 ### 4.2.5. Navigation Systems
 ### - Landing page:
 Esta cuenta con una barra de navegación fija. De modo que siempre esté a la disposición del usuario mientras se desplaza por la página. Incluye un botón de iniciar sesión y registrarse que están elazados directamente con la aplicación web. El pie de página incluye enlazes para las secciones relevantes de la lading page.
