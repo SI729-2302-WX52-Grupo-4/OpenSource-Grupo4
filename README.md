@@ -195,18 +195,38 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 | Entrevistador       | Jesica Rut Jaramillo Almora                |
 | Resumen             | JesicaNDayana es una joven de 19 años, estudiante de Arquitectura en la Universidad Peruana del Norte.Está llevando 5 cursos pero tiene dificultades en 2 de ellos. Ella busca un profesor que tenga paciencia y sea fácil de entender. Considera que el método de enseñanza del profesor es muy importante para la clase. Valora que una clase sea dinámica y haya una buena comunicación profesor alumno. Estudia con medios audiovisuales. Y no ha tomado clases particulares. Sin embargo está dispuesta a pagar 25 soles por una primera clase. Su motivación para tomar una clase es que sea barata. Sus expectativas sobre una aplicación que ofrezca este servicio es que tenga comunicacion directa con los profesores y que pueda enviarles su trabajo. La funcionalidad que recomienda para retener la actividad e los alumnos es que los profesores revisen y califiquen sus tareas. |
 
-| Nombres y Apellidos | Ramon Haro Davila                                      |
-|---------------------|--------------------------------------------------------|
-| Edad                | 21                                                     |
-| Dirección           | San Juan de Lurigancho, Lima                           |
-| Duración            | 6:58 minutos                                           |
-| Captura             |[![entrevista-alumno.png](https://i.postimg.cc/fLyYsRsH/entrevista-alumno.png)](https://postimg.cc/Q9LFksH5)|
-| Link                |https://youtu.be/Ze-FhhqOmbQ                            |
-| Entrevistador       | Alessandro Alex Vega Paico                             |
+| Nombres y Apellidos | Ramon Haro Davila                         |
+|---------------------|-------------------------------------------|
+| Edad                | 21                                        |
+| Dirección           | Surquillo, Lima                           |
+| Duración            | 6:58 minutos                              |
+| Captura             | [![entrevista-alumno.png](https://i.postimg.cc/fLyYsRsH/entrevista-alumno.png)](https://postimg.cc/Q9LFksH5)|
+| Link                | https://youtu.be/Ze-FhhqOmbQ              |
+| Entrevistador       | Alessandro Alex Vega Paico                |
 | Resumen             | Ramon Haro es un joven de 21 años, estudiante de Comunicación Audiovisual y Medios Interactivos en la Universidad Peruana de Ciencias Aplicadas. Actualmente esta llevando 5 cursos pero tiene dificultades en 2 de ellos. Considera que prefiere un profesor que lo motive a llevar el curso. También, nos comento que la metodologia del profesor es importante, ya que, segun sus palabras, si un profesor es demasiado estricto, termina estresando a los alumnos y quitando el interes de aprender. Él refiere las clases dinámicas y prácticas pero reconoce que el enfoque puede variar según la materia. También, expresa su preferencia por ser autodidacta para evitar costos, creyendo que si otros pueden aprender, él también puede. Analiza la falta de motivación para buscar clases privadas y enfatiza la necesidad de criterios específicos en la selección de profesores. Además, sugiere la idea de una plataforma que conecte a los estudiantes con tutores privados, diseñados para temas específicos en diferentes carreras. Nos propuso funciones como revisiones y comentarios de los profesores, además de permitir que los estudiantes se registren como tutores dentro de la aplicación para fomentar la colaboración y garantizar el éxito de la plataforma en un mercado competitivo.|
 
 
 #### - Entrevistas a Profesores 
+
+| Nombres y Apellidos |                                              |
+|---------------------|----------------------------------------------|
+| Edad                |                                              |
+| Dirección           |                                              |
+| Duración            |                                              |
+| Captura             |                                              |
+| Link                |                                              |
+| Entrevistador       |                                              |
+| Resumen             |                                              |
+
+| Nombres y Apellidos |                                              |
+|---------------------|----------------------------------------------|
+| Edad                |                                              |
+| Dirección           |                                              |
+| Duración            |                                              |
+| Captura             |                                              |
+| Link                |                                              |
+| Entrevistador       |                                              |
+| Resumen             |                                              |
 
 
 ### 2.2.3. Análisis de entrevistas
