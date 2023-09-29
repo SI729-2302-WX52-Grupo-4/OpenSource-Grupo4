@@ -623,6 +623,7 @@ https://www.figma.com/proto/7F0ixEcdZbPS7nxIpwBOVD/Untitled?type=design&node-id=
 ### 4.6.1. Software Architecture Context Diagrams
 [![Agregar-texto.png](https://i.postimg.cc/bv4cxKYJ/Agregar-texto.png)](https://postimg.cc/f37rZq9n)
 ### 4.6.2. Software Architecture Container Diagrams
+[![Agregar-texto-3.png](https://i.postimg.cc/CLDn5zgZ/Agregar-texto-3.png)](https://postimg.cc/N5sjPGLY)
 ### 4.6.3. Software Architecture Components Diagrams
 [![Imagen-de-Whats-App-2023-09-28-a-las-01-13-28.jpg](https://i.postimg.cc/mDcYh34x/Imagen-de-Whats-App-2023-09-28-a-las-01-13-28.jpg)](https://postimg.cc/cgSgbn6T)
 ### 4.7. Software Object-Oriented Design
