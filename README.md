@@ -414,6 +414,26 @@ Los iconos que utilizaremos en nuestra aplicación seguirán criterios de cohere
 ### 4.1.2. Web Style Guidelines
 Lo siguiente corresponde a la guía para la versión web. Se puede visualizar con mejor detalle en el siguiente link:
 
+#### - Colors
+
+
+#### - Spacing:
+
+
+#### - Typography:
+
+
+#### - Spacing:
+
+
+#### - Buttons:
+
+
+#### - Iconografy:
+
+
+#### - Textfields:
+
 ## 4.2. Information Architecture
 En esta sección detallaremos, analizaremos y sustentamos todas las decisiones del diseño que tomamos durante el desarrollo del presente proyecto. También, explicaremos las propuestas del diseño de nuestra aplicación y landing page para facilitar la adaptación e interacción del usuario.
 ### 4.2.1. Organization Systems
