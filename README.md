@@ -185,13 +185,21 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 
 #### - Entrevistas a Alumnos
 #### -	Entrevista #1:
+
 A cargo de: Jesica Rut Jaramillo Almora
+
 Nombre del entrevistado: Dayana Maia Baltodano Melgarejo (19 años)
+
 Duración: 2:53 - Enlace: [XXXXX](https://acortar.link/sgUr7D)
+
 #### -	Entrevista #2:
+
 A cargo de: Alessandro Alex Vega Paico
+
 Nombre del entrevistado: Ramon Haro Davila  (21 años)
+
 Duración: 6:59 - Enlace: [[XXXXX](https://acortar.link/sgUr7D)](https://acortar.link/opd0iW)
+
 
 #### - Entrevistas a Profesores 
 
