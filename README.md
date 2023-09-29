@@ -427,6 +427,7 @@ Lo siguiente corresponde a la guía para la versión web. Se puede visualizar co
 
 #### - Colors
 
+[![Captura-de-pantalla-2023-09-23-193916.png](https://i.postimg.cc/hjynndFV/Captura-de-pantalla-2023-09-23-193916.png)](https://postimg.cc/hzd6bhtG)
 
 #### - Spacing:
 
@@ -436,12 +437,15 @@ Lo siguiente corresponde a la guía para la versión web. Se puede visualizar co
 
 #### - Spacing:
 
+[![spacing.png](https://i.postimg.cc/JzWp3Z3j/spacing.png)](https://postimg.cc/56n5bHRt)
 
 #### - Buttons:
 
 
+
 #### - Iconografy:
 
+[![Captura-de-pantalla-2023-09-23-194608.png](https://i.postimg.cc/ZqfYbgp9/Captura-de-pantalla-2023-09-23-194608.png)](https://postimg.cc/R3HxGgP9)
 
 #### - Textfields:
 
