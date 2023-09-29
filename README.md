@@ -542,22 +542,33 @@ Incluye una barra de navegación para enlazar las secciones importantes para los
 ### 4.3.1. Landing Page Wireframe
 A continuación, presentamos los diseños creados para la página de inicio de nuestra aplicación, donde los futuros usuarios podrán obtener una vista previa de las características de nuestra app y lo que pueden esperar de ella.
 [![imagen-2023-09-08-120553780.png](https://i.postimg.cc/7Pssj0Qw/imagen-2023-09-08-120553780.png)](https://postimg.cc/mh9yHzs5)
+
 ### 4.3.2. Landing Page Mock-ups
-En las siguientes imágenes se pueden apreciar los Mock-ups de la landing page, considerando la estructura trabajada previamente en los wireframes. 
-Se realizaron en Figma: 
+En las siguientes imágenes se pueden apreciar los Mock-ups de la landing page, considerando la estructura trabajada previamente en los wireframes. Los mismos se elaboraron en Figma
+
+https://www.figma.com/proto/0xCE15wkhHyODenKqzeTlC/landing-open?type=design&node-id=1-302&t=daIXKfrQN03s9rAv-1&scaling=min-zoom&page-id=0%3A1&mode=design
 
 #### 4.3.2.1. Página principal
 
+[![Pagina-principal.png](https://i.postimg.cc/s2VFftvQ/Pagina-principal.png)](https://postimg.cc/87nXtXdN)
+
 #### 4.3.2.2. Servicios
 
-#### 4.3.2.3. Planes
+[![Servicios-1.png](https://i.postimg.cc/Bnf9k83C/Servicios-1.png)](https://postimg.cc/tYkMV4Y1)
 
-#### 4.3.2.4. Aplicativo
+[![Servicios-2.png](https://i.postimg.cc/2SdRDz8N/Servicios-2.png)](https://postimg.cc/dh0SRcy5)
 
-#### 4.3.2.5. Conócenos
+#### 4.3.2.3. Conocenos
 
+[![Conocenos.png](https://i.postimg.cc/kXbPTQ04/Conocenos.png)](https://postimg.cc/56br0CNd)
 
+#### 4.3.2.4. Preguntas y respuestas
 
+[![FAQ.png](https://i.postimg.cc/QNPrg4nw/FAQ.png)](https://postimg.cc/rzSbMJTN)
+
+#### 4.3.2.5. Registro
+
+[![Registrarse.png](https://i.postimg.cc/KjdSZjMx/Registrarse.png)](https://postimg.cc/1VcYB9Bj)
 
 ## 4.4. Web Application UX/UI Design
 ### 4.4.1. Web Application Wireframe
