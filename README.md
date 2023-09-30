@@ -198,7 +198,7 @@ A cargo de: Alessandro Alex Vega Paico
 
 Nombre del entrevistado: Ramon Haro Davila  (21 años)
 
-Duración: 6:59 - Enlace: https://youtu.be/Ze-FhhqOmbQ?si=3J16GSX99vd38jWK
+Duración: 6:59 - Enlace: https://youtu.be/Ze-FhhqOmbQ
 
 
 #### - Entrevistas a Profesores 
