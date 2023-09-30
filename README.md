@@ -714,7 +714,18 @@ Link: https://si729-2302-wx52-grupo-4.github.io/LandingPage/
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Para este primer Sprint no fue contemplada la documentación de nuestros servicios, ya que se enfocó principalmente en la creación del Landing Page.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
+Para esta sección, resumiremos los procesos que se siguieron para la creación de la Landing Page de la aplicación web: Tutor's Me
+[![1.png](https://i.postimg.cc/t43F5XmL/1.png)](https://postimg.cc/PCqLfkH4)
+- Se creó una organización en GitHub:
+  [![2.png](https://i.postimg.cc/Y0LWmkWD/2.png)](https://postimg.cc/SYqswBVc)
+- Se creó el repositorio:
+  [![3.png](https://i.postimg.cc/3w3mfPsW/3.png)](https://postimg.cc/JsdsGd4W)
+- Se subieron los archivos al branch:
+  [![4.png](https://i.postimg.cc/4ddtspNg/4.png)](https://postimg.cc/qtPgGh3b)
+- Se configuró la opción de GitHub Pages:
+  [![5.png](https://i.postimg.cc/wBFJCwz2/5.png)](https://postimg.cc/f3tJXjJS)
+- Se desplegó la página:
+  [![6.png](https://i.postimg.cc/0QBSQrbJ/6.png)](https://postimg.cc/dkG3NsRq)
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 Para este primer Sprint, se utilizó herramientas como Github, y Visual Code para llevar a cabo todos los commits necesarios. Uno de nuestros miembros realizó el primer commit que viene a ser la creación del repositorio. Posteriormente se clonó el repositorio para trabajar localmente en VsCode. Se crearon las ramas correspondientes para cada modificación realizada. 
 
