@@ -716,15 +716,12 @@ Link de la pagina:([pegan aqui el link](https://si729-2302-wx52-grupo-4.github.i
 |Sprint 1 Velocity|Dada las condiciones de ser el primer sprint, el velocity establecido será n.|
 |Sum of Story Points|Para el presente Sprint se decidió un total de n Story Points.|
 #### 5.2.1.2. Sprint Backlog X
-#### 5.2.1.3. Development Evidence for Sprint Review (Giako)
+#### 5.2.1.3. Development Evidence for Sprint Review
 
-| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
-|---------|---------|---------|---------|---------|---------|
-|https://github.com/SI729-2302-WX52-Grupo-4/daos-overview-2302/tree/main |  | | | - | |
-| | | | |  - | |
-| | | | | - | |
-| | | | | -| |
-| | | | | -| |
+| Repository | Branch | Commit ID | Commit Message    | Commit Message Body | Commited on (Date) |
+|---------|--------|---------|-------------------|------|--------------------|
+|SI729-2302-WX52-Grupo-4/LandingPage | main   |c5e4089b90a45b7e79c9c592a249a5e9547208a2| feat: add landing | -    | 29/09/2023         |
+|SI729-2302-WX52-Grupo-4/LandingPage  | main   | 4047c66f20f44534ae2518d3e8b4545ba729db38| feat: Update README.md            | -    | 29/09/2023         |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 En esta entrega, no se incluyó esta sección, ya que se enfocó principalmente en el desarrollo del Landing Page como base del proyecto. Ya que se logró desarrollar el Sprint 1 satisfactoriamente, nuestro landing page posee implementadas las user stories especificadas en nuestro Sprint Backlog
