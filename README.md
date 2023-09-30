@@ -654,7 +654,7 @@ Actividad dejada por el docente en el docente; dentro de ella encontramos a "Ale
 
 
 
-# Capítulo 5 - Product Implementation, Validation & Deployment
+# CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
 En nuestra startup, hemos meticulosamente establecido la configuración de nuestro entorno de desarrollo de software con el objetivo de facilitar una colaboración eficiente y el desarrollo de nuestras aplicaciones. Aquí compartimos las principales herramientas y configuraciones que empleamos:
@@ -705,11 +705,15 @@ Link de la pagina:([pegan aqui el link](https://si729-2302-wx52-grupo-4.github.i
 | | | | | -| |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+En esta entrega, no se incluyó esta sección, ya que se enfocó principalmente en el desarrollo del Landing Page como base del proyecto. Ya que se logró desarrollar el Sprint 1 satisfactoriamente, nuestro landing page posee implementadas las user stories especificadas en nuestro Sprint Backlog
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Para este primer Sprint no fue contemplada la documentación de nuestros servicios, ya que se enfocó principalmente en la creación del Landing Page.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
-#### 5.2.1.8. Team Collaboration Insights during Sprint (Giako)
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+Para este primer Sprint, se utilizó herramientas como Github, y Visual Code para llevar a cabo todos los commits necesarios. Uno de nuestros miembros realizó el primer commit que viene a ser la creación del repositorio. Posteriormente se clonó el repositorio para trabajar localmente en VsCode. Se crearon las ramas correspondientes para cada modificación realizada. 
+
 ### 5.2.2. Sprint 2 
 #### 5.2.2.1.Sprint Planning 2. 
 #### 5.2.2.2.Sprint Backlog 2. 
