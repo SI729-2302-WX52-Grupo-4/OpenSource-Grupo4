@@ -207,7 +207,7 @@ A cargo de: Manuel Vargas
 
 Nombre del entrevistado: Manuel Alfredo (32 años)
 
-Duración: 6:59 - Enlace:
+Duración: 6:59 - Enlace:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/ESMpMFb_f8pDjYneonTnO7IBFXLJLL6rQeDPh-52eYV7ZQ?e=FHZPJD
 
 ### 2.2.3. Análisis de entrevistas
 ### - Entrevistas a Alumnos
@@ -217,7 +217,7 @@ JesicaNDayana es una joven de 19 años, estudiante de Arquitectura en la Univers
 Ramon Haro es un joven de 21 años, estudiante de Comunicación Audiovisual y Medios Interactivos en la Universidad Peruana de Ciencias Aplicadas. Actualmente esta llevando 5 cursos pero tiene dificultades en 2 de ellos. Considera que prefiere un profesor que lo motive a llevar el curso. También, nos comento que la metodologia del profesor es importante, ya que, segun sus palabras, si un profesor es demasiado estricto, termina estresando a los alumnos y quitando el interes de aprender. Él refiere las clases dinámicas y prácticas pero reconoce que el enfoque puede variar según la materia. También, expresa su preferencia por ser autodidacta para evitar costos, creyendo que si otros pueden aprender, él también puede. Analiza la falta de motivación para buscar clases privadas y enfatiza la necesidad de criterios específicos en la selección de profesores. Además, sugiere la idea de una plataforma que conecte a los estudiantes con tutores privados, diseñados para temas específicos en diferentes carreras. Nos propuso funciones como revisiones y comentarios de los profesores, además de permitir que los estudiantes se registren como tutores dentro de la aplicación para fomentar la colaboración y garantizar el éxito de la plataforma en un mercado competitivo.[![entrevista-alumno.png](https://i.postimg.cc/fLyYsRsH/entrevista-alumno.png)](https://postimg.cc/Q9LFksH5)
 ### - Entrevistas a Docentes
 #### -	Entrevista #1:
-Manuel Alfredo, de 32 años, es un profesor titulado en informática con 3 años de experiencia en educación secundaria. Está interesado en impartir clases semi-presenciales de informática a través de la plataforma. Destaca por su enfoque en clases didácticas e interactivas. Considera que un buen profesor debe saber llegar a los alumnos y ser un excelente profesional. Utilizaría Zoom para dar clases y encuentra motivación en la ingeniosidad de la plataforma. Ha enfrentado dificultades con la optimización en otras plataformas y espera que esta nueva plataforma ayude a los alumnos a explorar sus temas de interés de manera efectiva.
+Manuel Alfredo, de 32 años, es un profesor titulado en informática con 3 años de experiencia en educación secundaria. Está interesado en impartir clases semi-presenciales de informática a través de la plataforma. Destaca por su enfoque en clases didácticas e interactivas. Considera que un buen profesor debe saber llegar a los alumnos y ser un excelente profesional. Utilizaría Zoom para dar clases y encuentra motivación en la ingeniosidad de la plataforma. Ha enfrentado dificultades con la optimización en otras plataformas y espera que esta nueva plataforma ayude a los alumnos a explorar sus temas de interés de manera efectiva.[![imagen-2023-09-29-201022437.png](https://i.postimg.cc/MpRfFXT0/imagen-2023-09-29-201022437.png)](https://postimg.cc/BjSv8S2t)
 
 
 #### -	Entrevista #2:
