@@ -763,7 +763,15 @@ Para este primer Sprint, se utilizó herramientas como Github, y Visual Code par
 |Sprint 1 Goal|Landing Page Tutor’sMe|
 |Sprint 1 Velocity|Dada las condiciones de ser el primer sprint, el velocity establecido será n.|
 |Sum of Story Points|Para el presente Sprint se decidió un total de n Story Points.|
-#### 5.2.2.2.Sprint Backlog 2. 
+#### 5.2.2.2.Sprint Backlog 2.
+| Sprint #   |           |      |                       Sprint 1                       | Sprint 1                                                                                                                                                                                     |                    |                                |        |
+|------------|--------------------|-------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------------------|--------|
+| User Story |                    |       |                                             | Work-Item/Tast                                                                                                                                                                               |                    |                                |        |
+| Id         | Title              | Id    | Title                                       | Description                                                                                                                                                                                  | Estimation (hours) | Assigned to                    | Status |
+| US001      | Sección Buscador   | US001 | Búsqueda de tutores                         | Como estudiante de Tutor'sMe, quiero poder buscar profesores por área de estudio y disponibilidad para encontrar rápidamente un tutor que se adapte a mis necesidades y horarios de estudio. | 5                  | Manuel Alexis Vargas Quispe    | Done   |
+| US003      | Sección Inicio     | US003 | Visualización de Disponibilidad de Horarios | Como estudiante, quiero ver la disponibilidad de horarios de los tutores en un formato de calendario, para que pueda programar clases de acuerdo a mi agenda.                                | 5                  | Jesica Rut Jaramillo Almora    | Done   |
+| US023      | Sección Profesores | US023 | Visualización de Perfiles Destacados        | Como estudiante, quiero ver perfiles destacados de tutores altamente calificados o populares en la plataforma, para facilitar la elección de un tutor.                                       | 5                  | Alessandro Alex Vega Paico     | Done   |
+| US005      | Sección Sesiones   | US005 | Seguimiento del Progreso                    | Como estudiante, quiero tener acceso a un seguimiento de mi progreso en las clases, incluyendo registros de asistencia y notas, para evaluar mi rendimiento y el impacto del tutor.          | 5                  | Giakomo Rodolfo Causso Mariano | Done   |
 #### 5.2.2.3.Development Evidence for Sprint Review. 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review. 
 #### 5.2.2.5.Execution Evidence for Sprint Review. 
