@@ -730,6 +730,20 @@ Para este primer Sprint, se utilizó herramientas como Github, y Visual Code par
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
+#### Introducción general:
+- ¿Cuál es su nombre y apellido?
+- ¿Qué edad tiene?
+- ¿En qué lugar reside actualmente?
+- ¿Cuál es su grado educativo?
+- ¿Qué es lo que espera de una ap que permita... (encontrar profesores particulares para ayudarlos con los temas que requiera?/ generar ingresos al localizar alumnos para dictarles clases y dejarles deberes?)
+
+A continuación, le mostraré la aplicación en funcionamiento (Se explica y muestra "Tutor's Me" al usuario).
+
+#### Para finalizar:
+- ¿Qué piensa de la elección de colores de la aplicación?
+- ¿Qué piensa de la distribución de los servicios? ¿Son distingibles para un nuevo usuario?
+- ¿Consideras que es fácil navegar a travez de la página?
+- ¿Qué recomendaciones tienes para nuestra aplicación?
 ### 5.3.2. Registro de Entrevistas
 ### 5.3.3. Evaluación según heurísticas
 
