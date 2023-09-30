@@ -632,9 +632,14 @@ En esta sección, abordaremos el diseño orientado a objetos de software, que es
 ### 4.7.1. Class Diagrams
 [![Class-Diagram-Png.png](https://i.postimg.cc/65yv9WNV/Class-Diagram-Png.png)](https://postimg.cc/JGCnxW0t)
 #### 4.7.2. Class Dictionary
-### - Usuario: Los usuarios que usan nuestra aplicación, dentro de esta clase también encontramos a la clase "Alumnos" y "Docente"; - dentro de esta misma clase encontramos a - "Resenia", "Calificacion", "Calendario" y "ReservaController".
-### - Sesión: La interacción remota donde se hará nuestar clase.
-### - Tarea: Actividad dejada por el docente en el docente; dentro de ella encontramos a "Alerta" - donde dentro de ella encontramos a - "Recordatorio" y "Revisado". 
+### - Usuario: 
+Los usuarios que usan nuestra aplicación, dentro de esta clase también encontramos a la clase "Alumnos" y "Docente"; - dentro de esta misma clase encontramos a - "Resenia", "Calificacion", "Calendario" y "ReservaController".
+
+### - Sesión: 
+La interacción remota donde se hará nuestar clase.
+
+### - Tarea: 
+Actividad dejada por el docente en el docente; dentro de ella encontramos a "Alerta" - donde dentro de ella encontramos a - "Recordatorio" y "Revisado". 
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
