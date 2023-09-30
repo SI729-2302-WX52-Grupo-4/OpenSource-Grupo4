@@ -207,7 +207,16 @@ A cargo de: Manuel Vargas
 
 Nombre del entrevistado: Manuel Alfredo (32 años)
 
-Duración: 6:59 - Enlace:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/ESMpMFb_f8pDjYneonTnO7IBFXLJLL6rQeDPh-52eYV7ZQ?e=FHZPJD
+Duración: 6:59 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/ESMpMFb_f8pDjYneonTnO7IBFXLJLL6rQeDPh-52eYV7ZQ?e=FHZPJD
+
+
+#### -	Entrevista #2:
+
+A cargo de: Alessandro Alex Vega Paico
+
+Nombre del entrevistado: Ronald Gustavo Siancas Garay
+
+Duración: 6:04 - Enlace: https://youtu.be/WYIZkILO4qQ
 
 ### 2.2.3. Análisis de entrevistas
 ### - Entrevistas a Alumnos
