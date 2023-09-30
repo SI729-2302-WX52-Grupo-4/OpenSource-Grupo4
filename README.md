@@ -719,12 +719,27 @@ Para este primer Sprint no fue contemplada la documentación de nuestros servici
 Para este primer Sprint, se utilizó herramientas como Github, y Visual Code para llevar a cabo todos los commits necesarios. Uno de nuestros miembros realizó el primer commit que viene a ser la creación del repositorio. Posteriormente se clonó el repositorio para trabajar localmente en VsCode. Se crearon las ramas correspondientes para cada modificación realizada. 
 
 ### 5.2.2. Sprint 2 
-#### 5.2.2.1.Sprint Planning 2. 
+#### 5.2.2.1.Sprint Planning 2.
+|**Sprint #**|Sprint 2|
+| :-: | :-: |
+|**Sprint Planning Background**||
+|Date|27/09/2023|
+|Time|22:30 horas|
+|Location|Virtual meeting - Google meet|
+|Prepared By|Manuel Alexis Vargas Quispe|
+|Attendees(to planning meeting)|<p>Giakomo Rodolfo Causso Mariano</p><p>Jesica Rut Jaramillo Almora</p><p>Alessandro Alex Vega Paico</p><p>Manuel Alexis Vargas Quispe</p><p></p>|
+|Sprint 1-1 Review Summary|Se ha alcanzado el éxito en la implementación inicial de la lógica de negocio como una puesta en marcha de nuestros recursos de la aplicación.|
+|Sprint 1-1 Retrospective Summary|Optimización en la asignación de tareas al reflejar los plazos según los puntos de historia.|
+|**Sprint Goal & User Stories**||
+|Sprint 1 Goal|Landing Page Tutor’sMe|
+|Sprint 1 Velocity|Dada las condiciones de ser el primer sprint, el velocity establecido será n.|
+|Sum of Story Points|Para el presente Sprint se decidió un total de n Story Points.|
 #### 5.2.2.2.Sprint Backlog 2. 
 #### 5.2.2.3.Development Evidence for Sprint Review. 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review. 
 #### 5.2.2.5.Execution Evidence for Sprint Review. 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review. 
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+Enlace del vídeo: LINK:
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review. 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
