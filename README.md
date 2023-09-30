@@ -203,6 +203,8 @@ Duración: 6:59 - Enlace: https://youtu.be/Ze-FhhqOmbQ?si=3J16GSX99vd38jWK
 
 #### - Entrevistas a Profesores 
 
+#### -	Entrevista #1:
+
 A cargo de: Manuel Vargas
 
 Nombre del entrevistado: Manuel Alfredo (32 años)
@@ -214,7 +216,7 @@ Duración: 6:59 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202
 
 A cargo de: Alessandro Alex Vega Paico
 
-Nombre del entrevistado: Ronald Gustavo Siancas Garay
+Nombre del entrevistado: Ronald Gustavo Siancas Garay (25 años)
 
 Duración: 6:04 - Enlace: https://youtu.be/WYIZkILO4qQ
 
