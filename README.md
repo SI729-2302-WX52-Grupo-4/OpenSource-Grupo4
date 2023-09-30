@@ -657,6 +657,13 @@ Actividad dejada por el docente en el docente; dentro de ella encontramos a "Ale
 # Capítulo 5 - Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+En nuestra startup, hemos meticulosamente establecido la configuración de nuestro entorno de desarrollo de software con el objetivo de facilitar una colaboración eficiente y el desarrollo de nuestras aplicaciones. Aquí compartimos las principales herramientas y configuraciones que empleamos:
+
+- Entornos de Desarrollo Integrados (IDEs): Principalmente utilizamos dos IDEs para nuestro desarrollo de software. En primer lugar, Visual Studio Code, que nos brinda un entorno altamente personalizable y es esencial para nuestros desarrolladores de frontend.
+- Herramientas de Colaboración: En lo que respecta a la colaboración en el código, confiamos en GitHub, una plataforma ampliamente reconocida y utilizada en la comunidad de desarrollo.
+- Diseño de Bases de Datos y Diagramas: Para diseñar nuestras bases de datos y crear diversos diagramas, dependemos de Start UML y Vertabelo. Estas herramientas nos ayudan a visualizar y planificar nuestras estructuras de datos y flujos de trabajo de manera efectiva.
+
+Esta configuración de nuestro entorno de desarrollo de software es esencial para asegurar la eficiencia en el trabajo, la colaboración efectiva y el éxito en la entrega de nuestros productos y servicios.
 ### 5.1.2. Source Code Management
 Nosotros usaremos el GitHub para poder tener una mejor organización y control del desarrollo de nuestro proyecto, de la cual tiene como nombre como “[OpenSource-Grupo4](https://github.com/SI729-2302-WX52-Grupo-4/OpenSource-Grupo4/tree/main)”. En lo siguiente se adjuntará enlaces correspondientes al repositorio.
 
