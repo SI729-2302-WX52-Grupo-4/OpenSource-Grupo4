@@ -784,10 +784,18 @@ Para este primer Sprint, se utilizó herramientas como Github, y Visual Code par
 | TutorsMe_WEB | feature/inicio              | d82110313340fd366faa843f7b2a54d65d4d70e9 | feat: Correct errors | Merge branch 'develop' into feature/inicio | 30/09/2023         |
 | TutorsMe_WEB | feature/profesoresFavoritos | 490d235b58bbbe5fe91af12c97acccc9f876803d | feat: Update changes | Subiending                                 | 30/09/2023         |
 | TutorsMe_WEB | feature/sesiones            | e765f873bae5f5b2b38f7c8f37b82a208a7a7e7f | feat: Add sessions   | NEW Sesiones                               | 29/09/2023         |
-#### 5.2.2.4.Testing Suite Evidence for Sprint Review. 
-#### 5.2.2.5.Execution Evidence for Sprint Review. 
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+No se realizaron tests durante esta entrega.
+#### 5.2.2.5.Execution Evidence for Sprint Review.
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
-Enlace del vídeo: LINK:
+En esta sección se presentarán los endpoints creados para el Sprint (JSON):
+- appointments
+- students
+- classes
+  A continuación se presenta la estructura de los endpoints de esta entrega:
+  [![e1.png](https://i.postimg.cc/zG77zWRG/e1.png)](https://postimg.cc/fV3m5VKG)
+  [![e2.png](https://i.postimg.cc/d00BL18m/e2.png)](https://postimg.cc/YvJgPtDh)
+  [![e3.png](https://i.postimg.cc/6Q1hRXcs/e3.png)](https://postimg.cc/nsB7bNNT)
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review. 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
