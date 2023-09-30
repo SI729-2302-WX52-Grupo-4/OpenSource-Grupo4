@@ -798,7 +798,10 @@ En esta sección se presentarán los endpoints creados para el Sprint (JSON):
   [![e3.png](https://i.postimg.cc/6Q1hRXcs/e3.png)](https://postimg.cc/nsB7bNNT)
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review. 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
+Para esta sección, se explica cómo se desarrollaron las actividades de implementación adjuntando los analíticos de GitHub. 
+Link: https://github.com/SI729-2302-WX52-Grupo-4/TutorsMe_WEB/pulse
 
+[![colab-Insights1.png](https://i.postimg.cc/fyLFhNKB/colab-Insights1.png)](https://postimg.cc/mzvVQKKH)
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 #### Introducción general:
