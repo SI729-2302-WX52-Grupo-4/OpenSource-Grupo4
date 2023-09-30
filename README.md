@@ -183,18 +183,44 @@ En el mercado actual de la educación en línea, existen varias opciones que ofr
 
 ### 2.2.2. Registro de entrevistas
 
-| Nombres y Apellidos | Dayana Maia Baltodano Melgarejo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Edad                | 19                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Dirección           | San Juan de Lurigancho, Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Duración            | 2:53m                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Captura             | [![Captura-de-pantalla-2023-09-28-185911.png](https://i.postimg.cc/9FHXZBtL/Captura-de-pantalla-2023-09-28-185911.png)](https://postimg.cc/jCvrrP1f)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Link                | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c163_upc_edu_pe/Ee44KBzgo2tMtaOMaRPnN8kBX9LHFuG2Giz10tqD4p5J3w?e=29Qm22&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Entrevistador       | Jesica Rut Jaramillo Almora                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Resumen             | Dayana es una joven de 19 años, estudiante de Arquitectura en la Universidad Peruana del Norte.Está llevando 5 cursos pero tiene dificultades en 2 de ellos. Ella busca un profesor que tenga paciencia y sea fácil de entender. Considera que el método de enseñanza del profesor es muy importante para la clase. Valora que una clase sea dinámica y haya una buena comunicación profesor alumno. Estudia con medios audiovisuales. Y no ha tomado clases particulares. Sin embargo está dispuesta a pagar 25 soles por una primera clase. Su motivación para tomar una clase es que sea barata. Sus expectativas sobre una aplicación que ofrezca este servicio es que tenga comunicacion directa con los profesores y que pueda enviarles su trabajo. La funcionalidad que recomienda para retener la actividad e los alumnos es que los profesores revisen y califiquen sus tareas. |
+#### - Entrevistas a Alumnos
+#### -	Entrevista #1:
+
+A cargo de: Jesica Rut Jaramillo Almora
+
+Nombre del entrevistado: Dayana Maia Baltodano Melgarejo (19 años)
+
+Duración: 2:53 - Enlace: https://acortar.link/sgUr7D
+
+#### -	Entrevista #2:
+
+A cargo de: Alessandro Alex Vega Paico
+
+Nombre del entrevistado: Ramon Haro Davila  (21 años)
+
+Duración: 6:59 - Enlace: https://youtu.be/Ze-FhhqOmbQ?si=3J16GSX99vd38jWK
+
+
+#### - Entrevistas a Profesores 
+
+A cargo de: Manuel Vargas
+
+Nombre del entrevistado: Manuel Alfredo (32 años)
+
+Duración: 6:59 - Enlace:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/ESMpMFb_f8pDjYneonTnO7IBFXLJLL6rQeDPh-52eYV7ZQ?e=FHZPJD
 
 ### 2.2.3. Análisis de entrevistas
+### - Entrevistas a Alumnos
+#### -	Entrevista #1:
+JesicaNDayana es una joven de 19 años, estudiante de Arquitectura en la Universidad Peruana del Norte.Está llevando 5 cursos pero tiene dificultades en 2 de ellos. Ella busca un profesor que tenga paciencia y sea fácil de entender. Considera que el método de enseñanza del profesor es muy importante para la clase. Valora que una clase sea dinámica y haya una buena comunicación profesor alumno. Estudia con medios audiovisuales. Y no ha tomado clases particulares. Sin embargo está dispuesta a pagar 25 soles por una primera clase. Su motivación para tomar una clase es que sea barata. Sus expectativas sobre una aplicación que ofrezca este servicio es que tenga comunicacion directa con los profesores y que pueda enviarles su trabajo. La funcionalidad que recomienda para retener la actividad e los alumnos es que los profesores revisen y califiquen sus tareas.[![Captura-de-pantalla-2023-09-28-185911.png](https://i.postimg.cc/9FHXZBtL/Captura-de-pantalla-2023-09-28-185911.png)](https://postimg.cc/jCvrrP1f)
+#### -	Entrevista #2:
+Ramon Haro es un joven de 21 años, estudiante de Comunicación Audiovisual y Medios Interactivos en la Universidad Peruana de Ciencias Aplicadas. Actualmente esta llevando 5 cursos pero tiene dificultades en 2 de ellos. Considera que prefiere un profesor que lo motive a llevar el curso. También, nos comento que la metodologia del profesor es importante, ya que, segun sus palabras, si un profesor es demasiado estricto, termina estresando a los alumnos y quitando el interes de aprender. Él refiere las clases dinámicas y prácticas pero reconoce que el enfoque puede variar según la materia. También, expresa su preferencia por ser autodidacta para evitar costos, creyendo que si otros pueden aprender, él también puede. Analiza la falta de motivación para buscar clases privadas y enfatiza la necesidad de criterios específicos en la selección de profesores. Además, sugiere la idea de una plataforma que conecte a los estudiantes con tutores privados, diseñados para temas específicos en diferentes carreras. Nos propuso funciones como revisiones y comentarios de los profesores, además de permitir que los estudiantes se registren como tutores dentro de la aplicación para fomentar la colaboración y garantizar el éxito de la plataforma en un mercado competitivo.[![entrevista-alumno.png](https://i.postimg.cc/fLyYsRsH/entrevista-alumno.png)](https://postimg.cc/Q9LFksH5)
+### - Entrevistas a Docentes
+#### -	Entrevista #1:
+Manuel Alfredo, de 32 años, es un profesor titulado en informática con 3 años de experiencia en educación secundaria. Está interesado en impartir clases semi-presenciales de informática a través de la plataforma. Destaca por su enfoque en clases didácticas e interactivas. Considera que un buen profesor debe saber llegar a los alumnos y ser un excelente profesional. Utilizaría Zoom para dar clases y encuentra motivación en la ingeniosidad de la plataforma. Ha enfrentado dificultades con la optimización en otras plataformas y espera que esta nueva plataforma ayude a los alumnos a explorar sus temas de interés de manera efectiva.[![imagen-2023-09-29-201022437.png](https://i.postimg.cc/MpRfFXT0/imagen-2023-09-29-201022437.png)](https://postimg.cc/BjSv8S2t)
 
+
+#### -	Entrevista #2:
 ## 2.3. Needfinding
 Habiendo determinado la necesidad del mercado con la validación de nuestros usuarios potenciales, se desarrollará la ruta de los procesos. En primer lugar, el tema que decidimos trabajar se basa en la preferencia de las personas que desean enseñar de manera online como profesores y de aquellos que buscan ser enseñados como alumnos. Después se realizó el startup del proyecto, donde se da a conocer la población afectada a la que puede dirigirse nuestro servicio y los objetivos que tenemos. Así mismo, también se realizó un análisis de los antecedentes y problemática utilizando las 5W y 2H. También se llevó a cabo el Lean Ux Process, en donde se evidenciaron las hipótesis. De igual forma, se identificó al segmento objetivo, en este caso, personas que desean enseñar de manera online y alumnos que buscan aprender a través de esta modalidad. Para este importante apartado, haciendo alusión al Needfinding, hemos logrado elaborar los diferentes aspectos y características de nuestros posibles "Usuarios" que utilizarán dicha aplicación, haciendo referencia a los perfiles de profesores y alumnos, en base a la recopilación de información extraída de las entrevistas que se han desarrollado, así como la comparativa de nuestros posibles competidores.
 
@@ -427,23 +453,46 @@ Lo siguiente corresponde a la guía para la versión web. Se puede visualizar co
 
 #### - Colors
 
+Para el diseño de nuestra web, hemos elegido utilizar la gama de colores cian y sus diferentes tonalidades. Este matiz crea un ambiente tranquilo y acogedor para los usuarios, al mismo tiempo que le da a la aplicación un aspecto formal. Además, hemos incorporado el color blanco para crear un contraste con los tonos más oscuros. También hemos introducido un tono oscuro de cian para resaltar los botones y crear contraste con las tonalidades más claras.
 
-#### - Spacing:
+Nuestra paleta de colores incluye:
 
+[![Captura-de-pantalla-2023-09-23-193916.png](https://i.postimg.cc/hjynndFV/Captura-de-pantalla-2023-09-23-193916.png)](https://postimg.cc/hzd6bhtG)
 
 #### - Typography:
 
+Para el diseño de nuestra web, decidimos una tipografia que nos ayude a generar una impresion de formalidad y que sea un atractivo para nuestros usuarios, por ende, hemos elegido las siguiente tipografias.
+
+| Tipografia | Razón |
+| ------- | ------- |
+| Concert One | Esta fuente es de estilo display, lo que le confiere un carácter de energía y vitalidad. Gracias a esta elección, logramos captar la atención de los usuarios de manera efectiva, haciendo que los títulos sean más llamativos y atractivos. |
+| Be vietman | Esta tipografía es de estilo Sans Serif, lo que transmite una sensación de modernidad, formalidad y simplicidad. Esta elección favorece la legibilidad y la utilidad al leer información crítica. De esta manera, los usuarios pueden comprender de manera sencilla los distintos apartados de la página. |
+
+[![Captura-de-pantalla-2023-09-23-193137.png](https://i.postimg.cc/PJTwg0jC/Captura-de-pantalla-2023-09-23-193137.png)](https://postimg.cc/dkN3dHDF)
 
 #### - Spacing:
 
+Para el diseño de nuestra web, hemos optado por distintos espaciados para diferentes secciones, puesto que queremos que nuestra pagina sea llamativa.
+
+[![spacing.png](https://i.postimg.cc/JzWp3Z3j/spacing.png)](https://postimg.cc/56n5bHRt)
 
 #### - Buttons:
 
+Sabemos que nuestra aplicacion tendra distintas paginas, donde la distribución del contenido ser variado, es por eso que hemos optado por el siguiente esquema de botones a usar.
+
+[![Button.png](https://i.postimg.cc/6qh5qdBt/Button.png)](https://postimg.cc/Fk7QnkfB)
 
 #### - Iconografy:
 
+Sabemos que los iconos son importantes para el diseño de nuestra plataforma, por eso hemos decidio usar una amplia variedad de iconos para su desarrollo.
+
+[![Captura-de-pantalla-2023-09-23-194608.png](https://i.postimg.cc/ZqfYbgp9/Captura-de-pantalla-2023-09-23-194608.png)](https://postimg.cc/R3HxGgP9)
 
 #### - Textfields:
+
+Estos elementos permiten a los usuarios interactuar y proporcionar información de manera efectiva. En nuestro diseño, hemos optado por los siguientes textfield para nuestra pagina. 
+
+[![testfields.png](https://i.postimg.cc/j2cyznR4/testfields.png)](https://postimg.cc/fS33sLtV)
 
 ## 4.2. Information Architecture
 En esta sección detallaremos, analizaremos y sustentamos todas las decisiones del diseño que tomamos durante el desarrollo del presente proyecto. También, explicaremos las propuestas del diseño de nuestra aplicación y landing page para facilitar la adaptación e interacción del usuario.
@@ -511,6 +560,8 @@ vitales para el SEO.
 ``` 
 
 ### 4.2.4 Searching Systems
+Se implementará principalmente el sistema de búsqueda con el objetivo de permitir que los alumnos registrados en la aplicacion, puedan buscar el curso que necesiten reforzar o donde tengan interes de aprender. Podran realizar busquedas de acuerdo a sus preferencias, ya sea carrera, por profesores o por temas. De la misma manera, los Profesores registrados, podran realizar busquedas, puesto que ademas de estar registrados como profesores, se le da la opcion de llevar cursos como un alumno, ya que todos tienen la posibilidad de aprender y enseñar.
+
 ### 4.2.5. Navigation Systems
 ### - Landing page:
 Esta cuenta con una barra de navegación fija. De modo que siempre esté a la disposición del usuario mientras se desplaza por la página. Incluye un botón de iniciar sesión y registrarse que están elazados directamente con la aplicación web. El pie de página incluye enlazes para las secciones relevantes de la lading page.
@@ -520,22 +571,33 @@ Incluye una barra de navegación para enlazar las secciones importantes para los
 ### 4.3.1. Landing Page Wireframe
 A continuación, presentamos los diseños creados para la página de inicio de nuestra aplicación, donde los futuros usuarios podrán obtener una vista previa de las características de nuestra app y lo que pueden esperar de ella.
 [![imagen-2023-09-08-120553780.png](https://i.postimg.cc/7Pssj0Qw/imagen-2023-09-08-120553780.png)](https://postimg.cc/mh9yHzs5)
+
 ### 4.3.2. Landing Page Mock-ups
-En las siguientes imágenes se pueden apreciar los Mock-ups de la landing page, considerando la estructura trabajada previamente en los wireframes. 
-Se realizaron en Figma: 
+En las siguientes imágenes se pueden apreciar los Mock-ups de la landing page, considerando la estructura trabajada previamente en los wireframes. Los mismos se elaboraron en Figma
+
+https://www.figma.com/proto/0xCE15wkhHyODenKqzeTlC/landing-open?type=design&node-id=1-302&t=daIXKfrQN03s9rAv-1&scaling=min-zoom&page-id=0%3A1&mode=design
 
 #### 4.3.2.1. Página principal
 
+[![Pagina-principal.png](https://i.postimg.cc/s2VFftvQ/Pagina-principal.png)](https://postimg.cc/87nXtXdN)
+
 #### 4.3.2.2. Servicios
 
-#### 4.3.2.3. Planes
+[![Servicios-1.png](https://i.postimg.cc/Bnf9k83C/Servicios-1.png)](https://postimg.cc/tYkMV4Y1)
 
-#### 4.3.2.4. Aplicativo
+[![Servicios-2.png](https://i.postimg.cc/2SdRDz8N/Servicios-2.png)](https://postimg.cc/dh0SRcy5)
 
-#### 4.3.2.5. Conócenos
+#### 4.3.2.3. Conocenos
 
+[![Conocenos.png](https://i.postimg.cc/kXbPTQ04/Conocenos.png)](https://postimg.cc/56br0CNd)
 
+#### 4.3.2.4. Preguntas y respuestas
 
+[![FAQ.png](https://i.postimg.cc/QNPrg4nw/FAQ.png)](https://postimg.cc/rzSbMJTN)
+
+#### 4.3.2.5. Registro
+
+[![Registrarse.png](https://i.postimg.cc/KjdSZjMx/Registrarse.png)](https://postimg.cc/1VcYB9Bj)
 
 ## 4.4. Web Application UX/UI Design
 ### 4.4.1. Web Application Wireframe
@@ -554,10 +616,15 @@ Se realizaron en Figma:
 
 
 ## 4.5. Web Application Prototyping
+Se desarrolló el prototipo de la aplicación utilizando Figma.
+
+https://www.figma.com/proto/7F0ixEcdZbPS7nxIpwBOVD/Untitled?type=design&node-id=1-2&t=1zQDimH0pxNpDnip-1&scaling=scale-down&page-id=0%3A1&mode=design
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagrams
 [![Agregar-texto.png](https://i.postimg.cc/bv4cxKYJ/Agregar-texto.png)](https://postimg.cc/f37rZq9n)
 ### 4.6.2. Software Architecture Container Diagrams
+[![Agregar-texto-3.png](https://i.postimg.cc/CLDn5zgZ/Agregar-texto-3.png)](https://postimg.cc/N5sjPGLY)
 ### 4.6.3. Software Architecture Components Diagrams
 [![Imagen-de-Whats-App-2023-09-28-a-las-01-13-28.jpg](https://i.postimg.cc/mDcYh34x/Imagen-de-Whats-App-2023-09-28-a-las-01-13-28.jpg)](https://postimg.cc/cgSgbn6T)
 ### 4.7. Software Object-Oriented Design
@@ -566,10 +633,18 @@ En esta sección, abordaremos el diseño orientado a objetos de software, que es
 ### 4.7.1. Class Diagrams
 [![Class-Diagram-Png.png](https://i.postimg.cc/65yv9WNV/Class-Diagram-Png.png)](https://postimg.cc/JGCnxW0t)
 #### 4.7.2. Class Dictionary
+### - Usuario: 
+Los usuarios que usan nuestra aplicación, dentro de esta clase también encontramos a la clase "Alumnos" y "Docente"; - dentro de esta misma clase encontramos a - "Resenia", "Calificacion", "Calendario" y "ReservaController".
+
+### - Sesión: 
+La interacción remota donde se hará nuestar clase.
+
+### - Tarea: 
+Actividad dejada por el docente en el docente; dentro de ella encontramos a "Alerta" - donde dentro de ella encontramos a - "Recordatorio" y "Revisado". 
 
 ## 4.8. Database Design
-[![Captura-de-pantalla-2023-09-27-224451.png](https://i.postimg.cc/PxYTL6MD/Captura-de-pantalla-2023-09-27-224451.png)](https://postimg.cc/Q98RwJwN)
 ### 4.8.1. Database Diagram
+[![Captura-de-pantalla-2023-09-27-224451.png](https://i.postimg.cc/PxYTL6MD/Captura-de-pantalla-2023-09-27-224451.png)](https://postimg.cc/Q98RwJwN)
 
 
 
@@ -580,10 +655,16 @@ En esta sección, abordaremos el diseño orientado a objetos de software, que es
 
 
 
-
-# Capítulo 5 - Product Implementation, Validation & Deployment
+# CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+En nuestra startup, hemos meticulosamente establecido la configuración de nuestro entorno de desarrollo de software con el objetivo de facilitar una colaboración eficiente y el desarrollo de nuestras aplicaciones. Aquí compartimos las principales herramientas y configuraciones que empleamos:
+
+- Entornos de Desarrollo Integrados (IDEs): Principalmente utilizamos dos IDEs para nuestro desarrollo de software. En primer lugar, Visual Studio Code, que nos brinda un entorno altamente personalizable y es esencial para nuestros desarrolladores de frontend.
+- Herramientas de Colaboración: En lo que respecta a la colaboración en el código, confiamos en GitHub, una plataforma ampliamente reconocida y utilizada en la comunidad de desarrollo.
+- Diseño de Bases de Datos y Diagramas: Para diseñar nuestras bases de datos y crear diversos diagramas, dependemos de Start UML y Vertabelo. Estas herramientas nos ayudan a visualizar y planificar nuestras estructuras de datos y flujos de trabajo de manera efectiva.
+
+Esta configuración de nuestro entorno de desarrollo de software es esencial para asegurar la eficiencia en el trabajo, la colaboración efectiva y el éxito en la entrega de nuestros productos y servicios.
 ### 5.1.2. Source Code Management
 Nosotros usaremos el GitHub para poder tener una mejor organización y control del desarrollo de nuestro proyecto, de la cual tiene como nombre como “[OpenSource-Grupo4](https://github.com/SI729-2302-WX52-Grupo-4/OpenSource-Grupo4/tree/main)”. En lo siguiente se adjuntará enlaces correspondientes al repositorio.
 
@@ -591,10 +672,10 @@ Nosotros usaremos el GitHub para poder tener una mejor organización y control d
 | :-: | :-: | :-: |
 |Landing Page|Tutor'sMe|https://acortar.link/Ctr9V8|
 ### 5.1.3. Source Code Style Guide & Conventions
-### 5.1.4. Software Deployment Configuration (Giako)
+### 5.1.4. Software Deployment Configuration
 Para tener una óptima visualización de la elaboración de nuestro Landing Page usamos la opción de GitHub llamado GitHub Page para así mostrar cada commit del Landing Page ya desplegado:
 
-Link de la pagina:(pegan aqui el link)
+Link de la pagina:([pegan aqui el link](https://si729-2302-wx52-grupo-4.github.io/LandingPage/))
 
 
 ## 5.2. Lading Page, Services & Application Implementations
@@ -625,6 +706,7 @@ Link de la pagina:(pegan aqui el link)
 | | | | | -| |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+En esta entrega, no se incluyó esta sección, ya que se enfocó principalmente en el desarrollo del Landing Page como base del proyecto. Ya que se logró desarrollar el Sprint 1 satisfactoriamente, nuestro landing page posee implementadas las user stories especificadas en nuestro Sprint Backlog
 #### 5.2.1.5. Execution Evidence for Sprint Review
 Landing page desplegada:
 [![evidence.png](https://i.postimg.cc/LsyhJHtj/evidence.png)](https://postimg.cc/8F6T3gnC)
@@ -632,7 +714,10 @@ Link: https://si729-2302-wx52-grupo-4.github.io/LandingPage/
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Para este primer Sprint no fue contemplada la documentación de nuestros servicios, ya que se enfocó principalmente en la creación del Landing Page.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
-#### 5.2.1.8. Team Collaboration Insights during Sprint (Giako)
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+Para este primer Sprint, se utilizó herramientas como Github, y Visual Code para llevar a cabo todos los commits necesarios. Uno de nuestros miembros realizó el primer commit que viene a ser la creación del repositorio. Posteriormente se clonó el repositorio para trabajar localmente en VsCode. Se crearon las ramas correspondientes para cada modificación realizada. 
+
 ### 5.2.2. Sprint 2 
 #### 5.2.2.1.Sprint Planning 2. 
 #### 5.2.2.2.Sprint Backlog 2. 
@@ -647,4 +732,4 @@ Para este primer Sprint no fue contemplada la documentación de nuestros servici
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
 ### 5.3.3. Evaluación según heurísticas
-## 5.4. Video About the Product (Giako)
+
