@@ -766,6 +766,7 @@ Para este primer Sprint, se utilizó herramientas como Github, y Visual Code par
 |Sprint 1 Velocity|Dada las condiciones de ser el primer sprint, el velocity establecido será n.|
 |Sum of Story Points|Para el presente Sprint se decidió un total de n Story Points.|
 #### 5.2.2.2.Sprint Backlog 2.
+
 | Sprint #   |           |      |                       Sprint 1                       | Sprint 1                                                                                                                                                                                     |                    |                                |        |
 |------------|--------------------|-------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------------------|--------|
 | User Story |                    |       |                                             | Work-Item/Tast                                                                                                                                                                               |                    |                                |        |
@@ -775,6 +776,14 @@ Para este primer Sprint, se utilizó herramientas como Github, y Visual Code par
 | US023      | Sección Profesores | US023 | Visualización de Perfiles Destacados        | Como estudiante, quiero ver perfiles destacados de tutores altamente calificados o populares en la plataforma, para facilitar la elección de un tutor.                                       | 5                  | Alessandro Alex Vega Paico     | Done   |
 | US005      | Sección Sesiones   | US005 | Seguimiento del Progreso                    | Como estudiante, quiero tener acceso a un seguimiento de mi progreso en las clases, incluyendo registros de asistencia y notas, para evaluar mi rendimiento y el impacto del tutor.          | 5                  | Giakomo Rodolfo Causso Mariano | Done   |
 #### 5.2.2.3.Development Evidence for Sprint Review. 
+
+| Repository   | Branch                      | Commit id                                | Commit Message       | Commit Message Body                        | Commited on (date) |
+|--------------|-----------------------------|------------------------------------------|----------------------|--------------------------------------------|--------------------|
+| TutorsMe_WEB | develop                     | d77016fa97a79410b8f30d6733be7ada94f7f1c8 | feat: Update         | update/inicio                              | 30/09/2023         |
+| TutorsMe_WEB | feature/Profesores          | 4aa326d01e19d96e6f7cda8a54bb25a4ff9ccfe1 | feat: Update         | new                                        | 29/09/2023         |
+| TutorsMe_WEB | feature/inicio              | d82110313340fd366faa843f7b2a54d65d4d70e9 | feat: Correct errors | Merge branch 'develop' into feature/inicio | 30/09/2023         |
+| TutorsMe_WEB | feature/profesoresFavoritos | 490d235b58bbbe5fe91af12c97acccc9f876803d | feat: Update changes | Subiending                                 | 30/09/2023         |
+| TutorsMe_WEB | feature/sesiones            | e765f873bae5f5b2b38f7c8f37b82a208a7a7e7f | feat: Add sessions   | NEW Sesiones                               | 29/09/2023         |
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review. 
 #### 5.2.2.5.Execution Evidence for Sprint Review. 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
