@@ -402,7 +402,7 @@ Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valios
 |27|US027|Soporte Técnico|Como usuario de Tutor'sMe, quiero tener acceso a un servicio de soporte técnico para resolver problemas técnicos o recibir asistencia en caso de dificultades.|2|
 |28|US028|Calendario de Eventos|Como estudiante, quiero poder acceder a un calendario de eventos que muestre fechas importantes, como vacaciones escolares o eventos temáticos en la plataforma.|2|
 |29|US029|Evaluaciones de Calidad|Como usuario de Tutor'sMe, quiero que la plataforma realice encuestas periódicas para evaluar la calidad de las clases y la satisfacción de los usuarios, para garantizar la mejora continua.|3|
-|30|US030|Acceso Móvil|Como estudiante o profesor, quiero poder acceder a la plataforma y sus funciones a través de una aplicación móvil para una experiencia más conveniente y accesible.|5|
+|30|US030|Creación de un Perfil de Alumno|Como estudiante en Tutor´sMe quiero poder crear un pefril detallado de mis cursos que quiero aprender, mi estado academico, nivel y datos principales con informacion veridica..|5|
 
 
 
@@ -829,8 +829,50 @@ Para esta sección, se explica cómo se desarrollaron las actividades de impleme
 Link: https://github.com/SI729-2302-WX52-Grupo-4/TutorsMe_WEB/pulse
 
 [![colab-Insights1.png](https://i.postimg.cc/fyLFhNKB/colab-Insights1.png)](https://postimg.cc/mzvVQKKH)
-## 5.3. Validation Interviews
-### 5.3.1. Diseño de Entrevistas
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3.
+|**Sprint #**|Sprint 3|
+| :-: | :-: |
+|**Sprint Planning Background**||
+|Date|19/10/2023|
+|Time|20:30 horas|
+|Location|Virtual meeting - Google meet|
+|Prepared By|Giakomo Rodolfo Causso Mariano|
+|Attendees(to planning meeting)|<p>Giakomo Rodolfo Causso Mariano</p><p>Jesica Rut Jaramillo Almora</p><p>Alessandro Alex Vega Paico|
+|Sprint n-1 Review Summary|Se desarrollaron satisfactoriamente las tareas asignadas.|
+|Sprint n-1 Retrospective Summary|Replantear los tiempos de entrega de avances.|
+|**Sprint Goal & User Stories**||
+|Sprint 1 Goal|Implementar las funcionalidades restantes dado las historias de usuario planteados en el product backlog|
+|Sprint 1 Velocity|Los Story Points aceptados por el equipo en el presente Sprint .|
+|Sum of Story Points|La suma de Story Points para el Sprint es de n.|
+#### 5.2.3.2. Sprint Backlog 3.
+
+| Sprint #   |           |      |                       Sprint 1                       | Sprint 1                                                                                                                                                                                     |                    |                                |        |
+|------------|--------------------|-------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------------------|--------|
+| User Story |                    |       |                                             | Work-Item/Tast                                                                                                                                                                               |                    |                                |        |
+| Id         | Title              | Id    | Title                                       | Description                                                                                                                                                                                  | Estimation (hours) | Assigned to                    | Status |
+| US004      | Reserva de Clases   | US004 | Reserva de Clases                         | Como estudiante, quiero poder reservar clases directamente desde la plataforma, eligiendo la fecha y hora que me convenga, para facilitar la coordinación de lecciones. | 5                  | Jesica Rut Jaramillo Almora    | Done   |
+| US010      | Creación de un Perfil de Tutor | US010 | Creación de un Perfil de Tutor        | Como profesor en Tutor'sMe, quiero poder crear un perfil detallado que muestre mis habilidades, experiencia y disponibilidad, para que los estudiantes puedan encontrar fácilmente mi perfil y programar clases conmigo.                                       | 5                  | Alessandro Alex Vega Paico     | Done   |
+| US030      | Creación de un Perfil de Alumno   | US005 |Creación de un Perfil de Alumno |Como estudiante en Tutor´sMe quiero poder crear un pefril detallado de mis cursos que quiero aprender, mi estado academico, nivel y datos principales con informacion veridica.          | 5                  | Giakomo Rodolfo Causso Mariano  | Done   |
+#### 5.2.3.3. Development Evidence for Sprint Review (Giakomo)
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review (alessandro)
+En esta sección se explica y presenta el conjunto de Unit Tests, Integration Tests y Acceptance Tests automatizados, para Web Services relacionados con los User Stories especificados en el Sprint. En el caso de los tests de BDD debe elaborarse los archivos .feature utilizando el lenguaje Gherkin y los archivos Steps en el lenguaje de programación. En esta sección se debe incluir la relación de tests diseñados. En el caso de los Unit Tests, debe indicarse con qué clases y comportamientos se relacionan. En el caso de los Integration Tests ó Acceptance Tests bajo el enfoque BDD, se incluye el código de los .feature Files, explicando con qué User Stories se relacionan. También debe incluirse la ruta del repositorio de control de versiones para los proyectos de Testing, junto con los id de commits relacionados con los avances en Testing para este Sprint. Debe elaborarse una tabla que incluya para cada repositorio los commits relacionados con testing. 
+
+#### 5.2.3.5. Execution Evidence por Sprint Review (ruth)
+Esta sección inicia con un resumen que explique lo alcanzado en este Sprint y presenta screenshots de las principales vistas implementadas, junto con un enlace a un video que ilustre y explique la visualización y navegación logrados en este Sprint.
+Screenshots de lo que se hizo
+
+#### 5.2.3.6. Service Documentation Evidence for Sprint Review. (alessandro)
+En esta sección se incluye la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint. La sección inicia con una introducción en la que se resume los logros alcanzados en relación con Documentación de Web Services para este Sprint. Debe elaborarse una tabla en la que se incluya, para cada Endpoint, la indicación de acciones implementadas, junto con los enlaces correspondientes a la documentación desplegada (o URL local en Sprints previos al despliegue de Web Services). Indicar las acciones soportadas incluyendo para cada acción el verbo http (get, post, put, delete, patch), sintaxis de llamada, especificación de posibles parámetros, así como ejemplo y explicación del response. Adicionalmente, debe incluirse y explicarse capturas en imágenes de la interacción, 21/33 utilizando datos de muestra, con la documentación elaborada. Debe incluirse el URL del repositorio de Web Services, junto con los id de los commits relacionados con Documentación para este Sprint. 
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review. (ruth)
+En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint. La sección inicia con una introducción explicando qué se ha realizado con respecto a despliegue durante este Sprint. Abarca actividades de creación de cuentas, configuración de recursos en cloud providers, configuración de proyectos de desarrollo para integración o automatización de labor de Deployment, entre otros. Se considera dentro del proceso de Deployment todos los productos: Landing Page, Web Applications y Web Services. Se debe adicionar capturas en imagen y explicaciones de los pasos realizados durante el Sprint. 
+#### 5.2.3.8. Team Collaboration Insight during Sprint.(alessandro)
+En esta sección el equipo explica cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo. Todos los miembros del equipo deben tener participación en la implementación de cada uno de los productos según corresponda en el Sprint: Landing Page, Web Applications, Web Services.
+
+
+## 5.3. Validation Interviews (Ruth y alessandro "5.3 a 5.3.2") 
+### 5.3.1. Diseño de Entrevistas 
 #### Introducción general:
 - ¿Cuál es su nombre y apellido?
 - ¿Qué edad tiene?
@@ -846,5 +888,6 @@ A continuación, le mostraré la aplicación en funcionamiento (Se explica y mue
 - ¿Consideras que es fácil navegar a travez de la página?
 - ¿Qué recomendaciones tienes para nuestra aplicación?
 ### 5.3.2. Registro de Entrevistas
-### 5.3.3. Evaluación según heurísticas
+### 5.3.3. Evaluación según heurísticas (Giakomo)
+## 5.3. Video about the product (Giakomo)
 
