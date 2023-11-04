@@ -801,7 +801,7 @@ No se realizaron tests durante esta entrega.
 
 ##### - Profesores
 
-[![Profesores.png](https://i.postimg.cc/wjk6W1VR/Profesores.png)](https://postimg.cc/zyVZvX4q)
+[![new-profesores.png](https://i.postimg.cc/283S0Bm8/new-profesores.png)](https://postimg.cc/BX936bXd)
 
 ##### - Buscador
 
