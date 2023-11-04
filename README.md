@@ -22,8 +22,6 @@ La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de 
   Estoy cursando el 6to ciclo de la carrera de Ing. de  software. Me gusta el trabajo en equipo, por apoyar en lo necesario y trabajar de manera correcta con ganas de aprender. Soy una persona que quiere sacar lo mejor de si, se usar los lenguajes C++, Python, Java, SQL, CSS y HTML
 - **Jesica Rut Jaramillo Almora - U20201C163:**
   Soy Jesica Rut Jaramillo Almora, estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Disfruto el desarrollo de interfaces web y gráficas para ordenador. Espero aprender nuevas formas de desarrollar aplicaciones web haciendo uso de angular.
-- **Manuel Alexis Vargas Quispe - U202113256:**
-  Mi principal fortaleza es mi compromiso y habilidad innata para el trabajo en equipo, lo que me permite desempeñarme eficazmente en contextos colaborativos y mantener relaciones constructivas con mis colegas para lograr el éxito en proyectos conjuntos.
 - **Alessandro Alex Vega Paico - U201910225:**
   Mi nombre es Alessandro Vega, actualmente estoy estudiando la carrera de ingeniería de software. Soy una persona perseverante en lo que hago y me gusta aprender cosas nuevas. A lo largo de la carrera, he adquirido conocimientos en C++, HTML, MatLab, como tambien en Angular y Vue; y tengo como meta aumentar mis conocimientos en diferentes lenguajes de programación.
   
@@ -707,7 +705,7 @@ Estas prácticas son esenciales para mantener la calidad y coherencia en nuestro
 ### 5.1.4. Software Deployment Configuration
 Para tener una óptima visualización de la elaboración de nuestro Landing Page usamos la opción de GitHub llamado GitHub Page para así mostrar cada commit del Landing Page ya desplegado:
 
-Link de la pagina:([pegan aqui el link](https://si729-2302-wx52-grupo-4.github.io/LandingPage/))
+Link de la pagina: https://si729-2302-wx52-grupo-4.github.io/LandingPage/
 
 
 ## 5.2. Lading Page, Services & Application Implementations
@@ -854,8 +852,12 @@ Link: https://github.com/SI729-2302-WX52-Grupo-4/TutorsMe_WEB/pulse
 | Id         | Title              | Id    | Title                                       | Description                                                                                                                                                                                  | Estimation (hours) | Assigned to                    | Status |
 | US004      | Reserva de Clases   | US004 | Reserva de Clases                         | Como estudiante, quiero poder reservar clases directamente desde la plataforma, eligiendo la fecha y hora que me convenga, para facilitar la coordinación de lecciones. | 5                  | Jesica Rut Jaramillo Almora    | Done   |
 | US010      | Creación de un Perfil de Tutor | US010 | Creación de un Perfil de Tutor        | Como profesor en Tutor'sMe, quiero poder crear un perfil detallado que muestre mis habilidades, experiencia y disponibilidad, para que los estudiantes puedan encontrar fácilmente mi perfil y programar clases conmigo.                                       | 5                  | Alessandro Alex Vega Paico     | Done   |
-| US030      | Creación de un Perfil de Alumno   | US005 |Creación de un Perfil de Alumno |Como estudiante en Tutor´sMe quiero poder crear un pefril detallado de mis cursos que quiero aprender, mi estado academico, nivel y datos principales con informacion veridica.          | 5                  | Giakomo Rodolfo Causso Mariano  | Done   |
+| US030      | Creación de un Perfil de Alumno   | US030 |Creación de un Perfil de Alumno |Como estudiante en Tutor´sMe quiero poder crear un pefril detallado de mis cursos que quiero aprender, mi estado academico, nivel y datos principales con informacion veridica.          | 5                  | Giakomo Rodolfo Causso Mariano  | Done   |
 #### 5.2.3.3. Development Evidence for Sprint Review (Giakomo)
+| Repository | Branch | Commit ID | Commit Message    | Commit Message Body | Commited on (Date) |
+|---------|--------|---------|-------------------|------|--------------------|
+|SI729-2302-WX52-Grupo-4/LandingPage | feature/US30   |...| Feature/us30 | -    | ../10/2023         |
+|SI729-2302-WX52-Grupo-4/LandingPage  | feature/US10   | ... | feature/us10            | -    | ../10/2023         |
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review (alessandro)
 En esta sección se explica y presenta el conjunto de Unit Tests, Integration Tests y Acceptance Tests automatizados, para Web Services relacionados con los User Stories especificados en el Sprint. En el caso de los tests de BDD debe elaborarse los archivos .feature utilizando el lenguaje Gherkin y los archivos Steps en el lenguaje de programación. En esta sección se debe incluir la relación de tests diseñados. En el caso de los Unit Tests, debe indicarse con qué clases y comportamientos se relacionan. En el caso de los Integration Tests ó Acceptance Tests bajo el enfoque BDD, se incluye el código de los .feature Files, explicando con qué User Stories se relacionan. También debe incluirse la ruta del repositorio de control de versiones para los proyectos de Testing, junto con los id de commits relacionados con los avances en Testing para este Sprint. Debe elaborarse una tabla que incluya para cada repositorio los commits relacionados con testing. 
 
