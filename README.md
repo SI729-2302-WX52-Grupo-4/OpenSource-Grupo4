@@ -873,7 +873,7 @@ En esta sección se resume los procesos realizados en relación con Deployment d
 En esta sección el equipo explica cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo. Todos los miembros del equipo deben tener participación en la implementación de cada uno de los productos según corresponda en el Sprint: Landing Page, Web Applications, Web Services.
 
 
-## 5.3. Validation Interviews (Ruth y alessandro "5.3 a 5.3.2") 
+## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas 
 #### Introducción general:
 - ¿Cuál es su nombre y apellido?
