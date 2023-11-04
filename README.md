@@ -887,7 +887,21 @@ A continuación, le mostraré la aplicación en funcionamiento (Se explica y mue
 - ¿Qué piensa de la distribución de los servicios? ¿Son distingibles para un nuevo usuario?
 - ¿Consideras que es fácil navegar a travez de la página?
 - ¿Qué recomendaciones tienes para nuestra aplicación?
+
 ### 5.3.2. Registro de Entrevistas
+
+#### -	Entrevista #1:
+
+A cargo de: Alessandro Alex Vega Paico
+
+Nombre del entrevistado: Max Arroyo Lujan (21 años)
+
+Duración: 4:59 - Enlace: https://youtu.be/4BGJBV6DtO8?si=jvFMgkNfhavLU2zd
+
+En la entrevista, el alumno Max Arroyo nos comparte su opnion sobre nuestra aplicacion, haciendo enfasis a que la aplicacion es sencilla y facil de usar, ya que le recuerda a las aulas virtuales de las universidades, permitiendo que el alumno o estudiante registrado pueda navegar de manera intuitiva, sin embargo nos recomienda cambiar los colores de nuestro toolbar por uno mas claro. En general, la aplicacion le parece funcional y tambien la distribucion de los apartados, estan bien posicionados aunque nos menciona que hay personas que le gustaria otro tipo de distribucion, pero por lo general. Esta bien elaborada
+
+[![Entrevista-Validacion.png](https://i.postimg.cc/YS1bp2ZW/Entrevista-Validacion.png)](https://postimg.cc/94QGb2Wm)
+
 ### 5.3.3. Evaluación según heurísticas (Giakomo)
 ## 5.3. Video about the product (Giakomo)
 
