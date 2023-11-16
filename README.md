@@ -850,27 +850,49 @@ Link: https://github.com/SI729-2302-WX52-Grupo-4/TutorsMe_WEB/pulse
 |------------|--------------------|-------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------------------|--------|
 | User Story |                    |       |                                             | Work-Item/Tast                                                                                                                                                                               |                    |                                |        |
 | Id         | Title              | Id    | Title                                       | Description                                                                                                                                                                                  | Estimation (hours) | Assigned to                    | Status |
-| US004      | Reserva de Clases   | US004 | Reserva de Clases                         | Como estudiante, quiero poder reservar clases directamente desde la plataforma, eligiendo la fecha y hora que me convenga, para facilitar la coordinación de lecciones. | 5                  | Jesica Rut Jaramillo Almora    | Done   |
-| US010      | Creación de un Perfil de Tutor | US010 | Creación de un Perfil de Tutor        | Como profesor en Tutor'sMe, quiero poder crear un perfil detallado que muestre mis habilidades, experiencia y disponibilidad, para que los estudiantes puedan encontrar fácilmente mi perfil y programar clases conmigo.                                       | 5                  | Alessandro Alex Vega Paico     | Done   |
+| US010      |  |  | Creación de un Perfil de Tutor        | Como profesor en Tutor'sMe, quiero poder crear un perfil detallado que muestre mis habilidades, experiencia y disponibilidad, para que los estudiantes puedan encontrar fácilmente mi perfil y programar clases conmigo.                                       | 5                  | Alessandro Alex Vega Paico     | Done   |
 | US030      | Creación de un Perfil de Alumno   | US030 |Creación de un Perfil de Alumno |Como estudiante en Tutor´sMe quiero poder crear un pefril detallado de mis cursos que quiero aprender, mi estado academico, nivel y datos principales con informacion veridica.          | 5                  | Giakomo Rodolfo Causso Mariano  | Done   |
 #### 5.2.3.3. Development Evidence for Sprint Review (Giakomo)
 | Repository | Branch | Commit ID | Commit Message    | Commit Message Body | Commited on (Date) |
 |---------|--------|---------|-------------------|------|--------------------|
 |SI729-2302-WX52-Grupo-4/LandingPage | feature/US30   |...| Feature/us30 | -    | ../10/2023         |
 |SI729-2302-WX52-Grupo-4/LandingPage  | feature/US10   | ... | feature/us10            | -    | ../10/2023         |
+
+
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review (alessandro)
-En esta sección se explica y presenta el conjunto de Unit Tests, Integration Tests y Acceptance Tests automatizados, para Web Services relacionados con los User Stories especificados en el Sprint. En el caso de los tests de BDD debe elaborarse los archivos .feature utilizando el lenguaje Gherkin y los archivos Steps en el lenguaje de programación. En esta sección se debe incluir la relación de tests diseñados. En el caso de los Unit Tests, debe indicarse con qué clases y comportamientos se relacionan. En el caso de los Integration Tests ó Acceptance Tests bajo el enfoque BDD, se incluye el código de los .feature Files, explicando con qué User Stories se relacionan. También debe incluirse la ruta del repositorio de control de versiones para los proyectos de Testing, junto con los id de commits relacionados con los avances en Testing para este Sprint. Debe elaborarse una tabla que incluya para cada repositorio los commits relacionados con testing. 
+POST-POST AUTHENTICATE- GET-DELETE (Confirmacion de postman imagenes)
 
 #### 5.2.3.5. Execution Evidence por Sprint Review (ruth)
-Esta sección inicia con un resumen que explique lo alcanzado en este Sprint y presenta screenshots de las principales vistas implementadas, junto con un enlace a un video que ilustre y explique la visualización y navegación logrados en este Sprint.
-Screenshots de lo que se hizo
+FULL imagenes de CRUD en nuestra pagina web
 
 #### 5.2.3.6. Service Documentation Evidence for Sprint Review. (alessandro)
-En esta sección se incluye la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint. La sección inicia con una introducción en la que se resume los logros alcanzados en relación con Documentación de Web Services para este Sprint. Debe elaborarse una tabla en la que se incluya, para cada Endpoint, la indicación de acciones implementadas, junto con los enlaces correspondientes a la documentación desplegada (o URL local en Sprints previos al despliegue de Web Services). Indicar las acciones soportadas incluyendo para cada acción el verbo http (get, post, put, delete, patch), sintaxis de llamada, especificación de posibles parámetros, así como ejemplo y explicación del response. Adicionalmente, debe incluirse y explicarse capturas en imágenes de la interacción, 21/33 utilizando datos de muestra, con la documentación elaborada. Debe incluirse el URL del repositorio de Web Services, junto con los id de los commits relacionados con Documentación para este Sprint. 
+Acciones del postman (crud) con su link, accion y HTTP 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. (ruth)
-En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint. La sección inicia con una introducción explicando qué se ha realizado con respecto a despliegue durante este Sprint. Abarca actividades de creación de cuentas, configuración de recursos en cloud providers, configuración de proyectos de desarrollo para integración o automatización de labor de Deployment, entre otros. Se considera dentro del proceso de Deployment todos los productos: Landing Page, Web Applications y Web Services. Se debe adicionar capturas en imagen y explicaciones de los pasos realizados durante el Sprint. 
+Link de la pagina (iniciar sesion , login) e imagenes
 #### 5.2.3.8. Team Collaboration Insight during Sprint.(alessandro)
-En esta sección el equipo explica cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo. Todos los miembros del equipo deben tener participación en la implementación de cada uno de los productos según corresponda en el Sprint: Landing Page, Web Applications, Web Services.
+Fron-End :
+
+- Network graph
+[![Captura-de-pantalla-2023-11-15-222734.png](https://i.postimg.cc/TPSfkg2W/Captura-de-pantalla-2023-11-15-222734.png)](https://postimg.cc/Jybf0yk1)
+
+- Commits realizados
+[![Captura-de-pantalla-2023-11-16-000854.png](https://i.postimg.cc/FFYD5crH/Captura-de-pantalla-2023-11-16-000854.png)](https://postimg.cc/vDdW54xJ)
+- Miembros de la organizacion
+[![Captura-de-pantalla-2023-11-16-001050.png](https://i.postimg.cc/NjB6MrcT/Captura-de-pantalla-2023-11-16-001050.png)](https://postimg.cc/kBY6YGDX)
+
+Back-End :
+
+- Network graph
+
+falta
+- Commits realizados
+[![Captura-de-pantalla-2023-11-16-001203.png](https://i.postimg.cc/jj9nzDGM/Captura-de-pantalla-2023-11-16-001203.png)](https://postimg.cc/t13gb4R6)
+- Miembros de la organizacion
+[![Captura-de-pantalla-2023-11-16-001050.png](https://i.postimg.cc/NjB6MrcT/Captura-de-pantalla-2023-11-16-001050.png)](https://postimg.cc/kBY6YGDX)
+
+
+
 
 
 ## 5.3. Validation Interviews
@@ -892,7 +914,7 @@ A continuación, le mostraré la aplicación en funcionamiento (Se explica y mue
 
 ### 5.3.2. Registro de Entrevistas
 
-#### -	Entrevista #1:
+#### Entrevista #1:
 
 A cargo de: Alessandro Alex Vega Paico
 
