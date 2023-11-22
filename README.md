@@ -861,15 +861,69 @@ Link: https://github.com/SI729-2302-WX52-Grupo-4/TutorsMe_WEB/pulse
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review (alessandro)
-POST-POST AUTHENTICATE- GET-DELETE (Confirmacion de postman imagenes)
+1. Crear usuario (POST):
 
-#### 5.2.3.5. Execution Evidence por Sprint Review (ruth)
-FULL imagenes de CRUD en nuestra pagina web
+   - Request:  http://localhost:8090/api/v1/login/new
+
+   - Response:
+   [![Captura-de-pantalla-2023-11-22-001810.png](https://i.postimg.cc/cCFc9cdj/Captura-de-pantalla-2023-11-22-001810.png)](https://postimg.cc/hQ7xhTzb)
+
+2. Verificar usuario (POST):
+
+   - Request:  http://localhost:8090/api/v1/login
+
+   - Response:
+   [![Captura-de-pantalla-2023-11-22-001837.png](https://i.postimg.cc/Lsj3KSHj/Captura-de-pantalla-2023-11-22-001837.png)](https://postimg.cc/rdFrxvRp)
+
+3. Ver usuarios (GET): 
+
+   - Request:  http://localhost:8090/api/v1/users
+
+   - Response:
+   [![Captura-de-pantalla-2023-11-22-000314.png](https://i.postimg.cc/7YyDwMM7/Captura-de-pantalla-2023-11-22-000314.png)](https://postimg.cc/Yj8TxFPq)
+
+4. Eliminar usuarios (DELETE):
+
+   - Request:  http://localhost:8090/api/v1/{id}
+
+   - Response:
+   [![Captura-de-pantalla-2023-11-22-001849.png](https://i.postimg.cc/MKssdzTT/Captura-de-pantalla-2023-11-22-001849.png)](https://postimg.cc/ppFYdbKb)
+
+#### 5.2.3.5. Execution Evidence por Sprint Review
+
+- Backend: 
+[![Captura-de-pantalla-2023-11-21-232930.png](https://i.postimg.cc/qRmBzf1F/Captura-de-pantalla-2023-11-21-232930.png)](https://postimg.cc/9R7Hnk5P)
 
 #### 5.2.3.6. Service Documentation Evidence for Sprint Review. (alessandro)
-Acciones del postman (crud) con su link, accion y HTTP 
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review. (ruth)
-Link de la pagina (iniciar sesion , login) e imagenes
+| Endpoint | HTTP | Acciones | Enlace |
+|-----------|-----------|-----------|-----------|
+| api/v1/users    |   GET      |   200 OK: Retorna la lista de los usuarios registrados        |  http://localhost:8090/api/v1/users|
+| api/v1/login   |     POST      | 201 Created: Verifica si el usuario ingresado se encuentra en la base de dato          |  http://localhost:8090/api/v1/login|
+| api/v1/login/new   |    POST       | 201 Created: Crea y retorna el el usuario que se ha creado de manera exitosa           |  http://localhost:8090/api/v1/login/new|
+| api/v1/{Id}   |     DELETE      |    200 OK: Elimina el usuario creado     |  http://localhost:8090/api/v1/{id}
+      
+ 
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+
+- Registro de usuario (Profesor)
+[![Imagen-de-Whats-App-2023-11-15-a-las-20-53-08-e5847ec4.jpg](https://i.postimg.cc/QCtQT3hK/Imagen-de-Whats-App-2023-11-15-a-las-20-53-08-e5847ec4.jpg)](https://postimg.cc/njyjyNsn)
+
+- Login 
+[![Imagen-de-Whats-App-2023-11-15-a-las-20-53-18-fc04bf39.jpg](https://i.postimg.cc/2jcFfV7Q/Imagen-de-Whats-App-2023-11-15-a-las-20-53-18-fc04bf39.jpg)](https://postimg.cc/V5tbqsTv)
+
+Homepage: 
+
+- Pagina principal
+[![Captura-de-pantalla-2023-11-21-235235.png](https://i.postimg.cc/5tK8LtN5/Captura-de-pantalla-2023-11-21-235235.png)](https://postimg.cc/3ypyHYGW)
+
+- Sesiones de clase
+[![Captura-de-pantalla-2023-11-21-235248.png](https://i.postimg.cc/KjPKqcFH/Captura-de-pantalla-2023-11-21-235248.png)](https://postimg.cc/Lgs6hpJt)
+
+- Profesor asignados y favoritos 
+[![Imagen-de-Whats-App-2023-11-04-a-las-08-36-50-986ca339.jpg](https://i.postimg.cc/4dCNDC8k/Imagen-de-Whats-App-2023-11-04-a-las-08-36-50-986ca339.jpg)](https://postimg.cc/f3KNdPnB)
+
+
+
 #### 5.2.3.8. Team Collaboration Insight during Sprint.(alessandro)
 Fron-End :
 
@@ -890,9 +944,6 @@ falta
 [![Captura-de-pantalla-2023-11-16-001203.png](https://i.postimg.cc/jj9nzDGM/Captura-de-pantalla-2023-11-16-001203.png)](https://postimg.cc/t13gb4R6)
 - Miembros de la organizacion
 [![Captura-de-pantalla-2023-11-16-001050.png](https://i.postimg.cc/NjB6MrcT/Captura-de-pantalla-2023-11-16-001050.png)](https://postimg.cc/kBY6YGDX)
-
-
-
 
 
 ## 5.3. Validation Interviews
@@ -927,5 +978,7 @@ En la entrevista, el alumno Max Arroyo nos comparte su opnion sobre nuestra apli
 [![Entrevista-Validacion.png](https://i.postimg.cc/YS1bp2ZW/Entrevista-Validacion.png)](https://postimg.cc/94QGb2Wm)
 
 ### 5.3.3. Evaluación según heurísticas (Giakomo)
+
+
 ## 5.3. Video about the product (Giakomo)
 
