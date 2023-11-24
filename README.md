@@ -839,12 +839,12 @@ Link: https://github.com/SI729-2302-WX52-Grupo-4/TutorsMe_WEB/pulse
 |Location|Virtual meeting - Google meet|
 |Prepared By|Giakomo Rodolfo Causso Mariano|
 |Attendees(to planning meeting)|<p>Giakomo Rodolfo Causso Mariano</p><p>Alessandro Alex Vega Paico|
-|Sprint n-1 Review Summary|Se desarrollaron satisfactoriamente las tareas asignadas.|
-|Sprint n-1 Retrospective Summary|Replantear los tiempos de entrega de avances.|
+|Sprint 3 Review Summary|-|
+|Sprint 3 Retrospective Summary|-|
 |**Sprint Goal & User Stories**||
-|Sprint 1 Goal|Implementar las funcionalidades restantes dado las historias de usuario planteados en el product backlog|
-|Sprint 1 Velocity|Los Story Points aceptados por el equipo en el presente Sprint .|
-|Sum of Story Points|La suma de Story Points para el Sprint es de n.|
+|Sprint 3 Goal|Implementar las funcionalidades restantes dado las historias de usuario planteados en el product backlog|
+|Sprint 3 Velocity|7 story points |
+|Sum of Story Points|La suma de Story Points para el Sprint es de 10.|
 #### 5.2.3.2. Sprint Backlog 3.
 
 | Sprint #   |  Sprint 3         |      |                                             |                                                                                                                                                                                  |                    |                                |        |
@@ -861,9 +861,9 @@ Link: https://github.com/SI729-2302-WX52-Grupo-4/TutorsMe_WEB/pulse
 #### 5.2.3.3. Development Evidence for Sprint Review 
 | Repository | Branch | Commit ID | Commit Message    | Commit Message Body | Commited on (Date) |
 |---------|--------|---------|-------------------|------|--------------------|
-|SI729-2302-WX52-Grupo-4/LandingPage  | feature/US10   | b67e2c85c6effa6e58f41b7ba777fe6f55e8cf3f | feature/us002            | update    | 20/10/2023         |
-|  | feature/US012   | 6eaf54bcab4f3e655c45385bd5b8170ea69bdf85 | feature/us012            | update    | 20/10/2023         |
-| | feature/US030   |cc0884f72bb2658b56fcee51a715450181f978a2| Feature/us030 | update   | 21/10/2023         |
+|SI729-2302-WX52-Grupo-4/LandingPage  | feature/US002   | b67e2c85c6effa6e58f41b7ba777fe6f55e8cf3f | Fix: AddLogin            | Fix: AddLogin    | 20/10/2023         |
+|  | feature/US012   | 6eaf54bcab4f3e655c45385bd5b8170ea69bdf85 |Fix: AddUpdateAccount            | Fix: AddUpdateAccount    | 20/10/2023         |
+| | feature/US030   |cc0884f72bb2658b56fcee51a715450181f978a2| Fix: AddUser | Fix: AddUser   | 21/10/2023         |
 
 
 
@@ -967,26 +967,50 @@ Back-End :
 |Location|Virtual meeting - Google meet|
 |Prepared By|Giakomo Rodolfo Causso Mariano|
 |Attendees(to planning meeting)|<p>Giakomo Rodolfo Causso Mariano</p><p>Alessandro Alex Vega Paico|
-|Sprint n-1 Review Summary|Se desarrollaron satisfactoriamente las tareas asignadas.|
-|Sprint n-1 Retrospective Summary|Replantear los tiempos de entrega de avances.|
+|Sprint 4 Review Summary|Se desarrollaron satisfactoriamente las tareas asignadas.|
+|Sprint 4 Retrospective Summary|-|
 |**Sprint Goal & User Stories**||
 |Sprint 4 Goal|Desplegar la version final del Front-End y desplegar la versión final del Back-End.|
-|Sprint 4 Velocity|Los Story Points aceptados por el equipo en el presente Sprint .|
+|Sprint 4 Velocity|" " story point|
 |Sum of Story Points|La suma de Story Points para el Sprint es de n.|
 
 #### 5.2.4.2. Sprint Backlog 4.
+| Sprint #   |  Sprint 4         |      |                                             |                                                                                                                                                                                  |                    |                                |        |
+|------------|--------------------|-------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------------------|--------|
+| User Story |                    |Work-Item/Task        |                                             |                                                                                                                                                                            |                    |                                |        |
+| Id         | Title              | Id    | Title                                       | Description                                                                                                                                                                                  | Estimation (hours) | Assigned to                    | Status |
+|  US002    |  Seccion login  | WT01 |Desarrollo e implementacion del componente usando Angular y Java| Realizar la comprobacion del ingreso de una cuenta creada  |2                  | Alessandro Alex Vega Paico | Done   |
+| US004      | Reserva de Clases	   | WT02 |Creacion de videoconferencias propias del alumno      | Implementar la integracion de poder crear videoconferencias   | 3                  | Giakomo Rodolfo Causso Mariano  | Done   |
+|     |    | WT03 |  Inscripcion de curso enlazado con videoconferencias  | Inscibirse a cursos y mostrar automaticamente ya las video conferencia predeterminada con fecha y hora de inicio de ese curso seleccionado u inscrito  | 4                  | Alessandro Alex Vega Paico  | Done   |
+| US030      | Creación de un Perfil de Alumno   | WT04 |Desarrollo e implementacion del componente usando Angular y Java       | Implementar que el usuario (estudiante) pueda crear una cuenta sin problema   | 5                  | Giakomo Rodolfo Causso Mariano  | Done   |
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
 
+| Repository | Branch | Commit ID | Commit Message    | Commit Message Body | Commited on (Date) |
+|---------|--------|---------|-------------------|------|--------------------|
+|SI729-2302-WX52-Grupo-4/LandingPage  | feature/US002   | ... | Fix: Updatelogin           | Fix: Updatelogin    | 18/10/2023         |
+|  | feature/US004   | ... | Fix: AddVideoconference            | Fix: AddVideoconference  | 18/10/2023         |
+| | feature/US030   |...| Fix: UpdateUser | Fix: UpdateUser   | 19/10/2023         |
+
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+(fotos de postman GET, POST, PUT, DELETE)
 
 #### 5.2.4.5.	Execution Evidence for Sprint Review.
+FOTOS DE LA PAGINA (CREAR CUENTA, LOGIN, APARTADO PROFESORES, VIDEOCONFENREICA)  TAMBIEN ES SWAGGER
 
 #### 5.2.4.6.	Services Documentation for Sprint Review.
 
+TABLA DE GET, POST, PUT DELETE, CON SU LINK Y SU INFO DE ACCION
+
 #### 5.2.4.7.	Software Deploymet Evidence for Sprint Review.
 
+link de landing page
+link de la pagina funcionando con backend y todo
+link de swagger (apipoint)
+
 #### 5.2.4.8.	Team Collaboration Insights during Sprint.
+
+fotos de github los COMMITS, NETWORK GRAPH, en el frontend y backend
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas 
@@ -1069,5 +1093,5 @@ Tabla de resumen
    Recomendacion: Añadir un apartado de poder ver la informacion de la cuenta que se ingresó y poder editarlo ahi directamente todos los datos o informacion que dese el usuario
 
 
-## 5.3. Video about the product (Giakomo)
+## 5.3. Video about the product 
 
