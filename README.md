@@ -109,10 +109,6 @@
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 #### 5.2.3.8. Team Collaboration Insights during Sprint
-### 5.3. Validation Interviews
-#### 5.3.1. Diseño de Entrevistas
-#### 5.3.2. Registro de Entrevistas
-#### 5.3.3. Evaluaciones según heurísticas
 ### 5.2.4. Sprint 4
 #### 5.2.4.1. Spring Planning 4 
 #### 5.2.4.2. Sprint Backlog 4
@@ -122,6 +118,10 @@
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 #### 5.2.4.8. Team Collaboration Insights during Sprint. 
+### 5.3. Validation Interviews
+#### 5.3.1. Diseño de Entrevistas
+#### 5.3.2. Registro de Entrevistas
+#### 5.3.3. Evaluaciones según heurísticas
 ## 5.4. Video About-the-Product
 
 # CONCLUSIONES
