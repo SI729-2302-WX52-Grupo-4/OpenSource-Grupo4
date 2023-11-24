@@ -332,7 +332,7 @@ Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valios
 |Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID)|
 |----------------|--------|-------------|-------------------------|--------------------------|
 | US001 | Búsqueda  de Tutores | **Como** estudiante de Tutor'sMe, **quiero** poder buscar profesores por área de estudio y disponibilidad **para** encontrar rápidamente un tutor que se adapte a mis necesidades y horarios de estudio. | - Escenario 1: Existoso  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** realiza una búsqueda de tutores por área de estudio y disponibilidad.  **Entonces** recibe una lista de tutores que cumplen con los criterios de búsqueda y puede seleccionar un tutor adecuado. &#124; - Escenario 2: Fallida  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** realiza una búsqueda de tutores, pero no encuentra tutores que cumplan con los criterios de búsqueda.  **Entonces** no recibe resultados y no puede seleccionar un tutor adecuado. | EP001 |
-| US002 |Filtros Avanzados de Búsqueda| **Como** estudiante, **quiero** utilizar filtros avanzados en la búsqueda de tutores, como nivel de experiencia, tarifa por hora y ubicación, **para** encontrar un tutor que se ajuste a mis requisitos específicos. | - Escenario 1: Existoso  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** utiliza filtros avanzados en la búsqueda de tutores, como nivel de experiencia, tarifa por hora y ubicación.  **Entonces** recibe una lista de tutores que cumplen con los filtros seleccionados y puede encontrar un tutor que se ajuste a sus requisitos específicos.  &#124;  - Escenario 2: Fallida  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** utiliza filtros avanzados en la búsqueda de tutores, pero no encuentra tutores que cumplan con los filtros seleccionados.  **Entonces** no recibe resultados y no puede encontrar un tutor que se ajuste a sus requisitos específicos. | EP001 |
+| US002 |Iniciar sesion| Como estudiante con una cuenta activa quiero poder iniciar sesión en la aplicación web para acceder a sus funciones y servicios. | − Scenario 1: Iniciar sesión con éxito Dado que el usuario tiene una cuenta activa Cuando el usuario ingresa las credenciales de inicio de sesión válidas Entonces el usuario ingresa a la aplicación web | EP001 |
 | US003 | Visualización de Disponibilidad de Horarios | **Como** estudiante, **quiero** ver la disponibilidad de horarios de los tutores en un formato de calendario, **para** que pueda programar clases de acuerdo a mi agenda. |- Escenario 1: Existoso  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** visualiza la disponibilidad de horarios de los tutores en un formato de calendario.  **Entonces** puede ver claramente los horarios disponibles de los tutores y programar clases de acuerdo a su agenda.  &#124; - Escenario 2: Fallida  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** intenta visualizar la disponibilidad de horarios de los tutores, pero la función de calendario no carga o presenta errores.  **Entonces** no puede ver los horarios disponibles de los tutores y tiene dificultades para programar clases.| EP001 |
 | US004 | Reserva de Clases | **Como** estudiante, **quiero** poder reservar clases directamente desde la plataforma, eligiendo la fecha y hora que me convenga, **para** facilitar la coordinación de lecciones. | - Escenario 1: Existoso  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** selecciona la opción de reservar una clase desde la plataforma.  **Entonces** puede elegir la fecha y hora que le convenga y la reserva se realiza con éxito, confirmando la clase.  &#124;  - Escenario 2: Fallida  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** intenta reservar una clase, pero la plataforma presenta un error técnico o no muestra las opciones de fecha y hora disponibles.  **Entonces** no puede completar la reserva de la clase y necesita intentarlo nuevamente más tarde o contactar al soporte técnico. | EP002 |
 | US005 | Seguimiento del Progreso | **Como** estudiante, **quiero** tener acceso a un seguimiento de mi progreso en las clases, incluyendo registros de asistencia y notas, **para** evaluar mi rendimiento y el impacto del tutor. | - Escenario 1: Existoso  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** accede a su perfil y selecciona la opción de "Seguimiento del Progreso" en una clase previamente tomada.  **Entonces** puede ver registros precisos de su asistencia y notas, lo que le permite evaluar su desempeño y el impacto del tutor en su aprendizaje.  &#124;  - Escenario 2: Fallida  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** intenta acceder a la función de "Seguimiento del Progreso" en una clase previamente tomada, pero la plataforma no muestra la información o presenta un error técnico.  **Entonces** no puede obtener los registros de asistencia y notas, lo que le impide evaluar su desempeño y el impacto del tutor. Debe contactar al soporte técnico para resolver el problema. | EP002 |
@@ -342,7 +342,8 @@ Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valios
 | US009 | Retroalimentación y Evaluación | **Como** estudiante, **quiero** poder proporcionar retroalimentación y evaluar a los tutores después de cada clase **para** mejorar la calidad general de la enseñanza en la plataforma. | - Escenario 1: Existoso  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** desea proporcionar retroalimentación y evaluar a un tutor después de una clase.  **Entonces** puede completar con éxito el proceso de retroalimentación y evaluación, compartiendo sus comentarios y calificaciones con la plataforma y otros estudiantes.  &#124;  - Escenario 2: Fallida  **Dado** que soy un estudiante en Tutor'sMe.  **Cuando** intenta proporcionar retroalimentación y evaluar a un tutor después de una clase, pero enfrenta problemas técnicos o no puede completar el proceso.  **Entonces** no puede compartir sus comentarios y calificaciones, y puede buscar asistencia técnica para resolver los problemas. | EP003 |
 | US010 | Creación de un Perfil de Tutor | **Como** profesor en Tutor'sMe, **quiero** poder crear un perfil detallado que muestre mis habilidades, experiencia y disponibilidad, **para** que los estudiantes puedan encontrar fácilmente mi perfil y programar clases conmigo. | - Escenario 1: Existoso  **Dado** que soy un profesor en Tutor'sMe.  **Cuando** desea crear su perfil de tutor y proporciona la información personal, habilidades y disponibilidad requeridas.  **Entonces** puede completar con éxito el proceso de creación de perfil, y los estudiantes pueden encontrar su perfil para programar clases con él.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor en Tutor'sMe.  **Cuando** intenta crear su perfil de tutor, pero enfrenta problemas técnicos o no puede proporcionar la información necesaria.  **Entonces** no puede completar el proceso de creación de perfil y puede buscar asistencia técnica para resolver los problemas. | EP004 |
 | US011 | Gestión de Perfil de Tutor | **Como** profesor, **quiero** tener acceso fácil para editar y actualizar mi perfil, **para** mantener mi perfil actualizado y atractivo para los estudiantes. | - Escenario 1: Existoso  **Dado** que soy un profesor en Tutor'sMe.  **Cuando** accede a su perfil y edita la información personal, habilidades o disponibilidad de manera exitosa.  **Entonces** los cambios se guardan correctamente, y los estudiantes pueden ver la información actualizada en su perfil.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor en Tutor'sMe.  **Cuando** intenta editar su perfil, pero enfrenta problemas técnicos o no puede guardar los cambios.  **Entonces** los cambios no se guardan, y el profesor puede buscar asistencia técnica para resolver los problemas. | EP004 |
-| US012 | Configuración de Temas de Enseñanza | **Como** profesor, **quiero** poder configurar los temas específicos que estoy dispuesto a enseñar en mi perfil, **para** que los estudiantes puedan encontrar fácilmente áreas de especialización. | - Escenario 1: Existoso  **Dado** que soy un profesor en Tutor'sMe.  **Cuando** configura los temas específicos que está dispuesto a enseñar en su perfil.  **Entonces** los temas se guardan correctamente, y los estudiantes pueden ver estas áreas de especialización en su perfil para programar clases.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor en Tutor'sMe.  **Cuando** intenta configurar los temas de enseñanza, pero enfrenta problemas técnicos o errores en el proceso.  **Entonces** los temas no se guardan, y el profesor puede buscar asistencia técnica para resolver los problemas. | EP004 |
+| US012 | Actualizar Perfil  | **Como** alumno, **quiero** quiero poder actualizar la información en mi perfil, **para** mantener mi usuario al dia. | - Escenario 1: Existoso  **Dado** que el usuario está en su perfil **Cuando** seleccionar "Editar perfil" **Entonces** los campos disponibles para una actualización (Nombre de usuario, apellidos, fecha de nacimientos, correo y contraseña ) se sombrean ligeramente **Y** es posible editar estos cambios **Cuando** el usuario da click en el botón “confirmar cambios”
+Scenario 2: Los datos actualizados no son válidos Dado que el usuario está en su perfil Cuando selecciona "Editar perfil" Entonces los campos disponibles para una actualización (Nombre de usuario, apellidos, fecha de nacimientos, correo y contraseña) se sombrean ligeramente Y es posible editar estos campos Cuando el usuario da click en el botón “confirmar cambios” Y los nuevos datos no son correctos Entonces se muestra el mensaje en pantalla “Datos incorrectos”| EP004 |
 | US013 | Aprobación de Reservas de Clases | **Como** profesor, **quiero** recibir notificaciones y tener la capacidad de aprobar o rechazar las reservas de clases realizadas por los estudiantes, **para** tener un mayor control sobre mi agenda y garantizar una gestión eficiente de mis clases. | - Escenario 1: Existoso  **Dado** que soy un profesor en Tutor'sMe que ha recibido una notificación de reserva de clase por parte de un estudiante.  **Cuando** el profesor revisa la solicitud y la aprueba.  **Entonces** la reserva de la clase se confirma y se programa exitosamente.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor en Tutor'sMe que ha recibido una notificación de reserva de clase por parte de un estudiante.  **Cuando** el profesor intenta aprobar la reserva, pero encuentra un problema, como un error técnico o conflicto de horarios.  **Entonces** la reserva no se aprueba y el profesor se comunica con el estudiante para resolver el problema o rechazar la reserva. | EP005 |
 | US014 | Gestión de Horario | **Como** profesor, **quiero** poder gestionar y ajustar mi disponibilidad de horarios de manera fácil y rápida, **para** adaptar mi agenda según mis necesidades y la demanda de los estudiantes. | - Escenario 1: Existoso  **Dado** que soy un profesor en Tutor'sMe que desea ajustar su disponibilidad de horarios.  **Cuando** el profesor accede a la plataforma y realiza los cambios deseados en su horario.  **Entonces** los cambios se guardan exitosamente, y la disponibilidad de horarios se actualiza de acuerdo a las preferencias del profesor.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor en Tutor'sMe que desea ajustar su disponibilidad de horarios.  **Cuando** el profesor intenta hacer los cambios, pero encuentra un error técnico o una interrupción en el servicio.  **Entonces** los cambios no se guardan y el profesor debe intentarlo nuevamente cuando el sistema esté disponible o buscar asistencia técnica. | EP005 |
 | US015 | Clases Grupales | **Como** profesor, **quiero** tener la opción de ofrecer clases grupales **para** múltiples estudiantes interesados en el mismo tema. | - Escenario 1: Existoso  **Dado** que soy un profesor en Tutor'sMe que desea ofrecer una clase grupal.  **Cuando** el profesor configura una clase grupal y establece los parámetros, como el tema, la fecha y la hora. **Entonces** la clase grupal se crea exitosamente, y otros estudiantes pueden unirse a ella antes de la fecha programada.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor en Tutor'sMe que desea ofrecer una clase grupal.  **Cuando** el profesor intenta crear la clase grupal, pero encuentra un error técnico o un problema con la configuración.  **Entonces** la clase grupal no se crea y el profesor debe revisar la configuración o buscar asistencia técnica. | EP005 |
@@ -360,7 +361,7 @@ Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valios
 | US027 | Gestión de Cancelaciones de Clases | **Como** profesor, **quiero** tener una política de cancelación de clases que me permita gestionar las cancelaciones de manera justa y clara, **para** mantener una agenda de clases organizada. | - Escenario 1: Existoso  **Dado** que soy un profesor y una solicitud de cancelación con suficiente anticipación.  **Cuando** el profesor procesa la solicitud siguiendo la política de cancelación.  **Entonces** se aplica la política de reembolso y se notifica al estudiante.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor y una solicitud de cancelación tardía.  **Cuando** el profesor no puede procesarla según la política.  **Entonces** la reserva de clase original se mantiene, y el estudiante no recibe reembolso. | EP009 |
 | US028 | Notificaciones de Clases | **Como** profesor en Tutor'sMe, **quiero** recibir notificaciones instantáneas cuando un estudiante solicite una lección o me envíe un mensaje, **para** que pueda responder rápidamente y coordinar las clases de manera eficiente. | - Escenario 1: Existoso  **Dado** un profesor.  **Cuando** que soy un estudiante solicita una lección o envía un mensaje.  **Entonces** el profesor recibe notificaciones instantáneas y puede responder rápidamente.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor.  **Cuando** no hay solicitudes de lecciones ni mensajes pendientes.  **Entonces** el profesor no recibe notificaciones. | EP010 |
 | US029 | Registro de Asistencia y Notas | **Como** profesor, **quiero** poder llevar un registro de asistencia de las clases y registrar las notas de los estudiantes **para** un seguimiento efectivo. | - Escenario 1: Existoso  **Dado** que soy un profesor.  **Cuando** toma asistencia y registra notas de los estudiantes durante una clase.  **Entonces** el registro de asistencia y notas se almacena de manera adecuada para un seguimiento efectivo.  &#124;  - Escenario 2: Fallida  **Dado** que soy un profesor.  **Cuando** no se toma asistencia ni se registran notas durante una clase.  **Entonces** no se almacenan registros de asistencia ni notas. | EP010 |
-| US030 | Soporte de Videoconferencia Integrado | **Como** profesor, **quiero** contar con una función de videoconferencia integrada en la plataforma que facilite la realización de clases en línea sin necesidad de utilizar aplicaciones externas, **para** mejorar la comodidad y eficiencia de las lecciones en línea y proporcionar una experiencia más fluida. |- Escenario 1: Existoso  **Dado** un profesor y un estudiante en Tutor'sMe.  **Cuando** inician una clase en línea a través de la plataforma.  **Entonces** la función de videoconferencia integrada se activa y permite una comunicación efectiva durante la clase.  &#124;  - Escenario 2: Fallida  **Dado** un profesor y un estudiante en Tutor'sMe.  **Cuando** intentan iniciar una clase en línea, pero la función de videoconferencia integrada no funciona.  **Entonces** no pueden establecer una comunicación efectiva y la clase en línea no se lleva a cabo adecuadamente.  | EP010 |
+| US030 | Creación de un Perfil de Alumno |Como estudiante en Tutor'sMe, quiero poder crear un perfil detallado que refleje mis cursos de interés, mi estado académico, nivel y datos principales, asegurándome de proporcionar información verídica. |Escenario 1: Creación Exitosa del Perfil de Alumno Dado que soy un estudiante en Tutor'sMe Cuando accedo a la plataforma y selecciono la opción de "Crear Perfil de Alumno" Entonces ingreso de manera exitosa la información detallada de los cursos que quiero aprender, mi estado académico, nivel y datos principales Y verifico que la información proporcionada es verídica Y finalmente, confirmo que mi perfil ha sido creado con éxito.Escenario 2: Validación de Información en la Creación del Perfil de Alumno Dado que soy un estudiante en Tutor'sMe Cuando intento crear un perfil de alumno Entonces, si intento proporcionar información inválida o incompleta Entonces el sistema debe mostrar mensajes de error indicando qué campos deben corregirse Y hasta que la información sea válida y completa, no se permitirá la creación del perfil Y finalmente, confirmo que el sistema valida adecuadamente la información antes de crear el perfil.| EP010 |
 
 ## 3.3. Impact Mapping
 ## - **Alumno:**
@@ -372,7 +373,7 @@ Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valios
 |***# ORDEN***|***USER STORY ID***|***TÍTULO***|***DESCRIPCIÓN***|***STORY POINTS (1/2/3/5/8)***|
 | :-: | :-: | :-: | :-: | :- |
 |1|US001|Búsqueda de Tutores|Como estudiante de Tutor'sMe, quiero poder buscar profesores por área de estudio y disponibilidad para encontrar rápidamente un tutor que se adapte a mis necesidades y horarios de estudio.|3|
-|2|US002|Filtros Avanzados de Búsqueda|Como estudiante, quiero utilizar filtros avanzados en la búsqueda de tutores, como nivel de experiencia, tarifa por hora y ubicación, para encontrar un tutor que se ajuste a mis requisitos específicos.|3|
+|2|US002|Iniciar sesion|Como estudiante con una cuenta activa, quiero poder iniciar sesión en la aplicación web para acceder a sus funciones y servicios.|3|
 |3|US003|Visualización de Disponibilidad de Horarios|Como estudiante, quiero ver la disponibilidad de horarios de los tutores en un formato de calendario, para que pueda programar clases de acuerdo a mi agenda.|2|
 |4|US004|Reserva de Clases|Como estudiante, quiero poder reservar clases directamente desde la plataforma, eligiendo la fecha y hora que me convenga, para facilitar la coordinación de lecciones.|5|
 |5|US005|Seguimiento del Progreso|Como estudiante, quiero tener acceso a un seguimiento de mi progreso en las clases, incluyendo registros de asistencia y notas, para evaluar mi rendimiento y el impacto del tutor.|5|
@@ -382,7 +383,7 @@ Mediante entrevistas cuidadosamente diseñadas, logramos recolectar datos valios
 |9|US009|Retroalimentación y Evaluación|Como estudiante, quiero poder proporcionar retroalimentación y evaluar a los tutores después de cada clase para mejorar la calidad general de la enseñanza en la plataforma.|3|
 |10|US010|Creación de un Perfil de Tutor|Como profesor en Tutor'sMe, quiero poder crear un perfil detallado que muestre mis habilidades, experiencia y disponibilidad, para que los estudiantes puedan encontrar fácilmente mi perfil y programar clases conmigo.|2|
 |11|US011|Gestión de Perfil de Tutor|Como profesor, quiero tener acceso fácil para editar y actualizar mi perfil, para mantener mi perfil actualizado y atractivo para los estudiantes.|2|
-|12|US012|Configuración de Temas de Enseñanza|Como profesor, quiero poder configurar los temas específicos que estoy dispuesto a enseñar en mi perfil, para que los estudiantes puedan encontrar fácilmente áreas de especialización.|2|
+|12|US012|Actualizar Perfil |Como usuario, quiero poder actualizar la información en mi perfil para mantener mi usuario al día.|2|
 |13|US013|Aprobación de Reservas de Clases|Como profesor, quiero recibir notificaciones y tener la capacidad de aprobar o rechazar las reservas de clases realizadas por los estudiantes, para tener un mayor control sobre mi agenda y garantizar una gestión eficiente de mis clases.|3|
 |14|US014|Gestión de Horario|Como profesor, quiero poder gestionar y ajustar mi disponibilidad de horarios de manera fácil y rápida, para adaptar mi agenda según mis necesidades y la demanda de los estudiantes.|2|
 |15|US015|Clases Grupales  C|Como profesor, quiero tener la opción de ofrecer clases grupales para múltiples estudiantes interesados en el mismo tema.|3|
@@ -837,7 +838,7 @@ Link: https://github.com/SI729-2302-WX52-Grupo-4/TutorsMe_WEB/pulse
 |Time|20:30 horas|
 |Location|Virtual meeting - Google meet|
 |Prepared By|Giakomo Rodolfo Causso Mariano|
-|Attendees(to planning meeting)|<p>Giakomo Rodolfo Causso Mariano</p><p>Jesica Rut Jaramillo Almora</p><p>Alessandro Alex Vega Paico|
+|Attendees(to planning meeting)|<p>Giakomo Rodolfo Causso Mariano</p><p>Alessandro Alex Vega Paico|
 |Sprint n-1 Review Summary|Se desarrollaron satisfactoriamente las tareas asignadas.|
 |Sprint n-1 Retrospective Summary|Replantear los tiempos de entrega de avances.|
 |**Sprint Goal & User Stories**||
@@ -846,21 +847,28 @@ Link: https://github.com/SI729-2302-WX52-Grupo-4/TutorsMe_WEB/pulse
 |Sum of Story Points|La suma de Story Points para el Sprint es de n.|
 #### 5.2.3.2. Sprint Backlog 3.
 
-| Sprint #   |           |      |                       Sprint 1                       | Sprint 1                                                                                                                                                                                     |                    |                                |        |
+| Sprint #   |  Sprint 3         |      |                                             |                                                                                                                                                                                  |                    |                                |        |
 |------------|--------------------|-------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------------------|--------|
-| User Story |                    |       |                                             | Work-Item/Tast                                                                                                                                                                               |                    |                                |        |
+| User Story |                    |Work-Item/Task        |                                             |                                                                                                                                                                            |                    |                                |        |
 | Id         | Title              | Id    | Title                                       | Description                                                                                                                                                                                  | Estimation (hours) | Assigned to                    | Status |
-| US010      |  |  | Creación de un Perfil de Tutor        | Como profesor en Tutor'sMe, quiero poder crear un perfil detallado que muestre mis habilidades, experiencia y disponibilidad, para que los estudiantes puedan encontrar fácilmente mi perfil y programar clases conmigo.                                       | 5                  | Alessandro Alex Vega Paico     | Done   |
-| US030      | Creación de un Perfil de Alumno   | US030 |Creación de un Perfil de Alumno |Como estudiante en Tutor´sMe quiero poder crear un pefril detallado de mis cursos que quiero aprender, mi estado academico, nivel y datos principales con informacion veridica.          | 5                  | Giakomo Rodolfo Causso Mariano  | Done   |
-#### 5.2.3.3. Development Evidence for Sprint Review (Giakomo)
+|  US002    |  Seccion login  | WT01 |Desarrollo e implementacion del componente usando Angular y Java| Realizar la comprobacion del ingreso de una cuenta creada  |2                  | Alessandro Alex Vega Paico | Done   |
+|   US012   |  Actualizar cuenta  | WT02 |Implementar el formulario para los nuevos datos que se ingresarán |Implementar el formulario donde el usuario ingrese su nueva data a remplazar| 2                  |Giakomo Rodolfo Causso Mariano  | Done   |
+|      |    | WT03 |Almacenar la informacion de usuario| Realizar la actualizacion de los datos del usuario para su posterior manejo  |2                  |  | Done   |
+| US030      | Creación de un Perfil de Alumno   | WT04 |Desarrollo e implementacion del componente usando Angular y Java       | Implementar que el usuario (estudiante) pueda crear una cuenta sin problema   | 5                  | Giakomo Rodolfo Causso Mariano  | Done   |
+
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review 
 | Repository | Branch | Commit ID | Commit Message    | Commit Message Body | Commited on (Date) |
 |---------|--------|---------|-------------------|------|--------------------|
-|SI729-2302-WX52-Grupo-4/LandingPage | feature/US30   |...| Feature/us30 | -    | ../10/2023         |
-|SI729-2302-WX52-Grupo-4/LandingPage  | feature/US10   | ... | feature/us10            | -    | ../10/2023         |
+|SI729-2302-WX52-Grupo-4/LandingPage  | feature/US10   | b67e2c85c6effa6e58f41b7ba777fe6f55e8cf3f | feature/us002            | update    | 20/10/2023         |
+|  | feature/US012   | 6eaf54bcab4f3e655c45385bd5b8170ea69bdf85 | feature/us012            | update    | 20/10/2023         |
+| | feature/US030   |cc0884f72bb2658b56fcee51a715450181f978a2| Feature/us030 | update   | 21/10/2023         |
 
 
 
-#### 5.2.3.4. Testing Suite Evidence for Sprint Review (alessandro)
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review 
 1. Crear usuario (POST):
 
    - Request:  http://localhost:8090/api/v1/login/new
@@ -905,26 +913,31 @@ Link: https://github.com/SI729-2302-WX52-Grupo-4/TutorsMe_WEB/pulse
  
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 
-- Registro de usuario (Profesor)
+- Registro de usuario (Alumno)
+
 [![Imagen-de-Whats-App-2023-11-15-a-las-20-53-08-e5847ec4.jpg](https://i.postimg.cc/QCtQT3hK/Imagen-de-Whats-App-2023-11-15-a-las-20-53-08-e5847ec4.jpg)](https://postimg.cc/njyjyNsn)
 
 - Login 
+
 [![Imagen-de-Whats-App-2023-11-15-a-las-20-53-18-fc04bf39.jpg](https://i.postimg.cc/2jcFfV7Q/Imagen-de-Whats-App-2023-11-15-a-las-20-53-18-fc04bf39.jpg)](https://postimg.cc/V5tbqsTv)
 
 Homepage: 
 
 - Pagina principal
+
 [![Captura-de-pantalla-2023-11-21-235235.png](https://i.postimg.cc/5tK8LtN5/Captura-de-pantalla-2023-11-21-235235.png)](https://postimg.cc/3ypyHYGW)
 
 - Sesiones de clase
+
 [![Captura-de-pantalla-2023-11-21-235248.png](https://i.postimg.cc/KjPKqcFH/Captura-de-pantalla-2023-11-21-235248.png)](https://postimg.cc/Lgs6hpJt)
 
 - Profesor asignados y favoritos 
+
 [![Imagen-de-Whats-App-2023-11-04-a-las-08-36-50-986ca339.jpg](https://i.postimg.cc/4dCNDC8k/Imagen-de-Whats-App-2023-11-04-a-las-08-36-50-986ca339.jpg)](https://postimg.cc/f3KNdPnB)
 
 
 
-#### 5.2.3.8. Team Collaboration Insight during Sprint.(alessandro)
+#### 5.2.3.8. Team Collaboration Insight during Sprint.
 Fron-End :
 
 - Network graph
@@ -938,13 +951,42 @@ Fron-End :
 Back-End :
 
 - Network graph
-
-falta
+[![Captura-de-pantalla-2023-11-23-231528.png](https://i.postimg.cc/fWHBbw4Z/Captura-de-pantalla-2023-11-23-231528.png)](https://postimg.cc/fk9x2QTg)
 - Commits realizados
 [![Captura-de-pantalla-2023-11-16-001203.png](https://i.postimg.cc/jj9nzDGM/Captura-de-pantalla-2023-11-16-001203.png)](https://postimg.cc/t13gb4R6)
 - Miembros de la organizacion
 [![Captura-de-pantalla-2023-11-16-001050.png](https://i.postimg.cc/NjB6MrcT/Captura-de-pantalla-2023-11-16-001050.png)](https://postimg.cc/kBY6YGDX)
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4.
+|**Sprint #**|Sprint 4|
+| :-: | :-: |
+|**Sprint Planning Background**||
+|Date|15/11/2023|
+|Time|17:30 horas|
+|Location|Virtual meeting - Google meet|
+|Prepared By|Giakomo Rodolfo Causso Mariano|
+|Attendees(to planning meeting)|<p>Giakomo Rodolfo Causso Mariano</p><p>Alessandro Alex Vega Paico|
+|Sprint n-1 Review Summary|Se desarrollaron satisfactoriamente las tareas asignadas.|
+|Sprint n-1 Retrospective Summary|Replantear los tiempos de entrega de avances.|
+|**Sprint Goal & User Stories**||
+|Sprint 4 Goal|Desplegar la version final del Front-End y desplegar la versión final del Back-End.|
+|Sprint 4 Velocity|Los Story Points aceptados por el equipo en el presente Sprint .|
+|Sum of Story Points|La suma de Story Points para el Sprint es de n.|
+
+#### 5.2.4.2. Sprint Backlog 4.
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+#### 5.2.4.5.	Execution Evidence for Sprint Review.
+
+#### 5.2.4.6.	Services Documentation for Sprint Review.
+
+#### 5.2.4.7.	Software Deploymet Evidence for Sprint Review.
+
+#### 5.2.4.8.	Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas 
@@ -977,7 +1019,54 @@ En la entrevista, el alumno Max Arroyo nos comparte su opnion sobre nuestra apli
 
 [![Entrevista-Validacion.png](https://i.postimg.cc/YS1bp2ZW/Entrevista-Validacion.png)](https://postimg.cc/94QGb2Wm)
 
-### 5.3.3. Evaluación según heurísticas (Giakomo)
+### 5.3.3. Evaluación según heurísticas 
+Tareas a evaluar:
+- Registro de un nuevo usuario
+- Validar el login con el usuario creado
+- Actualizar cuenta
+
+Tabla de resumen
+
+| #Orden | Problema | Escala de severidad | Heuristica/Principio violada/o |
+|-----------|-----------|-----------|-----------|
+| #1    | Resgistro de un nuevo usuario  | 2  | No se guarda de manera total todos los datos desde frontend hacia el backend  |
+| #2    | Validar el login con el usuario creado  | 3  | No se valida si existe ese usuario e ingrese en esa cuenta  |
+| #3    | Actualizar cuenta  | 2  | No actualiza todos los datos correspondientes  |
+
+- **Problema #1: Registro de un nuevo usuario**
+
+   severidad: 2
+
+   Heuristica violada: No se guarda de manera total todos los datos desde frontend hacia el backend 
+   
+   Problema: El proceso de registro aun no está completo, no se puede crear una cuenta o algun metodo de verificar si existe
+   [![Captura-de-pantalla-2023-11-23-234215.png](https://i.postimg.cc/5yTFhKXY/Captura-de-pantalla-2023-11-23-234215.png)](https://postimg.cc/FkbRcZgN)
+   
+   Recomendacion: Añadir métodos de verificación de cuenta, solicitando solo la información esencial inicialmente 
+
+- **Problema #2: Registro de un nuevo usuario**  
+
+   severidad: 3
+
+   Heuristica violada: No se valida si existe ese usuario e ingrese en esa cuenta
+
+   Problema: La validacion de que al crear una cuenta y que con esa cuenta se ingrese a la pagina aun no esta completa, no se valida o se especifica con que cuenta se esta ingresando
+
+   [![Captura-de-pantalla-2023-11-23-234052.png](https://i.postimg.cc/gJ4VTKy8/Captura-de-pantalla-2023-11-23-234052.png)](https://postimg.cc/477HKVSx)
+
+   Recomendacion: Añadir a un lado de la pagina o decir un texto en la esquina superior derecha de la pagina el nombre del usuario de la cuenta ingresada
+
+- **Problema #3: Actualizar cuenta**
+
+   severidad: 2
+   
+   Heuristica violada: No actualiza todos los datos correspondientes
+
+   Problema: El proceso de subscribir los datos ya creados en una cuenta y editarlas (nombre, apellido, fecha de nacimiento, contraseña y gmail) esta aun inconclusa, no se edita de manera satisfactoria
+
+   [No imagen]
+
+   Recomendacion: Añadir un apartado de poder ver la informacion de la cuenta que se ingresó y poder editarlo ahi directamente todos los datos o informacion que dese el usuario
 
 
 ## 5.3. Video about the product (Giakomo)
