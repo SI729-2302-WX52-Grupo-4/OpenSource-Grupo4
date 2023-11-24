@@ -1,3 +1,163 @@
+# REGISTRO DE VERSIONES DEL INFORME
+| Versión | Fecha | Autor | Descripción de modificación |
+|-----------|-----------|-----------|-----------|
+| TB1  | 30/08/23  | Todo el grupo  | - tems de los capítulos: I, II, III y I|
+|   |   |   | - Software Configuration Management|
+|   |   |   | - Desarrollo de sprint 1|
+| TP  | 30/09/2023  | Todo el grupo  | - Sprint 2 |
+| TB2  | 01/11/2023  | Todo el grupo  | - Actualizar Wireframes, mockups|
+|   |   |   | - Sprint 3|
+| TF  | 23/11/2023  | Todo el grupo  | - Sprint 4  |
+
+# CONTENIDO
+##  REGISTRO DE VERSIONES DEL INFORME
+##  STUDENT OUTCOME
+# CAPÍTULO I: INTRODUCCIÓN
+## 1.1. Startup Profile
+### 1.1.1. Descripción de la Startup 
+### 1.1.2. Perfiles de integrantes del equipo 
+## 1.2. Solution Profile
+### 1.2.1. Antecedentes y problemática 
+### 1.2.2. Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+#### 1.2.2.2. Lean UX Assumptions 
+#### 1.2.2.3. Lean UX Hypothesis Statements
+#### 1.2.2.4. Lean UX Canvas
+## 1.3. Segmentos objetivo
+
+# CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS
+## 2.1. Competidores
+### 2.1.1. Análisis Competitivo 
+### 2.1.2. Estrategias Y Tácticas Frente A Competidores 
+## 2.2. Entrevistas
+### 2.2.1. Diseño De Entrevistas
+### 2.2.2. Registro De Entrevistas
+### 2.2.3. Análisis De Entrevistas
+## 2.3. Needfinding
+### 2.3.1. User Personas 
+### 2.3.2. User Task Matrix 
+### 2.3.3. User Journey Mapping
+### 2.3.4. Empathy Mapping
+### 2.3.5. As-Is Scenario Mapping
+
+# CAPÍTULO III: REQUIREMENTS SPECIFICATION
+## 3.1. To-Be Scenario Mapping 
+## 3.2. User Stories
+## 3.3. Impact Mappin  
+## 3.4. Product Backlog 
+
+# CAPÍTULO IV: PRODUCT DESIGN
+## 4.1. Style Guidelines
+### 4.1.1. General Style Guidelines 
+### 4.1.2. Web Style Guidelines 
+## 4.2. Information Architecture
+### 4.2.1. Organization Systems 
+### 4.2.2. Labeling Systems 
+### 4.2.3. Seo Tags And Meta Tags
+### 4.2.4. Searching Systems
+### 4.2.5. Navigation Systems 
+## 4.3. Landing Page Ui Design
+### 4.3.1. Landing Page Wireframe 
+### 4.3.2. Landing Page Mock-Up
+## 4.4. Web Applications Ux/Ui Design
+### 4.4.1. Web Applications Wireframes 
+### 4.4.2. Web Applications Wireflow Diagrams
+### 4.4.3. Web Applications Mock-Ups
+### 4.4.4. Web Applications User Flow Diagrams 
+## 4.5. Web Applications Prototyping
+## 4.6. Domain-driven software architecture
+### 4.6.1. Software Architecture Context Diagram
+### 4.6.2. Software Architecture Container Diagrams
+### 4.6.3. Software Architecture Components Diagrams
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
+### 4.7.2. Class Dictionary 
+## 4.8. Database Design
+### 4.8.1. Database Diagram 
+
+# CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
+## 5.1. Software configuration management 
+### 5.1.1. Software development environment configuration 
+### 5.1.2. Source code management
+### 5.1.3. Source code style guide & conventions 
+### 5.1.4. Software deployment configuration 
+## 5.2. Landing page, services & applications implementation
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint planning 1
+#### 5.2.1.2. Sprint backlog 1
+#### 5.2.1.3. Development evidence for sprint review 
+#### 5.2.1.4. Testing suite evidence for sprint review
+#### 5.2.1.5. Execution evidence for sprint review 
+#### 5.2.1.6. Services documentation evidence for sprint review 
+#### 5.2.1.7. Software deployment evidence for sprint review
+#### 5.2.1.8. Team collaboration insights during sprint
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+#### 5.2.2.2. Sprint Backlog 2 
+#### 5.2.2.3. Development Evidence for Sprint Review 
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review 
+#### 5.2.2.5. Execution Evidence for Sprint Review 
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.8. Team Collaboration Insights during Sprint 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Spring Planning 3 
+#### 5.2.3.2. Sprint Backlog 3 
+#### 5.2.3.3. Development Evidence for Sprint Review 
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review 
+#### 5.2.3.5. Execution Evidence for Sprint Review 
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+### 5.3. Validation Interviews
+#### 5.3.1. Diseño de Entrevistas
+#### 5.3.2. Registro de Entrevistas
+#### 5.3.3. Evaluaciones según heurísticas
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Spring Planning 4 
+#### 5.2.4.2. Sprint Backlog 4
+#### 5.2.4.3. Development Evidence for Sprint Review. 
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.4.5. Execution Evidence for Sprint Review. 
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+#### 5.2.4.8. Team Collaboration Insights during Sprint. 
+## 5.4. Video About-the-Product
+
+# CONCLUSIONES
+# BIBLIOGRAFÍA 
+# ANEXOS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# STUDENT OUTCOME
+| Criterio específico | Acciones realizadas | Conclusiones |
+|-----------|-----------|-----------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.| **Giakomo Causso Rodolfo Mariano:**<br> **TB1/TP:** Se implementó la descripcion del startup asi como tambien la descripcion de nuestro Solution Profile.<br> Se implementó el sprint 2 referente a la implementacion, codificaciones, desarrollo y despliegue de la pagina web Front-end end Angular <br> **TB2/TF:** Se implementa lo necesario e importante a nuestra ApiRes para darle nuestra web mas actualizada al usuario.<br> Se implementó mas clases nuevos y nueva cara de la pagina web. | Se lograron los objetivos establecidos gracias a la constante comunicación y organización de nuestro equipo para la correcta elaboración e implementación del presente proyecto| Se lograron los objetivos establecidos gracias a la constante comunicación y organización de nuestro equipo para la correcta elaboración e implementación del presente proyecto.  |
+|   | **Alessandro Alex Vega Paico:** <br> **TB1/TP:** Se realizó la investigacion y tecnolocias que usaremos en nuestro landing page. <br> Entrega de recursos asignados, herramientas utilizadas: Github, Postman y Visual studio code <br> <br> **TB2/TF:** Elaboracion del backend y frontend, actualizacion de elementos esenciales e importantes en el frontend (diseño e interfaz)  |   |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software  | **Giakomo Causso Rodolfo Mariano:**<br> **TB1/TP:** Elaborar el User Task Matrix, tambien elaborar el User Journet Mapping, Empathy Mapping, los As-os y To-be Scenario Mapping para nuestro segmentos objetivo.<br> Se implementó una actualizacion del product backlog asi como tambien la documentacion referente a la web desarrollada.<br> <br>**TB2/TF:** Se implementó la actualizacionde datos del usuario, la creacion de un nuevo usuario, la creacion de una videoconferencias por el usuario, validacion la cuenta creada para poder ingresar en el login. <br>Se implementó actualizacion del frontend para que los datos se que serán ingresadas ahi vayan al backend   | Se logro el objetivo de la elaboración y retroalimentación del informe técnico, así como también funcional. También se realizó el correcto y exitoso despliegue del landing page. |
+|   | **Alessandro. Alex Vega Paico:** <br> **TB1/TP:** Colabore en la elaboracion y mejoras en el informes, actualizacion de wirframes, user story e validacion de login. <br> <br> **TB2/TF:** Se implemento actualizar el frontend para la comunicacion entre frontend y backend    |   |
+
+
+
+
+
+
+
+
+
+
 # CAPITULO I - INTRODUCCIÓN
 ## 1.1.	Startup Profile
 ### 1.1.1. Descripción de la Startup
