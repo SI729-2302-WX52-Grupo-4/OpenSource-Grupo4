@@ -179,9 +179,7 @@ La visión de Tutor'sMe es expandirse a nivel internacional, con el objetivo de 
 
 ### 1.1.2. Perfil de los integrantes 
 - **Giakomo Rodolfo Causso Mariano - U202118374:**
-  Estoy cursando el 6to ciclo de la carrera de Ing. de  software. Me gusta el trabajo en equipo, por apoyar en lo necesario y trabajar de manera correcta con ganas de aprender. Soy una persona que quiere sacar lo mejor de si, se usar los lenguajes C++, Python, Java, SQL, CSS y HTML
-- **Jesica Rut Jaramillo Almora - U20201C163:**
-  Soy Jesica Rut Jaramillo Almora, estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Disfruto el desarrollo de interfaces web y gráficas para ordenador. Espero aprender nuevas formas de desarrollar aplicaciones web haciendo uso de angular.
+  Estoy cursando el 6to ciclo de la carrera de Ing. de  software. Me gusta el trabajo en equipo, por apoyar en lo necesario y trabajar de manera correcta con ganas de aprender. Soy una persona que quiere sacar lo mejor de si, se usar los lenguajes C++, Python, Java, SQL, CSS y HTML.
 - **Alessandro Alex Vega Paico - U201910225:**
   Mi nombre es Alessandro Vega, actualmente estoy estudiando la carrera de ingeniería de software. Soy una persona perseverante en lo que hago y me gusta aprender cosas nuevas. A lo largo de la carrera, he adquirido conocimientos en C++, HTML, MatLab, como tambien en Angular y Vue; y tengo como meta aumentar mis conocimientos en diferentes lenguajes de programación.
   
