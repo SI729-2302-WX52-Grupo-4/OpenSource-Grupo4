@@ -1160,7 +1160,7 @@ Back-End :
 
    [![Captura-de-pantalla-2023-11-24-212929.png](https://i.postimg.cc/SNFsbhcq/Captura-de-pantalla-2023-11-24-212929.png)](https://postimg.cc/nM2ZqNdw)
 
-2. Editar usuario (GET):
+2. Ver todas las videoconferencia (GET):
 
    - Request:  http://localhost:8090/api/v1/videoconference
 
@@ -1168,7 +1168,7 @@ Back-End :
 
    [![Captura-de-pantalla-2023-11-24-213020.png](https://i.postimg.cc/TY4t3tYR/Captura-de-pantalla-2023-11-24-213020.png)](https://postimg.cc/4mp68b9M)
 
-3. Editar usuario (PUT):
+3. Editar videoconferencia (PUT):
 
    - Request:  http://localhost:8090/api/v1/videoconference/{id}
 
@@ -1176,7 +1176,7 @@ Back-End :
 
    [![Captura-de-pantalla-2023-11-24-213056.png](https://i.postimg.cc/dtbGfpVT/Captura-de-pantalla-2023-11-24-213056.png)](https://postimg.cc/GHjB8MYc)
    
-4. Editar usuario (DELETE):
+4. Eliminar videoconferencia (DELETE):
 
    - Request:  http://localhost:8090/api/v1/videoconference/{id}
 
@@ -1192,7 +1192,7 @@ Back-End :
 
    [![Captura-de-pantalla-2023-11-24-212852.png](https://i.postimg.cc/c1Mq6yVd/Captura-de-pantalla-2023-11-24-212852.png)](https://postimg.cc/3WRfb68q)
 
-6. Editar usuario (POST):
+6. Crear Nuevo profesor (POST):
 
    - Request:  http://localhost:8090/api/v1/profesor/new
 
@@ -1200,7 +1200,7 @@ Back-End :
 
    [![Captura-de-pantalla-2023-11-24-214845.png](https://i.postimg.cc/y6vD95Rz/Captura-de-pantalla-2023-11-24-214845.png)](https://postimg.cc/yW36CLnf)
 
-7. Editar usuario (GET):
+7. Obtener todos los profesores (GET):
 
    - Request:  http://localhost:8090/api/v1/profesores
 
