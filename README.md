@@ -1061,7 +1061,7 @@ Link: https://github.com/SI729-2302-WX52-Grupo-4/TutorsMe_WEB/pulse
 - Backend: 
 [![Captura-de-pantalla-2023-11-21-232930.png](https://i.postimg.cc/qRmBzf1F/Captura-de-pantalla-2023-11-21-232930.png)](https://postimg.cc/9R7Hnk5P)
 
-#### 5.2.3.6. Service Documentation Evidence for Sprint Review. (alessandro)
+#### 5.2.3.6. Service Documentation Evidence for Sprint Review.
 | Endpoint | HTTP | Acciones | Enlace |
 |-----------|-----------|-----------|-----------|
 | api/v1/users    |   GET      |   200 OK: Retorna la lista de los usuarios registrados        |  http://localhost:8090/api/v1/users|
@@ -1152,14 +1152,82 @@ Back-End :
 | | feature/US030   |...| Fix: UpdateUser | Fix: UpdateUser   | 19/10/2023         |
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
-(fotos de postman GET, POST, PUT, DELETE)
+
+1. Crear videoconferencia (POST):
+
+   - Request:  http://localhost:8090/api/v1/videoconference/new
+
+   - Response:
+
+   [![Captura-de-pantalla-2023-11-24-212929.png](https://i.postimg.cc/SNFsbhcq/Captura-de-pantalla-2023-11-24-212929.png)](https://postimg.cc/nM2ZqNdw)
+
+2. Editar usuario (GET):
+
+   - Request:  http://localhost:8090/api/v1/videoconference
+
+   - Response:
+
+   [![Captura-de-pantalla-2023-11-24-213020.png](https://i.postimg.cc/TY4t3tYR/Captura-de-pantalla-2023-11-24-213020.png)](https://postimg.cc/4mp68b9M)
+
+3. Editar usuario (PUT):
+
+   - Request:  http://localhost:8090/api/v1/videoconference/{id}
+
+   - Response:
+
+   [![Captura-de-pantalla-2023-11-24-213056.png](https://i.postimg.cc/dtbGfpVT/Captura-de-pantalla-2023-11-24-213056.png)](https://postimg.cc/GHjB8MYc)
+   
+4. Editar usuario (DELETE):
+
+   - Request:  http://localhost:8090/api/v1/videoconference/{id}
+
+   - Response:
+
+   [![Captura-de-pantalla-2023-11-24-213035.png](https://i.postimg.cc/L4qT0z3w/Captura-de-pantalla-2023-11-24-213035.png)](https://postimg.cc/9zhZDwSY)
+
+5. Editar usuario (PUT):
+
+   - Request:  http://localhost:8090/api/v1/users/userEdit/{id}
+
+   - Response:
+
+   [![Captura-de-pantalla-2023-11-24-212852.png](https://i.postimg.cc/c1Mq6yVd/Captura-de-pantalla-2023-11-24-212852.png)](https://postimg.cc/3WRfb68q)
+
+6. Editar usuario (POST):
+
+   - Request:  http://localhost:8090/api/v1/profesor/new
+
+   - Response:
+
+   [![Captura-de-pantalla-2023-11-24-214845.png](https://i.postimg.cc/y6vD95Rz/Captura-de-pantalla-2023-11-24-214845.png)](https://postimg.cc/yW36CLnf)
+
+7. Editar usuario (GET):
+
+   - Request:  http://localhost:8090/api/v1/profesores
+
+   - Response:
+
+   [![Captura-de-pantalla-2023-11-24-214855.png](https://i.postimg.cc/8PLP40J5/Captura-de-pantalla-2023-11-24-214855.png)](https://postimg.cc/rKFkFg9X)
+
 
 #### 5.2.4.5.	Execution Evidence for Sprint Review.
 FOTOS DE LA PAGINA (CREAR CUENTA, LOGIN, APARTADO PROFESORES, VIDEOCONFENREICA)  TAMBIEN ES SWAGGER
 
 #### 5.2.4.6.	Services Documentation for Sprint Review.
 
-TABLA DE GET, POST, PUT DELETE, CON SU LINK Y SU INFO DE ACCION
+| Endpoint | HTTP | Acciones | Enlace |
+|-----------|-----------|-----------|-----------|
+| api/v1/users    |   GET      |   200 OK: Retorna la lista de los usuarios registrados        |  http://localhost:8090/api/v1/users|
+| api/v1/login   |     POST      | 201 Created: Verifica si el usuario ingresado se encuentra en la base de dato          |  http://localhost:8090/api/v1/login|
+| api/v1/login/new   |    POST       | 201 Created: Crea y retorna el el usuario que se ha creado de manera exitosa           |  http://localhost:8090/api/v1/login/new|
+| api/v1/{Id}   |     DELETE      |    200 OK: Elimina el usuario creado     |  http://localhost:8090/api/v1/{id}|
+|    |         |           |  |
+|    |         |           |  |
+|    |         |           |  |
+|    |         |           |  |
+|    |         |           |  |
+|    |         |           |  |
+|    |         |           |  |
 
 #### 5.2.4.7.	Software Deploymet Evidence for Sprint Review.
 
