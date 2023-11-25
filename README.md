@@ -792,7 +792,6 @@ https://www.figma.com/proto/0xCE15wkhHyODenKqzeTlC/landing-open?type=design&node
 [![Captura-de-pantalla-2023-09-28-014442.png](https://i.postimg.cc/9fkgQtST/Captura-de-pantalla-2023-09-28-014442.png)](https://postimg.cc/WDMw9rsb)
 ##### 4.4.2.3 Preguntas y respuestas
 [![Captura-de-pantalla-2023-09-28-014448.png](https://i.postimg.cc/Rh4DkCyb/Captura-de-pantalla-2023-09-28-014448.png)](https://postimg.cc/bDVgbPzQ)
-### 4.4.3. Web Application Flow Diagrams (Giako)
 
 
 ## 4.5. Web Application Prototyping
