@@ -1211,7 +1211,29 @@ Back-End :
 
 
 #### 5.2.4.5.	Execution Evidence for Sprint Review.
-FOTOS DE LA PAGINA (CREAR CUENTA, LOGIN, APARTADO PROFESORES, VIDEOCONFENREICA)  TAMBIEN ES SWAGGER
+- Pantalla de registro
+
+[![Captura-de-pantalla-2023-11-24-223601.png](https://i.postimg.cc/jSH6VT2J/Captura-de-pantalla-2023-11-24-223601.png)](https://postimg.cc/68Q4RDd9)
+
+- Pantalla de inicio de sesion
+
+[![Captura-de-pantalla-2023-11-24-223551.png](https://i.postimg.cc/BbPDm9Rb/Captura-de-pantalla-2023-11-24-223551.png)](https://postimg.cc/JHmGhgrC)
+
+- Pantalla principal
+
+[![Captura-de-pantalla-2023-11-24-211818.png](https://i.postimg.cc/9Fxq5ftS/Captura-de-pantalla-2023-11-24-211818.png)](https://postimg.cc/bstv1p5H)
+
+- Profesores favoritos y cursos inscritos
+
+[![Captura-de-pantalla-2023-11-24-224022.png](https://i.postimg.cc/fRRdP9G1/Captura-de-pantalla-2023-11-24-224022.png)](https://postimg.cc/gn1rXnkK)
+
+- Editar informacion de la cuenta
+
+[![Captura-de-pantalla-2023-11-24-205316.png](https://i.postimg.cc/Y07GzGNn/Captura-de-pantalla-2023-11-24-205316.png)](https://postimg.cc/R6PZM0DK)
+
+- Videoconferencias
+
+[![Captura-de-pantalla-2023-11-24-211916.png](https://i.postimg.cc/0jC6Wkc8/Captura-de-pantalla-2023-11-24-211916.png)](https://postimg.cc/sGvD1Rk8)
 
 #### 5.2.4.6.	Services Documentation for Sprint Review.
 
@@ -1219,25 +1241,61 @@ FOTOS DE LA PAGINA (CREAR CUENTA, LOGIN, APARTADO PROFESORES, VIDEOCONFENREICA) 
 |-----------|-----------|-----------|-----------|
 | api/v1/users    |   GET      |   200 OK: Retorna la lista de los usuarios registrados        |  http://localhost:8090/api/v1/users|
 | api/v1/login   |     POST      | 201 Created: Verifica si el usuario ingresado se encuentra en la base de dato          |  http://localhost:8090/api/v1/login|
-| api/v1/login/new   |    POST       | 201 Created: Crea y retorna el el usuario que se ha creado de manera exitosa           |  http://localhost:8090/api/v1/login/new|
+| api/v1/login/new   |    POST       | 201 Created: Crea y retorna el usuario que se ha creado de manera exitosa           |  http://localhost:8090/api/v1/login/new|
 | api/v1/{Id}   |     DELETE      |    200 OK: Elimina el usuario creado     |  http://localhost:8090/api/v1/{id}|
-|    |         |           |  |
-|    |         |           |  |
-|    |         |           |  |
-|    |         |           |  |
-|    |         |           |  |
-|    |         |           |  |
-|    |         |           |  |
+| api/v1/videoconference/new   | POST        | 201 Created: Crea y retorna la videoconferencia creada de manera exitosa          |http://localhost:8090/api/v1/videoconference/new  |
+| api/v1/videoconference   |   GET      |  200 OK: Retorna la lisla de las videosconferencias creadas         | http://localhost:8090/api/v1/videoconference  |
+| api/v1/videoconference/{id}   |     PUT    |    200 OK: Actualiza y retorna la informacion requerida de las videosconferencias con el ID esecificado       |http://localhost:8090/api/v1/videoconference/{id}  |
+|  api/v1/videoconference/{id}  | DELETE        |  200 OK: Elimina la videoconferencia creada       | http://localhost:8090/api/v1/videoconference/{id}  |
+| api/v1/users/userEdit/{id}   |  PUT       |   200 OK: Actualiza y retorna la informacion editada del usuario con la ayuda de su ID especificado         | http://localhost:8090/api/v1/users/userEdit/{id} |
+|  api/v1/profesor/new  |   POST      |   201 Created: Crea y retorna a un profesor con su informacion esencial        |  http://localhost:8090/api/v1/profesor/new |
+|  api/v1/profesores  |     GET    | 200 OK: Retorna la lista de los profesores creados          | http://localhost:8090/api/v1/profesores |
 
 #### 5.2.4.7.	Software Deploymet Evidence for Sprint Review.
 
-link de landing page
-link de la pagina funcionando con backend y todo
-link de swagger (apipoint)
+Deploy de Landing Page: Se uso Github Pages
+
+Se puede encontrar en el siguiente enlace: https://si729-2302-wx52-grupo-4.github.io/LandingPage/
+
+[![Captura-de-pantalla-2023-11-24-221337.png](https://i.postimg.cc/yxsSBgGq/Captura-de-pantalla-2023-11-24-221337.png)](https://postimg.cc/5YKtS01p)
+
+
+link de la pagina funcionando con ayuda de github pages que es el siguiente link:
+
+ https://si729-2302-wx52-grupo-4.github.io/FrontEnd_TutorsMe_WEB/
+
+[![Captura-de-pantalla-2023-11-24-211818.png](https://i.postimg.cc/9Fxq5ftS/Captura-de-pantalla-2023-11-24-211818.png)](https://postimg.cc/bstv1p5H)
+
+
+Deploy Web Services: Para el despliegue de la API se usó la plataforma Render, la cual 
+nos permite desplegar nuestra aplicación de forma gratuita. Pero solo usa ciertos 
+lenguajes, es por eso que se dockerizo la aplicacion y asi exponer su imagen para su 
+posterior despliegue: Esto nos permite tener un servicio web a la cual se puede acceder 
+desde el siguiente enlace:
+
+ http://localhost:8090/swagger-ui/index.html
+
+[![Captura-de-pantalla-2023-11-24-222111.png](https://i.postimg.cc/9F3c4HXM/Captura-de-pantalla-2023-11-24-222111.png)](https://postimg.cc/MXYC44Q2)
 
 #### 5.2.4.8.	Team Collaboration Insights during Sprint.
 
-fotos de github los COMMITS, NETWORK GRAPH, en el frontend y backend
+Front-End Collaboration Insights
+ - GitHub Network Graph
+
+ [![Captura-de-pantalla-2023-11-24-222600.png](https://i.postimg.cc/Y2PhbPrK/Captura-de-pantalla-2023-11-24-222600.png)](https://postimg.cc/kDxJ5fRf)
+
+ - Commit contribution
+
+ [![Captura-de-pantalla-2023-11-24-222940.png](https://i.postimg.cc/jj9SZwT6/Captura-de-pantalla-2023-11-24-222940.png)](https://postimg.cc/zLCNffV3)
+
+Back-End Collaboration Insights
+  - GitHub Network Graph
+
+  [![Captura-de-pantalla-2023-11-24-223112.png](https://i.postimg.cc/Bnb3kSMm/Captura-de-pantalla-2023-11-24-223112.png)](https://postimg.cc/ykM2SHqR)
+
+  - Commit contribution
+
+  [![Captura-de-pantalla-2023-11-24-223146.png](https://i.postimg.cc/FKJ4FPtc/Captura-de-pantalla-2023-11-24-223146.png)](https://postimg.cc/Z9ZgVx5K)
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas 
@@ -1272,52 +1330,84 @@ En la entrevista, el alumno Max Arroyo nos comparte su opnion sobre nuestra apli
 
 ### 5.3.3. Evaluación según heurísticas 
 Tareas a evaluar:
-- Registro de un nuevo usuario
-- Validar el login con el usuario creado
-- Actualizar cuenta
+- Editar informacion del usuario
+- Ninguna notificacion a la hora de crear una cuenta
+- Videoconferencia no sabe en nombre del creador de la sesion (usuario)
+- Los profesores se agregan de manera manual en el backend
+- A la hora de cerrar sesion no cierra completamente la cuenta
 
 Tabla de resumen
 
 | #Orden | Problema | Escala de severidad | Heuristica/Principio violada/o |
 |-----------|-----------|-----------|-----------|
-| #1    | Resgistro de un nuevo usuario  | 2  | No se guarda de manera total todos los datos desde frontend hacia el backend  |
-| #2    | Validar el login con el usuario creado  | 3  | No se valida si existe ese usuario e ingrese en esa cuenta  |
-| #3    | Actualizar cuenta  | 2  | No actualiza todos los datos correspondientes  |
+| #1    | Editar informacion del usuario | 2  | no se conecta con el frontend  |
+| #2    | Ninguna notificacion a la hora de crear una cuenta  | 1  | no aparece ninguna notificacion para saber si pude crear la cuenta o no  |
+| #3    | Videoconferencia no sabe en nombre del creador de la sesion (usuario)  | 1  | No agarra el nombre del usuario |
+| #4    | Los profesores se agregan de manera manual en el backend  | 2  | error al conectar en el frontend  |
+| #5    | A la hora de cerrar sesion no cierra completamente la cuenta  | 3  | parece que saliera de la cuenta pero la informacion de la cuenta sigue ahi  |
 
-- **Problema #1: Registro de un nuevo usuario**
+- **Problema #1: Editar informacion del usuario**
 
    severidad: 2
 
-   Heuristica violada: No se guarda de manera total todos los datos desde frontend hacia el backend 
+   Heuristica violada: no se conecta con el frontend
    
-   Problema: El proceso de registro aun no está completo, no se puede crear una cuenta o algun metodo de verificar si existe
-   [![Captura-de-pantalla-2023-11-23-234215.png](https://i.postimg.cc/5yTFhKXY/Captura-de-pantalla-2023-11-23-234215.png)](https://postimg.cc/FkbRcZgN)
-   
-   Recomendacion: Añadir métodos de verificación de cuenta, solicitando solo la información esencial inicialmente 
+   Problema: El frontend no detecta los cambios realizados de la cuenta pero si se realizan los cambios desde el backend mismo
 
-- **Problema #2: Registro de un nuevo usuario**  
+   [![Captura-de-pantalla-2023-11-24-205316.png](https://i.postimg.cc/Y07GzGNn/Captura-de-pantalla-2023-11-24-205316.png)](https://postimg.cc/R6PZM0DK)
+   
+   
+   Recomendacion: implementar un buen ruteo con la api asignada y poner una logica entendible para la accion sea detectada
+
+- **Problema #2: Ninguna notificacion a la hora de crear una cuenta**
+
+   severidad: 1
+
+   Heuristica violada:  no aparece ninguna notificacion para saber si pude crear la cuenta o no
+   
+   Problema: A la hora de crear la cuenta no muestra nada como si no hubiera pasado absolutamente nada.
+   
+   [![Captura-de-pantalla-2023-11-24-230132.png](https://i.postimg.cc/1zZrjtKF/Captura-de-pantalla-2023-11-24-230132.png)](https://postimg.cc/v43n1Gk8)
+   
+   Recomendacion: agregar un panel de "se agregó la cuenta con extio" para uno estar mas seguro si se creó la cuenta 
+
+- **Problema #3: Videoconferencia no sabe en nombre del creador de la sesion (usuario)**
+
+   severidad: 1
+
+   Heuristica violada: No agarra el nombre del usuario
+   
+   Problema: a la hora de crear una videoconferencia se ingresan los datos basicos, pero el nombre del "creador de la videoconferencia" no agarra el nombre del usuario que esta creando la sesion
+
+   [![Captura-de-pantalla-2023-11-24-230222.png](https://i.postimg.cc/XJjcnzm7/Captura-de-pantalla-2023-11-24-230222.png)](https://postimg.cc/Nynr4pQW)
+   
+   
+   Recomendacion: buscar una posibilidad de conexion entre videoconferencia y el nombre del usuario
+
+- **Problema #4: Los profesores se agregan de manera manual en el backend**
+
+   severidad: 2
+
+   Heuristica violada: error al conectar en el frontend 
+   
+   Problema: no hay otra manera mas sencilla que agregar los profes
+   
+   [![Captura-de-pantalla-2023-11-24-230324.png](https://i.postimg.cc/3NDyhj8x/Captura-de-pantalla-2023-11-24-230324.png)](https://postimg.cc/7JwPM2JF)
+   
+   Recomendacion: crear una cunta de profesor y automaticamente se podria observar la creacion de un nuevo profesor
+
+- **Problema #5: A la hora de cerrar sesion no cierra completamente la cuenta**
 
    severidad: 3
 
-   Heuristica violada: No se valida si existe ese usuario e ingrese en esa cuenta
-
-   Problema: La validacion de que al crear una cuenta y que con esa cuenta se ingrese a la pagina aun no esta completa, no se valida o se especifica con que cuenta se esta ingresando
-
-   [![Captura-de-pantalla-2023-11-23-234052.png](https://i.postimg.cc/gJ4VTKy8/Captura-de-pantalla-2023-11-23-234052.png)](https://postimg.cc/477HKVSx)
-
-   Recomendacion: Añadir a un lado de la pagina o decir un texto en la esquina superior derecha de la pagina el nombre del usuario de la cuenta ingresada
-
-- **Problema #3: Actualizar cuenta**
-
-   severidad: 2
+   Heuristica violada: parece que saliera de la cuenta pero la informacion de la cuenta sigue ahi
    
-   Heuristica violada: No actualiza todos los datos correspondientes
+   Problema: no se guardan los datos en la cuenta, si no se permaneces en la pagina web
+   
+   [![Captura-de-pantalla-2023-11-24-230506.png](https://i.postimg.cc/nhnv45VK/Captura-de-pantalla-2023-11-24-230506.png)](https://postimg.cc/WhfFj5kt)
+   
+   Recomendacion: que pueda reconocer cuando cierra la cuenta, y que pueda reconocer la informacion personal de cada cuenta de manera directa desde backend hacia en frontend
 
-   Problema: El proceso de subscribir los datos ya creados en una cuenta y editarlas (nombre, apellido, fecha de nacimiento, contraseña y gmail) esta aun inconclusa, no se edita de manera satisfactoria
-
-   [No imagen]
-
-   Recomendacion: Añadir un apartado de poder ver la informacion de la cuenta que se ingresó y poder editarlo ahi directamente todos los datos o informacion que dese el usuario
 
 
 ## 5.3. Video about the product 
