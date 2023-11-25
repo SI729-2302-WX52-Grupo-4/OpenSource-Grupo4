@@ -1473,6 +1473,8 @@ En última instancia al seguir estas recomendaciones y mantener un enfoque centr
 
 Link del video about the team:
 
+https://youtu.be/iKgxzDd-MgA
+
 
 
 ## BIBLIOGRAFÍA
