@@ -1130,8 +1130,8 @@ Back-End :
 |Sprint 4 Retrospective Summary|-|
 |**Sprint Goal & User Stories**||
 |Sprint 4 Goal|Desplegar la version final del Front-End y desplegar la versión final del Back-End.|
-|Sprint 4 Velocity|" " story point|
-|Sum of Story Points|La suma de Story Points para el Sprint es de n.|
+|Sprint 4 Velocity|9 story point|
+|Sum of Story Points|La suma de Story Points para el Sprint es de 8.|
 
 #### 5.2.4.2. Sprint Backlog 4.
 | Sprint #   |  Sprint 4         |      |                                             |                                                                                                                                                                                  |                    |                                |        |
@@ -1147,9 +1147,9 @@ Back-End :
 
 | Repository | Branch | Commit ID | Commit Message    | Commit Message Body | Commited on (Date) |
 |---------|--------|---------|-------------------|------|--------------------|
-|SI729-2302-WX52-Grupo-4/LandingPage  | feature/US002   | ... | Fix: Updatelogin           | Fix: Updatelogin    | 18/10/2023         |
-|  | feature/US004   | ... | Fix: AddVideoconference            | Fix: AddVideoconference  | 18/10/2023         |
-| | feature/US030   |...| Fix: UpdateUser | Fix: UpdateUser   | 19/10/2023         |
+|SI729-2302-WX52-Grupo-4/LandingPage  | feature/US002   | ea297f4984cfacd24ad4d8388fe2a3b322762a9e | Fix: Updatelogin           | Fix: Updatelogin    | 18/10/2023         |
+|  | feature/US004   | d337f78042cec04fd799d2185a7171e800d76aa1 | Fix: AddVideoconference            | Fix: AddVideoconference  | 18/10/2023         |
+| | feature/US030   |a137b74fcd83c10fc21a98d1a02da6f9de255eee| Fix: UpdateUser | Fix: UpdateUser   | 19/10/2023         |
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
@@ -1234,6 +1234,14 @@ Back-End :
 - Videoconferencias
 
 [![Captura-de-pantalla-2023-11-24-211916.png](https://i.postimg.cc/0jC6Wkc8/Captura-de-pantalla-2023-11-24-211916.png)](https://postimg.cc/sGvD1Rk8)
+
+- ApiRest 
+
+[![Captura-de-pantalla-2023-11-24-211720.png](https://i.postimg.cc/3x7MQgYr/Captura-de-pantalla-2023-11-24-211720.png)](https://postimg.cc/tYrvhns8)
+
+[![Captura-de-pantalla-2023-11-24-211723.png](https://i.postimg.cc/qvGPJzvs/Captura-de-pantalla-2023-11-24-211723.png)](https://postimg.cc/jDLgvqN2)
+
+[![Captura-de-pantalla-2023-11-24-211726.png](https://i.postimg.cc/B6jkBpcp/Captura-de-pantalla-2023-11-24-211726.png)](https://postimg.cc/fth8wxPS)
 
 #### 5.2.4.6.	Services Documentation for Sprint Review.
 
@@ -1410,5 +1418,91 @@ Tabla de resumen
 
 
 
-## 5.3. Video about the product 
+## 5.4. Video about the product 
 
+Link del video del About the product:
+
+https://youtu.be/xEddj4QSPls
+
+
+# Conclusiones
+## Conclusiones y recomendaciones.
+
+- Conclusion 
+
+Tutor'sMe representa una respuesta eficaz y visionaria a los desafíos educativos y laborales que enfrenta actualmente el Perú. Al conectar profesionales de la educación con oportunidades laborales y ofrecer a los estudiantes un acceso fácil a maestros calificados, estamos construyendo puentes que antes eran inexistentes. La falta de acceso a clases de calidad y las dificultades para que los profesores desempleados encuentren oportunidades laborales adecuadas son problemas que no solo afectan a individuos, sino que también tienen un impacto económico significativo en el país. Tutor'sMe no solo aborda estas problemáticas, sino que también contribuye al desarrollo educativo y profesional en la nación.
+
+La visión de expandirnos internacionalmente no solo representa un ambicioso objetivo, sino también un compromiso con la mejora continua y la adaptación a las crecientes necesidades globales. Al hacerlo, no solo aspiramos a beneficiar a más personas necesitadas de empleo, sino que también deseamos ser un catalizador para que otras regiones adopten soluciones similares y fomenten un ecosistema educativo y laboral más equitativo.
+
+- Recomendaciones:
+
+Feedback Continuo:
+
+Implementar un sistema robusto de retroalimentación tanto de estudiantes como de profesores para garantizar la mejora continua de la plataforma.
+
+Partnerships Estratégicos:
+
+Buscar alianzas estratégicas con instituciones educativas, empresas y organizaciones gubernamentales para ampliar el alcance y la efectividad de Tutor'sMe.
+
+Desarrollo de Características Adicionales:
+
+Considerar la adición de funciones avanzadas, como clases en vivo, recursos multimedia y herramientas de evaluación para enriquecer la experiencia educativa.
+
+Marketing Focalizado:
+
+Desarrollar campañas de marketing específicas para atraer a más profesores y estudiantes, destacando los beneficios únicos de Tutor'sMe.
+
+Garantía de Calidad Docente:
+
+Implementar un riguroso proceso de verificación y certificación para garantizar la calidad y confiabilidad de los profesores registrados en la plataforma.
+
+Adaptabilidad Tecnológica:
+
+Estar atentos a las tendencias tecnológicas emergentes y adaptar la plataforma en consecuencia para mantener la relevancia y la competitividad.
+
+Inclusividad:
+
+Asegurarse de que la plataforma sea accesible y útil para una amplia gama de estudiantes, incluidos aquellos con necesidades especiales.
+
+Desarrollo Sostenible:
+
+Considerar iniciativas que promuevan la sostenibilidad ambiental y la responsabilidad social, contribuyendo así a un impacto positivo en la comunidad.
+
+En última instancia al seguir estas recomendaciones y mantener un enfoque centrado en el usuario, estamos seguros de que podemos lograr un impacto positivo sostenible y contribuir al cambio que queremos ver en el mundo educativo y laboral. ¡Adelante hacia un futuro brillante con Tutor'sMe!
+
+## Video About-the-Team.
+
+Link del video about the team:
+
+
+
+## BIBLIOGRAFÍA
+• Bulgakova, O. S., Zosimov, V. V., & Popravkin, P. D. (2020). Storing JWT Token 
+in Local Variables. Control systems & computers.Recuperado de: 
+http://dspace.nbuv.gov.ua/handle/123456789/181236
+
+• Espinoza, O, et.al (2011). Diagnóstico del Manejo de los Residuos Electrónicos en 
+el Perú. Recuperado de: https://www.cooperacionsuiza.pe/wpcontent/uploads/2011/04/diagnostico-raee.pdf [Consulta: 27/08/2023]
+
+• Ministerio del Ambiente. (2017). Gestion responsable de los RAEE. Recuperado de: 
+https://www.facebook.com/MinamPeru/posts/10156008189124973/ [Consulta: 
+27/08/2023]
+
+• Sustainable Cycles (SCTCLE) Programme. (2020). The Global E-waste Monitor 
+2020- Quantitiesm flows, and the circular economy potential. Recuperado de: 
+https://ewastemonitor.info/gem-2020/ [Consulta: 27/08/2023]
+
+• Y. Liu, Q. Lu, H. -Y. Paik, X. Xu, S. Chen and L. Zhu, "Design Pattern as a Service 
+for Blockchain-Based Self-Sovereign Identity," in IEEE Software, vol. 37, no. 5, pp. 
+30-36, Sept.-Oct. 2020, doi: 10.1109/MS.2020.2992783.
+
+## Anexos
+- Enlace de nuestro Landing Page : https://si729-2302-wx52-grupo-4.github.io/LandingPage/
+
+- Web Style guidlines : https://www.figma.com/file/zikguIM5Olq6Jjh2AOK6Fg/Untitled?type=design&node-id=0%3A1&mode=design&t=NavU9YbsxgRgNeOi-1
+
+- Repositorio de nuestro FrontEnd : https://github.com/SI729-2302-WX52-Grupo-4/FrontEnd_TutorsMe_WEB
+
+- Repositorio de nuestro BackEnd : https://github.com/SI729-2302-WX52-Grupo-4/Backend_Tutor-sWeb
+
+- Enlace de databes diagram : https://my.vertabelo.com/public-model-view/OFRztkScrpJI4FTVRFyhEKOF7JfJgHyJAdOtwc6pvHXk7RbZetuu37LQR8eos5rs?x=2885&y=2906&zoom=0.4192
